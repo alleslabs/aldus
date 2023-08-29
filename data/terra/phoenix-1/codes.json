@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "edge",
+    "name": "eToken",
+    "id": 895,
+    "description": "Edge eToken code"
+  },
+  {
+    "slug": "edge",
+    "name": "Pool",
+    "id": 896,
+    "description": "Edge pool code"
+  },
+  {
+    "slug": "edge",
+    "name": "Oracle",
+    "id": 897,
+    "description": "Edge oracle code"
+  },
+  {
+    "slug": "edge",
+    "name": "Liquidator",
+    "id": 898,
+    "description": "Edge liquidator oracle"
+  }
+]

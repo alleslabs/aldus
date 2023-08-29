@@ -1,0 +1,3522 @@
+[
+  {
+    "slug": "aave",
+    "name": "Aave",
+    "website": "https://aave.com",
+    "github": "https://github.com/aave",
+    "logo": "aave.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/aaveaave"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Aavesome"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/CvKUrqM"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "agoric",
+    "name": "Agoric",
+    "website": "https://agoric.com",
+    "github": "",
+    "logo": "agoric.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/agoric"
+      },
+      {
+        "name": "telegram",
+        "url": "https://agoric.com/telegram"
+      },
+      {
+        "name": "discord",
+        "url": "https://agoric.com/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "akash",
+    "name": "Akash Network",
+    "website": "https://akash.network",
+    "github": "https://github.com/ovrclk",
+    "logo": "akash.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/akashnet_"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/AkashNW"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/akash"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "alter",
+    "name": "Alter",
+    "website": "https://alter.network",
+    "github": "",
+    "logo": "alter.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AlterDapp"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/alterdapp"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/jyTnQnpnbU"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "andromeda",
+    "name": "Andromeda Protocol",
+    "website": "https://andromedaprotocol.io/",
+    "github": "https://github.com/andromedaprotocol",
+    "logo": "andromeda.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AndromedaProt"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/andromedaprotocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/GBd6buKYyZ"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "aperture",
+    "name": "Aperture",
+    "website": "https://aperture.finance",
+    "github": "",
+    "logo": "aperture.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ApertureFinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/aperture_finance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/cWHQFH3GTz"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO",
+    "website": "https://apollo.farm",
+    "github": "https://github.com/apollodao",
+    "logo": "apollodao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ApolloDAO"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/apollodao"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/hHvrqk6qTT"
+      }
+    ],
+    "description": "Apollo DAO is building the necessary apps and infrastructure to securely manage assets and optimize yield across the Cosmos ecosystem."
+  },
+  {
+    "slug": "arbie",
+    "name": "Arbie",
+    "website": "https://arbie.app/",
+    "github": "",
+    "logo": "arbie.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ArbieApp"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/ArbieTheBot"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "astral-money",
+    "name": "Astral Money",
+    "website": "https://astral.money",
+    "github": "",
+    "logo": "astral-money.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/astral_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/AstralMoneyOfficial"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport",
+    "website": "https://astroport.fi",
+    "github": "https://github.com/astroport-fi",
+    "logo": "astroport.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/astroport-fi"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/astroport_fi"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/astroport"
+      }
+    ],
+    "description": "Bringing liquidity to Cosmos tokens from all parts of the galaxy."
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Network",
+    "website": "https://www.autonomynetwork.io/",
+    "github": "https://github.com/Autonomy-Network",
+    "logo": "autonoomy.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AutonomyNetwork"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/kbDwaW7jfv"
+      }
+    ],
+    "description": "A leading multi-chain smart contract automation protocol, powering the existing and upcoming use cases in the Web 3.0 space"
+  },
+  {
+    "slug": "avalanche",
+    "name": "Avalanche",
+    "website": "https://avax.network",
+    "github": "https://github.com/ava-labs",
+    "logo": "avalanche.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/avalancheavax"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/avalancheavax"
+      },
+      {
+        "name": "discord",
+        "url": "https://chat.avax.network/"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "axelar",
+    "name": "Axelar",
+    "website": "https://axelar.network",
+    "github": "https://github.com/axelarnetwork",
+    "logo": "axelar.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/axelarcore"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/aRZ3Ra6f7D"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "axie",
+    "name": "Axie Infinity",
+    "website": "https://axieinfinity.com",
+    "github": "",
+    "logo": "axie.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/axieinfinity"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/axie"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "backbone-labs",
+    "name": "BackBone Labs",
+    "website": "https://backbonelabs.io",
+    "github": "",
+    "logo": "backbone-labs.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/BackBone_Labs"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Wgq8K662f8"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "band",
+    "name": "Band Protocol",
+    "website": "https://bandprotocol.com",
+    "github": "https://github.com/bandprotocol",
+    "logo": "band.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/bandprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/bandprotocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://100x.band/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "binance",
+    "name": "Binance",
+    "website": "https://binance.com",
+    "github": "https://github.com/binance",
+    "logo": "binance.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://binance.com"
+      },
+      {
+        "name": "telegram",
+        "url": "https://www.binance.com/en/community"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/jE4wt8g2H2"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "bitcanna",
+    "name": "Bitcanna",
+    "website": "https://bitcanna.io",
+    "github": "https://github.com/BitCannaGlobal",
+    "logo": "bitcanna.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/BitcannaGlobal"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/BitcannaGlobal"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/97wUcHqxxE"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "website": "https:/bitcoin.org",
+    "github": "https://github.com/bitcoin",
+    "logo": "bitcoin.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Bitcoin"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "bithumb",
+    "name": "Bithumb",
+    "website": "https://bitglobal.com",
+    "github": "",
+    "logo": "bithumb.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/BithumbGlobal"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/bithumbglobal_EN"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "bitsong",
+    "name": "BitSong",
+    "website": "https://bitsong.io",
+    "github": "https://github.com/BitSongOfficial",
+    "logo": "bitsong.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/BitSongOfficial"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/BitSongOfficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/mZC9Yk3"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "builder-council",
+    "name": "Builder Council",
+    "website": "",
+    "github": "",
+    "logo": "terra.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "canto",
+    "name": "Canto",
+    "website": "https://canto.io",
+    "github": "https://github.com/Canto-Network",
+    "logo": "canto.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/cantopublic"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ucRX6XCFbr"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "capapult",
+    "name": "Capapult",
+    "website": "https://capapult.finance",
+    "github": "",
+    "logo": "capapult.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/capapult"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://terra.sc/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "chainlink",
+    "name": "Chainlink",
+    "website": "https://chainlink",
+    "github": "https://github.com/smartcontractkit",
+    "logo": "chainlink.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/chainlink"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/chainlinkofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://chain.link/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "chihuahua",
+    "name": "Chihuahua",
+    "website": "https://chihuahua.wtf",
+    "github": "https://github.com/chihuahuachain",
+    "logo": "chihuahua.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ChihuahuaChain"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/chihuahua_cosmos"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/chihuahua"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "circle",
+    "name": "Circle",
+    "website": "https://circle.com",
+    "github": "",
+    "logo": "circle.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/circle"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/buildoncircle"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "coinex",
+    "name": "Coinex",
+    "website": "https://www.coinex.com/",
+    "github": "",
+    "logo": "coinex.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/coinexcom"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/CoinExOfficialEN"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "coinhall",
+    "name": "Coinhall",
+    "website": "https://coinhall.org",
+    "github": "https://github.com/coinhall",
+    "logo": "coinhall.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/coinhall_org"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/coinhall_org"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "coinone",
+    "name": "Coinone",
+    "website": "https://coinone.co.kr",
+    "github": "",
+    "logo": "coinone.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CoinoneOfficial"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "comdex",
+    "name": "Comdex",
+    "website": "https://comdex.one",
+    "github": "https://github.com/comdex-official",
+    "logo": "comdex.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/ComdexOfficial"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/ComdexChat"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/7vjPvWKKMT"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "core-distribution-module",
+    "name": "Core Distribution Module",
+    "website": "",
+    "github": "",
+    "logo": "",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "core-staking-module",
+    "name": "Core Staking Module",
+    "website": "",
+    "github": "",
+    "logo": "",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "cosmos-hub",
+    "name": "Cosmos Hub",
+    "website": "https://cosmos.network",
+    "github": "https://github.com/cosmos",
+    "logo": "cosmos-hub.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/cosmoshub"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/cosmosproject"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/cosmosnetwork"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "crescent",
+    "name": "Crescent",
+    "website": "https://crescent.network",
+    "github": "https://github.com/crescent-network",
+    "logo": "crescent.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CrescentHub"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/crescentnetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ZUfrDnSX8G"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "cronos",
+    "name": "Cronos",
+    "website": "https://cronos.org",
+    "github": "",
+    "logo": "cronos.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/cronos_chain"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Cryptoorg_Chain_Announcements"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/pahqHz26q4"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "cyberdeck",
+    "name": "Cyberdeck",
+    "website": "https://cyberdeck.money",
+    "github": "",
+    "logo": "cyberdeck.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CyberdeckMoney"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/cyberdeck"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "desmos",
+    "name": "Desmos",
+    "website": "https://desmos.network",
+    "github": "https://github.com/odin-protocol",
+    "logo": "desmos.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/desmosnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "edge",
+    "name": "Edge Protocol",
+    "website": "https://edgeprotocol.io",
+    "github": "",
+    "logo": "edge.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/EdgeProtocol"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/9kubGtuQ"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "emoney",
+    "name": "e-Money",
+    "website": "https:/e-money.com",
+    "github": "https://github.com/e-money",
+    "logo": "e-money.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/emoney_com"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/emoney_com"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "eris",
+    "name": "Eris Protocol",
+    "website": "https://erisprotocol.com",
+    "github": "https://github.com/erisprotocol",
+    "logo": "eris.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/eris_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/eris_protocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Liquid Staking and Slow Burn Arbitrage Protocol."
+  },
+  {
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "website": "https://ethereum.org/en/",
+    "github": "https://github.com/ethereum",
+    "logo": "ethereum.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ethdotorg"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/CetY6Y4"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "evmos",
+    "name": "Evmos",
+    "website": "https://evmos.org",
+    "github": "https://github.com/evmos",
+    "logo": "evmos.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/evmosorg"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/EvmosOrg"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/evmos"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "fanfury",
+    "name": "Fanfury",
+    "website": "https://fury.fan",
+    "github": "",
+    "logo": "desmos.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/FanfuryOfficial"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/fanfuryofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/fanfuryofficial"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "frax",
+    "name": "Frax",
+    "website": "https://frax.finance",
+    "github": "https://github.com/fraxfinance",
+    "logo": "frax.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/fraxfinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/fraxfinance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/UJVtDTFRaA"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "ftx",
+    "name": "FTX",
+    "website": "https://ftx.com",
+    "github": "",
+    "logo": "ftx.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/FTX_Official"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "galactic-punks",
+    "name": "Galactic Punks",
+    "website": "https://galacticpunks.io",
+    "github": "",
+    "logo": "galactic-punk.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/galactic_punks"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://t.co/6Yvro2bIGt"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "gravidao",
+    "name": "Gravidao",
+    "website": "",
+    "github": "",
+    "logo": "gravidao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/GraviDAO_"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://t.co/NH2r508aZ6"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "gravity",
+    "name": "Gravity Bridge",
+    "website": "https://gravitybridge.net",
+    "github": "https://github.com/gravity-bridge",
+    "logo": "gravity.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/gravity_bridge"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/d3DshmHpXA"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "hermes",
+    "name": "Hermes Protocol",
+    "website": "https://hermesprotocol.io",
+    "github": "https://github.com/hermesprotocol-io",
+    "logo": "hermes.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/hermesprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Hermes_Protocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://t.co/CKa7TjSQnS"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "hero-nft",
+    "name": "Hero NFT",
+    "website": "https://heronft.io",
+    "github": "",
+    "logo": "hero-nft.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Hero_NFT_"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/GFeuNazkch"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "huobi",
+    "name": "Huobi",
+    "website": "https://huobi.com",
+    "github": "",
+    "logo": "huobi.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/HuobiGlobal"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/huobiglobaloff"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/huobi"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "ibc-transfer-module",
+    "name": "IBC Transfer Module",
+    "website": "",
+    "github": "",
+    "logo": "",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "icns",
+    "name": "Interchain Name Service (ICNS)",
+    "website": "https:/icns.xyz",
+    "github": "https://github.com/icns-xyz",
+    "logo": "icns.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/icns_xyz"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "The Interchain Name Service provides the framework for interchain accounts to mint their own opt-in passports. legible, permissionless, decentrally verified identifying marks that make it easy to build a composable identity capable of moving seamlessly between chains"
+  },
+  {
+    "slug": "illiquid-labs",
+    "name": "Illiquid Labs",
+    "website": "",
+    "github": "",
+    "logo": "illiquid-labs.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/illiquid_labs"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "initia",
+    "name": "Initia",
+    "website": "https:/initia.tech",
+    "github": "https://github.com/initia-labs",
+    "logo": "initia.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/initiafnd"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "init innit"
+  },
+  {
+    "slug": "injective",
+    "name": "Injective",
+    "website": "https://injective.com",
+    "github": "https://github.com/injectivelabs",
+    "logo": "injective.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/injective_"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/joininjective"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/NK4qdbv"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "inter",
+    "name": "Inter Protocol",
+    "website": "https://inter.trade",
+    "github": "",
+    "logo": "ist.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/inter_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://inter.trade/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO",
+    "website": "https://ion.wtf",
+    "github": "",
+    "logo": "ion-dao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/_IONDAO"
+      },
+      {
+        "name": "telegram",
+        "url": " https://t.me/IONGovernanceWorkingGroup"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/9gD5wDaZWU"
+      }
+    ],
+    "description": "Building $IBCX, an index token for the Cosmos Ecosystem."
+  },
+  {
+    "slug": "iris",
+    "name": "IRIS Network",
+    "website": "https://irisnet.org",
+    "github": "https://github.com/irisnet",
+    "logo": "iris.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/irisnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/irisnetwork"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "juno",
+    "name": "Juno",
+    "website": "https://www.junonetwork.io/",
+    "github": "https://github.com/cosmoscontracts",
+    "logo": "juno.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JunoNetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/JunoNetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Juno"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "junoswap",
+    "name": "Junoswap",
+    "website": "https://junoswap.com",
+    "github": "https://github.com/cosmoscontracts",
+    "logo": "junoswap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/junoswapdex"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/JunoNetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/Juno"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "kado",
+    "name": "Kado",
+    "website": "https://kado.money",
+    "github": "",
+    "logo": "kado.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kado_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/joinchat/DBTEybbbFugwZjgx"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "A web3 payments infrastructure provider. Buy, sell, or swap with Kado."
+  },
+  {
+    "slug": "kava",
+    "name": "Kava Network",
+    "website": "https:/kava.io",
+    "github": "https://github.com/kava-labs",
+    "logo": "kava.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kava_platform"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/kavalabs"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/q6QuanE4bx"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "knowhere",
+    "name": "Knowhere",
+    "website": "https://knowhere.art",
+    "github": "",
+    "logo": "knowhere.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/knowhere_art"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/knowhereart"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.com/invite/QZpUznVftV"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "kraken",
+    "name": "Kraken",
+    "website": "https://kraken.com",
+    "github": "",
+    "logo": "kraken.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/krakenfx"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "kucoin",
+    "name": "Kucoin",
+    "website": "https://kucoin.com",
+    "github": "",
+    "logo": "kucoin.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kucoincom"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Kucoin_Exchange"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/kucoinofficial"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "kujira",
+    "name": "Kujira",
+    "website": "https://kujira.app",
+    "github": "https://github.com/team-kujira",
+    "logo": "kujira.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TeamKujira"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/team_kujira"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/teamkujira"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "leap",
+    "name": "Leap Wallet",
+    "website": "leapwallet.io",
+    "github": "",
+    "logo": "leap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/leap_wallet"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/leapwallet"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/HuZWPH6zHk"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "lfg",
+    "name": "LFG",
+    "website": "https://lfg.org/",
+    "github": "",
+    "logo": "lfg.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/LFG_org"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "lira",
+    "name": "Lira",
+    "website": "https://lira.financial",
+    "github": "",
+    "logo": "lira.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/lirafinancial"
+      },
+      {
+        "name": "telegram",
+        "url": " http://t.me/lirafinancial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/T8xUu9nhFn"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "local",
+    "name": "Local",
+    "website": "https://localmoney.io",
+    "github": "https://github.com/local-money",
+    "logo": "local.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/teamlocalmoney"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/meXhfQ8TWr"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "makerdao",
+    "name": "Maker",
+    "website": "https://makerdao.com",
+    "github": "https://github.com/makerdao",
+    "logo": "makerdao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/MakerDAO"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/makerdaoOfficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/RBRumCpEDH"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Protocol",
+    "website": "https://marsprotocol.io",
+    "github": "https://github.com/mars-protocol",
+    "logo": "terra-classic.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.marsprotocol.io"
+      },
+      {
+        "name": "telegram",
+        "url": "https://telegram.marsprotocol.io"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.marsprotocol.io"
+      }
+    ],
+    "description": "The galaxy's most powerful credit protocol."
+  },
+  {
+    "slug": "mirror",
+    "name": "Mirror",
+    "website": "https://mirrorprotocol.app",
+    "github": "https://github.com/mirror-protocol",
+    "logo": "mirror.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/mirror_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/mirror_protocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "moonbeam",
+    "name": "Moonbeam Network",
+    "website": "https://moonbeam.network",
+    "github": "https://github.com/PureStake",
+    "logo": "moonbeam.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/moonbeamnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Moonbeam_Official"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/PfpUATX"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "moonpay",
+    "name": "Moonpay",
+    "website": "https://www.moonpay.com/",
+    "github": "",
+    "logo": "moonpay.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/moonpay"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "neptune",
+    "name": "Neptune Finance",
+    "website": "https://nept.finance",
+    "github": "",
+    "logo": "neptune.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/neptune_finance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/neptunefinance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/bh8nFtcf5d"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron",
+    "website": "https:/neutron.org",
+    "github": "https://github.com/neutron-org",
+    "logo": "neutron.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/neutron_org"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/neutron_community"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/zRT2ZkQsxA"
+      }
+    ],
+    "description": "Smart Contract platform secured by Cosmos Hub"
+  },
+  {
+    "slug": "newton",
+    "name": "Newton",
+    "website": "https://www.newton.co/",
+    "github": "",
+    "logo": "",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/newtoncrypto"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "nftswitch",
+    "name": "NFTSwitch",
+    "website": "https://nftswitch.xyz",
+    "github": "",
+    "logo": "nftswitch.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/NFTswitch_xyz"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/nftswitch"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "obi",
+    "name": "Obi",
+    "website": "https://obi.money",
+    "github": "https://github.com/obi-wallet",
+    "logo": "obi.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Obi_Money_"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/theTerraBitesPod"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "odin",
+    "name": "Odin",
+    "website": "https://odinprotocol.io",
+    "github": "https://github.com/odin-protocol",
+    "logo": "odin.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/odinprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/odinprotocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/cUXKyRq"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "ogp",
+    "name": "Osmosis Grants Program (OGP)",
+    "website": "https://grants.osmosis.zone",
+    "github": "",
+    "logo": "ogp.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/OsmosisGrants"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Funding community projects that help Osmosis grow."
+  },
+  {
+    "slug": "okcoin",
+    "name": "OkCoin",
+    "website": "https://okcoin.com",
+    "github": "",
+    "logo": "okcoin.com",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Okcoin"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/okcoin_en"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "okx",
+    "name": "OKX",
+    "website": "https://okx.com",
+    "github": "",
+    "logo": "okx.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/okx"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/OKXOfficial_English"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/e6EyvM5QwM"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "orai",
+    "name": "Oraichain",
+    "website": "https://orai.io",
+    "github": "https://github.com/oraichain",
+    "logo": "orai.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/oraichain"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/oraichain"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/wwjg2ddfzd"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "orne",
+    "name": "Orne",
+    "website": "https://orne.io",
+    "github": "https://github.com/orne-io",
+    "logo": "orne.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/orne_i_o"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/orne_io"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Labs",
+    "website": "https://osmosis.zone",
+    "github": "https://github.com/osmosis-labs",
+    "logo": "osmosis.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/osmosiszone"
+      },
+      {
+        "name": "telegram",
+        "url": " https://t.me/osmosis_chat"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/osmosis"
+      }
+    ],
+    "description": "Osmosis Labs is the main contributors towards the Osmosis blockchain and DEX."
+  },
+  {
+    "slug": "outlet",
+    "name": "Outlet Finance",
+    "website": "https://outlet.finance",
+    "github": "",
+    "logo": "skip.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/outletfinance"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/5hZgzsPkAT"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "packs",
+    "name": "Packs",
+    "website": "https://www.packs.space/",
+    "github": "",
+    "logo": "packs.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/packs_space"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "pavo",
+    "name": "Pavo",
+    "website": "https://pavo.finance",
+    "github": "",
+    "logo": "pavo.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/pavo_finance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/pavofinance"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/cME7P6ySsM"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "paywithterra",
+    "name": "PaywithTerra",
+    "website": "https://paywithterra.org",
+    "github": "",
+    "logo": "paywithterra.org",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/PaywithTerra"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/PaywithTerra"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "persistence",
+    "name": "Persistence",
+    "website": "https://persistence.one",
+    "github": "https://github.com/persistenceOne",
+    "logo": "persistence.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/persistenceOne"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/PersistenceOne"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/qXRmTTGcYD"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "polkadot",
+    "name": "Polkadot",
+    "website": "https://polkadot.network",
+    "github": "https://github.com/paritytech",
+    "logo": "polkadot.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/polkadot"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://dot.li/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "polygon",
+    "name": "Polygon",
+    "website": "https://polygon.technology",
+    "github": "https://github.com/maticnetwork",
+    "logo": "polygon.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/0xPolygon"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/polygonofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/0xPolygon"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "posthuman",
+    "name": "Posthuman",
+    "website": "https://posthuman.digital",
+    "github": "",
+    "logo": "posthuman.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/POSTHUMAN_DVS"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/posthumanchat"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "prism",
+    "name": "Prism Protocol",
+    "website": "https://prismprotocol.app",
+    "github": "https://github.com/prism-finance",
+    "logo": "prism.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/prism_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/prism_protocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/mx4kjVG7zN"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "pulsar",
+    "name": "Pulsar Finance",
+    "website": "https://pulsar.finance",
+    "github": "",
+    "logo": "pulsar.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/pulsarfinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/pulsarfinance"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "quicksilver",
+    "name": "Quicksilver",
+    "website": "https:/quicksilver.zone",
+    "github": "",
+    "logo": "quicksilver.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/quicksilverzone"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/quicksilverzone"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/quicksilverprotocol"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "randomearth",
+    "name": "Randomearth",
+    "website": "https://randomearth.io",
+    "github": "",
+    "logo": "https://randomearth.io",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/randomearth_io"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/randomearth_io"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/4KDckJJajG"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "redacted-money",
+    "name": "Redacted Money",
+    "website": "https://redacted.money/",
+    "github": "",
+    "logo": "redacted.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/redacted_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/redactedmoney"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/huuTATPzhJ"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "reflexer",
+    "name": "Reflexer",
+    "website": "https://reflexer.finance",
+    "github": "https://github.com/reflexer-labs",
+    "logo": "reflexer.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/reflexerfinance"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/AXwXHGsTaJ"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "regen",
+    "name": "Regen Network",
+    "website": "https://regen.network",
+    "github": "https://github.com/regen-network",
+    "logo": "regen.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/regen_network"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/regennetwork_public"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/regen-network"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "regen",
+    "name": "Regen Network",
+    "website": "https://regen.network",
+    "github": "https://github.com/regen-network",
+    "logo": "regen.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/regen_network"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/regennetwork_public"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/regen-network"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "risk-harbor",
+    "name": "Risk Harbor",
+    "website": "https://riskharbor.com",
+    "github": "",
+    "logo": "risk-harbor.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/riskharbor"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/7aAC4p6vsr"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "sayve",
+    "name": "Sayve",
+    "website": "https://sayve.money",
+    "github": "",
+    "logo": "sayve.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sayve_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/SayveProtocolChat"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "scv",
+    "name": "SCV Security",
+    "website": "https://www.scv.services",
+    "github": "https://github.com/scv-security",
+    "logo": "scv.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/scv_security"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "secret",
+    "name": "Secret",
+    "website": "https://scrt.network",
+    "github": "https://github.com/secretfoundation",
+    "logo": "secret.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/secretnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/SCRTcommunity"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/SJK32GY"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "sei",
+    "name": "Sei",
+    "website": "https:/seinetwork.io",
+    "github": "https://github.com/sei-protocol",
+    "logo": "sei.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/seinetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/seinetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/sei"
+      }
+    ],
+    "description": "Sei is the fastest Layer 1 blockchain, designed to scale with the industry."
+  },
+  {
+    "slug": "sentinel",
+    "name": "Sentinel",
+    "website": "https://sentinel.co",
+    "github": "https://github.com/sentinel-official",
+    "logo": "sentinel.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sentinel_co"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/sentinel_co"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "setten",
+    "name": "Setten",
+    "website": "https://setten.io",
+    "github": "https://github.com/setten-io",
+    "logo": "setten.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/setten_io"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/setten_io"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "shade",
+    "name": "Shade Protocol",
+    "website": "https://shadeprotocol.io",
+    "github": "",
+    "logo": "shade.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Shade_Protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/ShadeProtocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ZghjpczcQF"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "sienna",
+    "name": "Sienna",
+    "website": "https://sienna.network",
+    "github": "https://github.com/siennanetwork",
+    "logo": "sienna.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sienna_network"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/GoSiennaNetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/jZk8ggm7XP"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "skip",
+    "name": "Skip Protocol",
+    "website": "https://skip.money",
+    "github": "",
+    "logo": "skip.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/skipprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Sovereign MEV infrastructure for sovereign blockchains and protocols"
+  },
+  {
+    "slug": "solana",
+    "name": "Solana",
+    "website": "https://solana.com",
+    "github": "https://github.com/solana-labs",
+    "logo": "solana.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/solana"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/solana"
+      },
+      {
+        "name": "discord",
+        "url": "https://discordapp.com/invite/pquxPsq"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "sommelier",
+    "name": "Sommelier",
+    "website": "https://sommelier.finance",
+    "github": "https://github.com/peggyjv",
+    "logo": "sommelier.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/sommfinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/getsomm"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/ZcAYgSBxvY"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Spectrum Protocol",
+    "website": "https://spec.finance",
+    "github": "https://github.com/spectrumprotocol",
+    "logo": "spectrum.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/specprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/spec_finance"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "stader",
+    "name": "Stader Labs",
+    "website": "https://staderlabs.com",
+    "github": "https://github.com/stader-labs",
+    "logo": "stader.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/staderlabs"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/staderlabs"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/xJURAhSmav"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze",
+    "website": "https://stargaze.zone",
+    "github": "https://github.com/public-awesome",
+    "logo": "stargaze.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/stargazezone"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/joinchat/ZQ95YmIn3AI0ODFh"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/stargaze"
+      }
+    ],
+    "description": "A community-owned app chain for NFTs and beyond. 100% carbon neutral. ZERO gas. Powered by CosmWasm and $STARS."
+  },
+  {
+    "slug": "starname",
+    "name": "Starname",
+    "website": "https://starname.me",
+    "github": "",
+    "logo": "starname.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/starname_me"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/starname_me"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/h4tAUN2MZ5"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "steak",
+    "name": "Steak",
+    "website": "https://liquidstaking.app/",
+    "github": "https://github.com/PFC-developer",
+    "logo": "steak.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/staderlabs"
+      },
+      {
+        "name": "telegram",
+        "url": "http://t.me/+PadO-WwMDxNjMGEx"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "streamswap",
+    "name": "StreamSwap",
+    "website": "https:/streamswap.io",
+    "github": "https://github.com/streamswapprotocol",
+    "logo": "streamswap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/streamswap_io"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/StreamSwap_io"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Interchain Launchpad with the underlying protocol supporting time-based token swaps."
+  },
+  {
+    "slug": "stride",
+    "name": "Stride",
+    "website": "https://stride.zone",
+    "github": "https://github.com/Stride-Labs",
+    "logo": "stride.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/stride_zone"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://stride.zone/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "talis",
+    "name": "Talis",
+    "website": "https://talis.art",
+    "github": "",
+    "logo": "talis.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ProtocolTalis"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/talisprotocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/PPceMyK7Fm"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "teritori",
+    "name": "Teritori",
+    "website": "https://teritori.com",
+    "github": "",
+    "logo": "teritori.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TeritoriNetwork"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/teritori"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terra",
+    "name": "TFL",
+    "website": "https://terra.money",
+    "github": "https://github.com/terra-money",
+    "logo": "terra.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terra-money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/TerraNetworkLobby"
+      },
+      {
+        "name": "discord",
+        "url": "https://terra.sc/discord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terra-classic",
+    "name": "Terra Classic",
+    "website": "https://classic-agora.terra.money",
+    "github": "",
+    "logo": "terra-classic.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terrac_money"
+      },
+      {
+        "name": "telegram",
+        "url": "t.me/terralunachat"
+      },
+      {
+        "name": "discord",
+        "url": "http://terra.sc/classicdiscord"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terra-poker",
+    "name": "Terra Poker",
+    "website": "https://terra.poker",
+    "github": "",
+    "logo": "terra-poker.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TP_TerraPoker"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.co/1tshon9adx"
+      },
+      {
+        "name": "discord",
+        "url": "https://t.co/OCupV8dC9S"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terrafirma",
+    "name": "Terrafirma",
+    "website": "",
+    "github": "",
+    "logo": "terrafirma.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Terrafirma_NFT"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/terrafirma_news"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terrafloki",
+    "name": "Terra Floki",
+    "website": "https://terrafloki.io",
+    "github": "",
+    "logo": "terrafloki.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/FlokiPunk_Terra"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/terrafloki"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/kre8hQa8CX"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terran-one",
+    "name": "Terran One",
+    "website": "https://terran.one",
+    "github": "https://github.com/terran-one",
+    "logo": "terran-one.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terran_one"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terrascope",
+    "name": "Terrascope",
+    "website": "https://terrasco.pe",
+    "github": "",
+    "logo": "terrascope.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terrascope_info"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Terraswap",
+    "website": "https://terraswap.io",
+    "github": "https://github.com/terraswap",
+    "logo": "terraswap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terraswap_io"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/nfZgjyjtQq"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "tether",
+    "name": "Tether",
+    "website": "https://tether.io",
+    "github": "",
+    "logo": "tether.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Tether_to"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/OfficialTether"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM",
+    "website": "https://tfm.com",
+    "github": "",
+    "logo": "tfm.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/tfm_com"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/tfmofficialchat"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/538PrcubY9"
+      }
+    ],
+    "description": "The pro trading terminal for Cosmos"
+  },
+  {
+    "slug": "tgrade",
+    "name": "Tgrade",
+    "website": "https://tgrade.finance",
+    "github": "",
+    "logo": "tgrade.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/tgradefinance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/confio_tech"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "tiiik",
+    "name": "Tiiik",
+    "website": "https://tiiik.money",
+    "github": "",
+    "logo": "tiiik.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/tiiik_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/tiiik_money"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/pJRCagf9nB"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "tix",
+    "name": "Tix Protocol",
+    "website": "",
+    "github": "",
+    "logo": "tix.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/tix_money"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "trackterra",
+    "name": "TrackTerra",
+    "website": "https://trackterra.org",
+    "github": "",
+    "logo": "trackterra.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/trackterraorg"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "umee",
+    "name": "Umee",
+    "website": "https://umee.cc",
+    "github": "https://github.com/umee-network",
+    "logo": "umee.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Umee_CrossChain"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/umeecrosschain"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/umee"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "uniswap",
+    "name": "Uniswap",
+    "website": "https://uniswap.org",
+    "github": "https://github.com/uniswap",
+    "logo": "uniswap.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/uniswap"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/FCfyBSbCU5"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "upbit",
+    "name": "Upbit",
+    "website": "https://upbit.com",
+    "github": "",
+    "logo": "upbit.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/upbitglobal"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "validator-dao",
+    "name": "Validator DAO",
+    "website": "https://validator.tools/",
+    "github": "",
+    "logo": "validator-dao,png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Validator_DAO"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Valkyrie Protocol",
+    "website": "https://valkyrieprotocol.com",
+    "github": "https://github.com/valkyrieprotocol",
+    "logo": "valkyrie.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/valkyrie_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/valkyrie_protocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "white-whale",
+    "name": "White Whale",
+    "website": "https://whitewhale.money/",
+    "github": "https://github.com/White-Whale-Defi-Platform",
+    "logo": "white-whale.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/WhiteWhaleDefi"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/whitewhaleofficial"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/pc5EXCBfEw"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "wicca",
+    "name": "Wicca",
+    "website": "https://wicca.money",
+    "github": "",
+    "logo": "wicca.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Wicca_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/wicca_money"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/tNxFXWsbEQ"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "website": "https://wormhole.com",
+    "github": "https://github.com/wormhole-foundation",
+    "logo": "wormhole.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/wormholecrypto"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/wormholecrypto"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Wormhole enables builders to expand to 20+ blockchains - with just one integration."
+  },
+  {
+    "slug": "wynd",
+    "name": "Wynd",
+    "website": "https:/wynddao.com",
+    "github": "https://github.com/wynddao",
+    "logo": "wynd.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/wynddao"
+      },
+      {
+        "name": "telegram",
+        "url": "https://telegram.me/wynd_dao"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/GAMrnkbmj4"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "y-foundry-dao",
+    "name": "Y-Foundry DAO",
+    "website": "https://yfoundry.io",
+    "github": "",
+    "logo": "yfoundry.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/@YFoundryDAO"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/yfoundrydao"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/yfd"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "yuga",
+    "name": "Yuga Labs",
+    "website": "https://yuga.com",
+    "github": "",
+    "logo": "yuga.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/yugalabs"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "zodiac",
+    "name": "Zodiac Protocol",
+    "website": "https://www.zodiacprotocol.xyz/",
+    "github": "",
+    "logo": "zodiac.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/zodiacprotocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Zodiac_Protocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/k6bzacbX93"
+      }
+    ],
+    "description": "qui quis culpa aliquip proident excepteur labore cupidatat esse aliquip amet aliqua nulla fugiat ad elit tempor pariatur commodo non"
+  },
+  {
+    "slug": "ibcx",
+    "name": "Interchain Index Token (IBCX)",
+    "website": "https://index.ion.wtf/",
+    "github": "https://github.com/many-things",
+    "logo": "ibcx.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ibcindex"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/IONGovernanceWorkingGroup"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/9gD5wDaZWU"
+      }
+    ],
+    "description": "A fully collateralized index token curated & composed of leading Cosmos coins."
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth Network",
+    "website": "https://pyth.network/",
+    "github": "https://github.com/pyth-network",
+    "logo": "pyth.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/pythnetwork"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/Pyth_Network"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/invite/PythNetwork"
+      }
+    ],
+    "description": "Smarter Data for Smarter Contracts"
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat",
+    "website": "https://cron.cat/",
+    "github": "https://github.com/CronCats",
+    "logo": "croncat.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/croncats"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/GJY7QBsDft"
+      }
+    ],
+    "description": "If This Then That for the #Interchain. The blockchain automation layer, built for scheduled or event driven workflows."
+  },
+  {
+    "slug": "calc",
+    "name": "Calculated Finance",
+    "website": "https://calculated.fi/",
+    "github": "",
+    "logo": "calc.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/calc_finance"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/calcprotocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "The most calculated way to enter and exit positions."
+  },
+  {
+    "slug": "squidrouter",
+    "name": "Squid",
+    "website": "https://squidrouter.com",
+    "github": "https://github.com/0xsquid",
+    "logo": "squidrouter.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/squidrouter"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/squidrouter"
+      }
+    ],
+    "description": "Squid lets you swap tokens between blockchains, and unlocks access to apps across chains in 1 click "
+  },
+  {
+    "slug": "levana",
+    "name": "Levana Protocol",
+    "website": "https://levana.finance",
+    "github": "https://github.com/levana-protocol",
+    "logo": "levana.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/levana_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/levanaprotocol"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Fully-collateralized perps trading. Safe, low-cost perpetual swaps on Cosmos"
+  },
+  {
+    "slug": "daodao",
+    "name": "DAODAO",
+    "website": "https://daodao.zone",
+    "github": "https://github.com/DA0-DA0",
+    "logo": "daodao.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/DA0_DA0"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/sAaGuyW3D2"
+      }
+    ],
+    "description": "A DAO that builds DAO tooling."
+  },
+  {
+    "slug": "quasar",
+    "name": "Quasar",
+    "website": "https://quasar.fi",
+    "github": "https://github.com/quasar-finance/",
+    "logo": "quasar.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/quasarfi"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/+shSFVLA14B4yNmM6"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/quasarfi"
+      }
+    ],
+    "description": "Home of the only IBC enabled vaults, leveraging ICQ & ICA. Interchain Asset Management - evolved."
+  }
+]

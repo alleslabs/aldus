@@ -1,0 +1,16 @@
+[
+    {
+        "slug": "astroport",
+        "name": "Astroport Pair",
+        "id": 114,
+        "description": "",
+        "github": ""
+    },
+    {
+        "slug": "astroport",
+        "name": "Astroport Stable Pair",
+        "id": 110,
+        "description": "",
+        "github": ""
+    }
+]

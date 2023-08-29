@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "stargaze",
+    "name": "Stargaze SG721 (v0.8.0)",
+    "id": 1,
+    "description": "",
+    "github": "https://github.com/public-awesome/stargaze-contracts/tree/v0.8.0/contracts/sg721"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze Minter (v0.8.0)",
+    "id": 2,
+    "description": "",
+    "github": "https://github.com/public-awesome/stargaze-contracts/tree/v0.8.0/contracts/minter"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze Whitelist (v0.8.0)",
+    "id": 3,
+    "description": "",
+    "github": "https://github.com/public-awesome/stargaze-contracts/tree/v0.8.0/contracts/whitelist"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze Claim MintNFT (v0.1.0)",
+    "id": 4,
+    "description": "",
+    "github": "https://github.com/public-awesome/stargaze-contracts/tree/v0.9.0/contracts"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze Claim MintNFT (v0.15.0)",
+    "id": 5,
+    "description": "",
+    "github": "https://github.com/public-awesome/stargaze-contracts/tree/v0.15.0/contracts"
+  },
+  {
+    "slug": "stargaze",
+    "name": "Stargaze NFT Marketplace",
+    "id": 6,
+    "description": "",
+    "github": "https://github.com/public-awesome/marketplace/tree/v0.15.0"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Account 1",
+    "address": "osmo1pq47vuhc9gum8qjht0tamsgluuqjleqprgemhd",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Contract Admin",
+    "address": "osmo19377ce3k2893s98xp58vg0jtgtvj5qv405y36l4wf4z2xhnjwh6se8kep3",
+    "description": "Apollo Safe CW3 multisig contract owned by the Apollo team used as the admin for Apollo Vaults and other contracts.",
+    "type": "contract"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Uploader",
+    "address": "osmo1jxdhfvhedn3gv8fnmn4crzkevqfkm29me0pnht",
+    "description": "Account owned by ApolloDAO used to deploy their CW3 multisig and liquid staking contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig",
+    "address": "osmo1wl59k23zngj34l7d42y9yltask7rjlnxgccawc7ltrknp6n52fps94qsjd",
+    "description": "",
+    "type": "contract"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 1",
+    "address": "osmo18kmnpjw6mj7juw6wmnzdyaa8e2tg9h3mqry0ym",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 2",
+    "address": "osmo18h47lm65q0r02gcuxe6vslk8u5ftgrl9wrtea6",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 3",
+    "address": "osmo1yv4shmch4kwtaqmnnrg5ep65r6e05wgq3p2dj4",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 4",
+    "address": "osmo1w4yv8uvc0neqhxwqsg0qm0axlt8wcms4zqyjwu",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 5",
+    "address": "osmo18fsecpmq5tuq59k3ezkrrdt6gyvr30lxct0aed",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig Voter 6",
+    "address": "osmo16u56nw6rhdt5wc63ammgdn565q6t825mdcffap",
+    "description": "One of the voter accounts on the ApolloDAO Dev Multisig.",
+    "type": "account"
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Contract Uploader",
+    "address": "osmo1hvkucfyhjxdhv4gv6kwmuzxyjn0qufqzp4xr99",
+    "description": "Account used to upload Autonomy Network contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO Uploader",
+    "address": "osmo14lr70k43wdry3fxl5ykkh630jhas2nsp8re0e4",
+    "description": "Account owned by ION DAO contributors used to deploy their governance and governance staking contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "kado",
+    "name": "Kado Uploader",
+    "address": "osmo19vxp8vq8qm368dr026qxh8v82satwaf79y235lfv6wmgpwxx8dtskedaku",
+    "description": "Account whitelisted to upload Kado Router contracts.",
+    "type": "contract"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Uploader",
+    "address": "osmo1cd4nn8yzdrrsfqsmmvaafq8r03xn38qgqt8fzh",
+    "description": "Account owned by Delphi Labs used to deploy the Mars Protocol contracts on Osmosis.",
+    "type": "account"
+  },
+  {
+    "slug": "ogp",
+    "name": "OGP Apollo Safe Multisig",
+    "address": "osmo1xwu4c2apw2nxd75leph52aaw85ryhpfqcwfqtyjtz38tvjln7x7qwd6scg",
+    "description": "Apollo Safe CW3 multisig account owned by the Osmosis Grants Program",
+    "type": "contract"
+  },
+  {
+    "slug": "ogp",
+    "name": "OGP Native Multisig",
+    "address": "osmo1duj0ldp5p3qmksas35q7cq977f38a8e7chsxnw",
+    "description": "Native multisig account owned by the Osmosis Grants Program used to distribute grants.",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 1",
+    "address": "osmo14kjcwdwcqsujkdt8n5qwpd8x8ty2rys5rjrdjj",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 2",
+    "address": "osmo1gw445ta0aqn26suz2rg3tkqfpxnq2hs224d7gq",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 3",
+    "address": "osmo13lt0hzc6u3htsk7z5rs6vuurmgg4hh2ecgxqkf",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 4",
+    "address": "osmo1kvc3he93ygc0us3ycslwlv2gdqry4ta73vk9hu",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 5",
+    "address": "osmo19qgldlsk7hdv3ddtwwpvzff30pxqe9phq9evxf",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 6",
+    "address": "osmo19fs55cx4594een7qr8tglrjtt5h9jrxg458htd",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 7",
+    "address": "osmo1ssp6px3fs3kwreles3ft6c07mfvj89a544yj9k",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 8",
+    "address": "osmo1c5yu8498yzqte9cmfv5zcgtl07lhpjrj0skqdx",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 9",
+    "address": "osmo1yhj3r9t9vw7qgeg22cehfzj7enwgklw5k5v7lj",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 10",
+    "address": "osmo18nzmtyn5vy5y45dmcdnta8askldyvehx66lqgm",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 11",
+    "address": "osmo1z2x9z58cg96ujvhvu6ga07yv9edq2mvkxpgwmc",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 12",
+    "address": "osmo1tvf3373skua8e6480eyy38avv8mw3hnt8jcxg9",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 13",
+    "address": "osmo1zs0txy03pv5crj2rvty8wemd3zhrka2ne8u05n",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 14",
+    "address": "osmo1djgf9p53n7m5a55hcn6gg0cm5mue4r5g3fadee",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Developer Rewards Receiver 15",
+    "address": "osmo1488zldkrn8xcjh3z40v2mexq7d088qkna8ceze",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Labs Proposal Code Uploader",
+    "address": "osmo10d07y265gmmuvt4z0w9aw880jnsr700jjeq4qp",
+    "description": "Main account used by the Osmosis Labs team as the uploader (run_as field) of contract codes for store code proposals",
+    "type": "account"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Labs Proposal Submitter",
+    "address": "osmo19mywfjzj324w5ukf7ss6jak0dg9hnljfp0rfx4",
+    "description": "Main account used by the Osmosis Labs team to create and submit on-chain governance proposals.",
+    "type": "account"
+  },
+  {
+    "slug": "skip",
+    "name": "Skip ProtoRev Admin Account",
+    "address": "osmo17nv67dvc7f8yr00rhgxd688gcn9t9wvhn783z4",
+    "description": "Admin account used to add and set various parameters in the ProtoRev module.",
+    "type": "account"
+  },
+  {
+    "slug": "skip",
+    "name": "Skip ProtoRev Developer Account",
+    "address": "osmo1qs9akhf0s05hqskmu9gdnzz3e6u4xc7aaya0u0",
+    "description": "Developer account controlled by the Skip team to receive portion of the ProtoRev revenue from arbitraging Osmosis swaps.",
+    "type": "account"
+  },
+  {
+    "slug": "ibcx",
+    "name": "IBCX Uploader",
+    "address": "osmo14n3a65fnqz9jve85l23al6m3pjugf0atvrfqh5",
+    "description": "Account whitelisted to upload IBCX contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Multisig",
+    "address": "osmo1e0x2hnhhwyek7eq3kcxu2x6pt77wdnwz0lutz9fespdr9utq963qr0y5p5",
+    "description": "Apollo Safe CW3 multisig owned by the TFM team whitelisted to upload contracts",
+    "tpye": "contract"
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Uploader",
+    "address": "osmo15wna5dwylkuzvljsudyn6zfsd4zl0rkg5ge888mzk4vtnjpp0z5q4e9w58",
+    "description": "Apollo Safe CW3 multisig owned by the CronCat team whitelisted to upload contracts",
+    "tpye": "contract"
+  },
+  {
+    "slug": "calc",
+    "name": "Calculated Finance Uploader",
+    "address": "osmo1r02tlyyaqs6tmrfa4jf37t7ewuxr57qp8ghzly",
+    "description": "Apollo Safe CW3 multisig owned by the Calculated Finance team whitelisted to upload contracts",
+    "type": "account"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Account 1",
+    "address": "osmo1ch3en3tm0z6xlkswh4reca6qk44v90laputdzl",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Account 1",
+    "address": "osmo1yhqft6d2msmzpugdjtawsgdlwvgq3samajy9jq",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "squidrouter",
+    "name": "Squid Router Uploader",
+    "address": "osmo1ae2z8svz9nvklt94mvrskr7kdwy0qrlrsehe6f",
+    "description": "",
+    "type": "account"
+  },
+  {
+    "slug": "levana",
+    "name": "Levana Uploader",
+    "address": "osmo1lqyn9ncwkcqj8e0pnugu72tyyfehe2tre98c5qfzjg4d3vdw7n5q5a0x37",
+    "description": "Apollo Safe CW3 multisig contract whitelisted to upload Levana Protocol contracts.",
+    "type": "contract"
+  },
+  {
+    "slug": "daodao",
+    "name": "DAODAO Uploader",
+    "address": "osmo1559zgk3mxm00qtr0zu2x5n4rh5vw704q4mp2tn",
+    "description": "Account owned by DAODAO whitelisted to upload their contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "skip",
+    "name": "Skip Uploader",
+    "address": "osmo1raa4kyx5ypz75qqk3566c6slx2mw3qzsu6rymw",
+    "description": "Account owned by Skip whitelisted to upload their Skip API contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "quasar",
+    "name": "Quasar Uploader",
+    "address": "osmo1ed6ezqx9t4e9sfm6nfgulq3005umrh6hkclagk",
+    "description": "Account owned by Quasar whitelisted to upload their Quasar Vaults contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "eris",
+    "name": "Eris Uploader",
+    "address": "osmo1dpaaxgw4859qhew094s87l0he8tfea3lv30jfc",
+    "description": "Account owned by Eris whitelisted to upload their contracts.",
+    "type": "account"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Fixed Multisig",
+    "id": 1,
+    "description": "Contract code for the Apollo variant of the CW3 fixed multisig contract.",
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO Governance Staking",
+    "id": 2,
+    "description": "ION DAO governance staking code implementing the logic for staking ION tokens.",
+    "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/stake"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO Governance",
+    "id": 3,
+    "description": "ION DAO governance staking code implementing governance-related logic.",
+    "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/dao"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Liquid Staking",
+    "id": 5,
+    "description": "ApolloDAO liquid staking code",
+    "github": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis IBC Rate Limiting",
+    "id": 6,
+    "description": "IBC Rate Limiting code",
+    "github": "https://github.com/osmosis-labs/osmosis/tree/v13.0.0/x/ibc-rate-limit/contracts/rate-limiter"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Name NFT",
+    "id": 7,
+    "description": "Interchain Nameservice NFT code mainly responsible for minting the nft of the ICNS name being claimed",
+    "github": "https://github.com/icns-xyz/icns/tree/v0.1.0/contracts/icns-name-nft"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Resolver",
+    "id": 8,
+    "description": "Interchain Nameservice resolver mainly responsible for keeping track of the address for each ICNS name in a stateful manner. It serves the purpose of resolving the ICNS Name to the correct address",
+    "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-resolver"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Registrar",
+    "id": 9,
+    "description": "Interchain Nameservice registar code mainly responsible for orchestrating the oracle verifiers watching the Twitter API for unique Twitter handles of the user. The goal of the Registrar contract is to prevent a single centeralized entity being able to calim a user name for ICNS",
+    "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-registrar"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis SwapRouter",
+    "id": 10,
+    "description": "The SwapRouter contract serves as a way to define, on-chain, routes that swaps from one asset to another will take.",
+    "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/swaprouter"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank",
+    "id": 11,
+    "description": "Mars Red Bank code mainly responsible for exposing all interactions that are done between the user and the money market. It also holds all protocol liquidity.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/red-bank"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Address Provider",
+    "id": 12,
+    "description": "Mars Address Provider code mainly responsible for holding the addresses of the main contracts of the core protocol.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/address-provider"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Incentives",
+    "id": 13,
+    "description": "Mars Incentives code mainly responsible for managing MARS incentives for depositors.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/incentives"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Osmosis Oracle (v1.0.0)",
+    "id": 14,
+    "description": "Mars Osmosis Oracle code mainly responsible for providing price data for assets used in the protocol.",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/oracle"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "id": 15,
+    "description": "Mars Rewards Collector code mainly responsible for receiving protocol revenue in various coins from the Red Bank; swaps them into MARS or other specified assets in the Osmosis DEX; forwards the assets to Mars Hub via IBC to be distributed as staking rewards or be deposited into the safety fund.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/rewards-collector"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Liquidation Filterer",
+    "id": 16,
+    "description": "The Mars Liquidation Filterer code mainly responsible for querying the health status of each account to be liquidated on the current block height, and if the account is no longer health factor < 1 it will remove that liquidation from the msg in order to let other liquidation messages go through successfully.",
+    "github": "https://github.com/mars-protocol/liquidation-helpers/tree/main/contracts/liquidation-filterer"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Osmosis CW-Vault",
+    "id": 17,
+    "description": "Apollo Osmosis CW-Vault code acting as a standard interface for tokenized vaults.",
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Osmosis Liquidity Helper",
+    "id": 18,
+    "description": "Apollo Osmosis Liquidity Helper code mainly responsible for helping provide liquidity for Osmosis pools and supports supplying liquidity with imbalanced assets",
+    "github": "https://github.com/apollodao/liquidity-helpers/tree/v0.1.0/contracts/osmosis-liquidity-helper"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Osmosis CW Dex Router",
+    "id": 19,
+    "description": "Apollo Osmosis CW Dex Router code mainly responsible for routing swaps between Osmosis pools and other DEXs in which there is a cw_dex::Pool implementation",
+    "github": "https://github.com/apollodao/cw-dex-router/tree/v0.1.0"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Osmosis Oracle (v1.0.1)",
+    "id": 22,
+    "description": "Mars Osmosis Oracle code mainly responsible for providing price data for assets used in the protocol.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.1/contracts/oracle"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Account NFT",
+    "id": 23,
+    "description": "Mars Account NFT code",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/account-nft"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Swapper",
+    "id": 25,
+    "description": "Mars Swapper code",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/swapper"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Zapper",
+    "id": 26,
+    "description": "Mars Zapper code",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/master/contracts/zapper"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Credit Manager",
+    "id": 27,
+    "description": "Mars Credit Manager code",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/credit-manager"
+  },
+  {
+    "slug": "29",
+    "name": "ApolloDAO Osmosis CW-Vault (v0.1.4)",
+    "id": 30,
+    "description": "Apollo Osmosis CW-Vault code acting as a standard interface for tokenized vaults.",
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "osmosis",
+    "name": "CW721 Base",
+    "id": 30,
+    "description": "CW721 Base code acting as a basic implementation of a cw721 NFT contract. It implements the CW721 spec.",
+    "github": "https://github.com/CosmWasm/cw-nfts/tree/main/contracts/cw721-base"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Cross-Chain Swap v1 (DEPRECATED)",
+    "id": 31,
+    "description": "Osmosis Cross-Chain Swap code mainly acting as a swap and forward contract that takes the received tokens, swaps them via a swaprouter contract, and sends them to an IBC receiver.",
+    "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/crosschain-swaps"
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Network Registry",
+    "id": 32,
+    "description": "Autonomy registry contract responsible for storing requests created by users.",
+    "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/registry-stake"
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Network Wrapper",
+    "id": 33,
+    "description": "Autonomy wrapper contract for Osmosis swap operations, responsible for executing the swap operation between assets and validate results,",
+    "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/wrapper-osmosis"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Cross-Chain Swap v2",
+    "id": 37,
+    "description": "The Crosschain Swaps contract enables trades on Osmosis to be carried out remotely from another chain connected to Osmosis by IBC.",
+    "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/crosschain-swaps"
+  },
+  {
+    "slug": "streamswap",
+    "name": "StreamSwap",
+    "description": "",
+    "id": 39,
+    "github": "https://github.com/StreamSwapProtocol/cw-streamswap/commit/4e8e096bb2718c11a4144465925a056c9e87e053"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Router",
+    "description": "",
+    "id": 41,
+    "github": ""
+  },
+  {
+    "slug": "ibcx",
+    "name": "IBCX Core",
+    "description": "",
+    "id": 49,
+    "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/core"
+  },
+  {
+    "slug": "ibcx",
+    "name": "IBCX Periphery",
+    "description": "",
+    "id": 52,
+    "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/periphery"
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth",
+    "description": "",
+    "id": 45,
+    "github": "https://github.com/pyth-network/pyth-crosschain/tree/0ac771266c90864237a9e8f2c596c5be3318958c/target_chains/cosmwasm/contracts"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "description": "",
+    "id": 46,
+    "github": "https://github.com/wormhole-foundation/wormhole/tree/ae7de3d575a0cee7ceaf69080952fa148dc0a346/cosmwasm/contracts/wormhole"
+  },
+  {
+    "slug": "calc",
+    "name": "Calculated Finance DCA",
+    "description": "",
+    "id": 77,
+    "github": ""
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Limit Order",
+    "description": "",
+    "id": 55,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Factory",
+    "description": "",
+    "id": 65,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Manager",
+    "description": "",
+    "id": 67,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Tasks",
+    "description": "",
+    "id": 68,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Agents",
+    "description": "",
+    "id": 69,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Mod Balances",
+    "description": "",
+    "id": 70,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Mod DAO",
+    "description": "",
+    "id": 72,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Mod Generic",
+    "description": "",
+    "id": 75,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Croncat Mod NFT",
+    "description": "",
+    "id": 76,
+    "github": ""
+  },
+  {
+    "slug": "squidrouter",
+    "name": "Squid Router V1",
+    "description": "",
+    "id": 81,
+    "github": "https://github.com/0xsquid/cosmos-contracts/tree/1.1.0/contracts/osmosis"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Pyth Oracle",
+    "description": "",
+    "id": 84,
+    "github": ""
+  }
+]

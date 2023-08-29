@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "astroport",
+    "name": "Astroport Factory",
+    "id": 224,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Pair",
+    "id": 233,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Stable Pair",
+    "id": 229,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Router",
+    "id": 232,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Maker",
+    "id": 231,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Vesting",
+    "id": 226,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Generator",
+    "id": 230,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Coin Registry",
+    "id": 222,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Satellite",
+    "id": 228,
+    "description": "",
+    "github": ""
+  }
+]

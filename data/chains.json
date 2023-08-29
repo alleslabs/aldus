@@ -1,0 +1,394 @@
+{
+  "osmosis": {
+    "name": "Osmosis",
+    "bech32Prefix": "osmo",
+    "slip44": "118",
+    "website": "https://osmosis.zone",
+    "iconUri": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+    "documentation": "https://docs.osmosis.zone",
+    "github": "https://github.com/osmosis-labs",
+    "networks": [
+      {
+        "type": "testnet",
+        "bech32Prefix": "osmo",
+        "celatone": "https://celatone.osmosis.zone/testnet",
+        "chainId": "osmo-test-5",
+        "chainName": "Osmosis Testnet",
+        "publicLCD": "https://lcd.osmotest5.osmosis.zone",
+        "lcdSwagger": "",
+        "publicRPC": "https://rpc.osmotest5.osmosis.zone:443",
+        "rpcSwagger": "",
+        "publicGRPC": "https://grpc.osmotest5.osmosis.zone",
+        "lcds": [],
+        "rpcs": [
+          {
+            "provider": "Osmosis Support Lab",
+            "logo": "https://pbs.twimg.com/profile_images/1610698501431738381/2sZ_JyIt_400x400.png",
+            "url": "https://rpc.testnet.osl.zone/",
+            "archive": false
+          }
+        ],
+        "faucets": [
+          {
+            "provider": "Osmosis",
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.svg",
+            "url": "https://faucet.osmotest5.osmosis.dsrv/"
+          },
+          {
+            "provider": "Stakely",
+            "logo": "https://pbs.twimg.com/profile_images/1612163541301092357/zhYotDeZ_400x400.jpg",
+            "url": "https://stakely.io/en/faucet/osmosis-osmo"
+          }
+        ]
+      },
+      {
+        "type": "mainnet",
+        "bech32Prefix": "osmo",
+        "celatone": "https://celatone.osmosis.zone/mainnet",
+        "chainId": "osmosis-1",
+        "chainName": "Osmosis Mainnet",
+        "publicLCD": "https://lcd.osmosis.zone",
+        "lcdSwagger": "https://lcd.osmosis.zone/swagger/",
+        "publicRPC": "https://rpc.osmosis.zone",
+        "rpcSwagger": "https://rpc-docs.osmosis.zone/",
+        "publicGRPC": "https://grpc.osmosis.zone:9090",
+        "lcds": [
+          {
+            "provider": "AutoStake",
+            "logo": "https://i.ibb.co/YyXk0R1/twitter-p5-Xo-QUQU-400x400.png",
+            "url": "https://osmosis-mainnet-lcd-autostake.net:443",
+            "archive": false
+          },
+          {
+            "provider": "Chainapsis",
+            "logo": "https://i.ibb.co/BwyySrM/twitter-DHqcti-N8-400x400.jpg",
+            "url": "https://lcd-osmosis.blockapsis.com",
+            "archive": false
+          },
+          {
+            "provider": "Chainlayer",
+            "logo": "https://pbs.twimg.com/profile_images/1151893378453442560/u6juKTAt_400x400.png",
+            "url": "https://osmosis-lcd.quickapi.com:443",
+            "archive": false
+          },
+          {
+            "provider": "EcoStake",
+            "logo": "https://pbs.twimg.com/profile_images/1480299429462687748/Mt8LsH6f_400x400.jpg",
+            "url": "https://rest-osmosis.ecostake.com",
+            "archive": false
+          },
+          {
+            "provider": "Inter Blockchain Services",
+            "logo": "https://pbs.twimg.com/profile_images/1551523742647468033/iT0ianMV_400x400.jpg",
+            "url": "https://osmosis-api.ibs.team",
+            "archive": false
+          },
+          {
+            "provider": "Interbloc",
+            "logo": "",
+            "url": "https://api.osmosis.interbloc.org",
+            "archive": false
+          },
+          {
+            "provider": "Ivaldi Labs",
+            "logo": "https://pbs.twimg.com/profile_images/1582322531037495297/z4GBBpu6_400x400.jpg",
+            "url": "https://osmosis.rest.interchain.ivaldilabs.xyz",
+            "archive": false
+          },
+          {
+            "provider": "Lavender.Five",
+            "logo": "https://i.ibb.co/k3yDs1Q/twitter-NYJe-Peb-Q-400x400.jpg",
+            "url": "https://osmosis-api.lavenderfive.com:443",
+            "archive": false
+          },
+          {
+            "provider": "Nodejumper",
+            "logo": "https://pbs.twimg.com/profile_images/1610546500597063681/y_lOEYVq_400x400.jpg",
+            "url": "https://osmosis.nodejumper.io:1317",
+            "archive": false
+          },
+          {
+            "provider": "Notional",
+            "logo": "https://i.ibb.co/g9nH7Rn/twitter-k4-LGm4-VT-400x400.jpg",
+            "url": "https://api-osmosis-ia.cosmosia.notional.ventures/",
+            "archive": false
+          },
+          {
+            "provider": "Osmosis Support Lab",
+            "logo": "https://pbs.twimg.com/profile_images/1610698501431738381/2sZ_JyIt_400x400.png",
+            "url": "https://api.osl.zone",
+            "archive": false
+          },
+          {
+            "provider": "Polkachu",
+            "logo": "https://avatars.githubusercontent.com/u/85417391?s=200&v=4",
+            "url": "https://osmosis-api.polkachu.com",
+            "archive": false
+          },
+          {
+            "provider": "Silk Nodes",
+            "logo": "https://pbs.twimg.com/profile_images/1526921477404123136/oArsu81F_400x400.jpg",
+            "url": "https://api.osmosis.silknodes.io",
+            "archive": false
+          },
+          {
+            "provider": "Stakin",
+            "logo": "https://i.ibb.co/3M45FZd/twitter-YGo-B-z-Vk-400x400.jpg",
+            "url": "https://osmosis.rest.stakin-nodes.com",
+            "archive": false
+          },
+          {
+            "provider": "WhisperNode",
+            "logo": "https://pbs.twimg.com/profile_images/1304816859213180931/8QnYqNTE_400x400.jpg",
+            "url": "https://lcd-osmosis.whispernode.com:443",
+            "archive": false
+          }
+        ],
+        "rpcs": [
+          {
+            "provider": "Chainapsis",
+            "logo": "https://i.ibb.co/BwyySrM/twitter-DHqcti-N8-400x400.jpg",
+            "url": "https://rpc-osmosis.blockapsis.com",
+            "archive": false
+          },
+          {
+            "provider": "Chainlayer",
+            "logo": "https://pbs.twimg.com/profile_images/1151893378453442560/u6juKTAt_400x400.png",
+            "url": "https://osmosis-rpc.quickapi.com:443",
+            "archive": false
+          },
+          {
+            "provider": "EcoStake",
+            "logo": "https://pbs.twimg.com/profile_images/1480299429462687748/Mt8LsH6f_400x400.jpg",
+            "url": "https://rpc-osmosis.ecostake.com",
+            "archive": false
+          },
+          {
+            "provider": "Golden Ratio Staking",
+            "logo": "https://pbs.twimg.com/profile_images/1464312834641170439/tbdCZdPF_400x400.jpg",
+            "url": "https://rpc.osmosis.goldenratiostaking.net",
+            "archive": false
+          },
+          {
+            "provider": "Inter Blockchain Services",
+            "logo": "https://pbs.twimg.com/profile_images/1551523742647468033/iT0ianMV_400x400.jpg",
+            "url": "https://osmosis-rpc.ibs.team",
+            "archive": false
+          },
+          {
+            "provider": "Interbloc",
+            "logo": "",
+            "url": "https://rpc.osmosis.interbloc.org",
+            "archive": false
+          },
+          {
+            "provider": "Ivaldi Labs",
+            "logo": "https://pbs.twimg.com/profile_images/1582322531037495297/z4GBBpu6_400x400.jpg",
+            "url": "https://osmosis.rpc.interchain.ivaldilabs.xyz",
+            "archive": false
+          },
+          {
+            "provider": "Lavender.Five",
+            "logo": "https://i.ibb.co/k3yDs1Q/twitter-NYJe-Peb-Q-400x400.jpg",
+            "url": "https://osmosis-rpc.lavenderfive.com:443",
+            "archive": false
+          },
+          {
+            "provider": "Nodejumper",
+            "logo": "https://pbs.twimg.com/profile_images/1610546500597063681/y_lOEYVq_400x400.jpg",
+            "url": "https://osmosis.nodejumper.io",
+            "archive": false
+          },
+          {
+            "provider": "Notional",
+            "logo": "https://i.ibb.co/g9nH7Rn/twitter-k4-LGm4-VT-400x400.jpg",
+            "url": "https://rpc-osmosis-ia.cosmosia.notional.ventures/",
+            "archive": false
+          },
+          {
+            "provider": "Osmosis Support Lab",
+            "logo": "https://pbs.twimg.com/profile_images/1610698501431738381/2sZ_JyIt_400x400.png",
+            "url": "https://rpc.osl.zone",
+            "archive": false
+          },
+          {
+            "provider": "Polkachu",
+            "logo": "https://pbs.twimg.com/profile_images/1457063156790935554/blYozUQC_400x400.jpg",
+            "url": "https://osmosis-rpc.polkachu.com",
+            "archive": false
+          },
+          {
+            "provider": "Silk Nodes",
+            "logo": "https://pbs.twimg.com/profile_images/1526921477404123136/oArsu81F_400x400.jpg",
+            "url": "https://rpc.osmosis.silknodes.io",
+            "archive": false
+          },
+          {
+            "provider": "Stakin",
+            "logo": "https://i.ibb.co/3M45FZd/twitter-YGo-B-z-Vk-400x400.jpg",
+            "url": "https://osmosis.rpc.stakin-nodes.com",
+            "archive": false
+          },
+          {
+            "provider": "Validator Network",
+            "logo": "https://pbs.twimg.com/profile_images/1107974141641138177/pL6EBttN_400x400.png",
+            "url": "https://osmosis.validator.network/",
+            "archive": false
+          },
+          {
+            "provider": "WhisperNode",
+            "logo": "https://pbs.twimg.com/profile_images/1304816859213180931/8QnYqNTE_400x400.jpg",
+            "url": "https://rpc-osmosis.whispernode.com:443",
+            "archive": false
+          }
+        ],
+        "faucets": []
+      }
+    ]
+  },
+  "neutron": {
+    "name": "Neutron",
+    "bech32Prefix": "neutron",
+    "slip44": "118",
+    "website": "https://neutron.org",
+    "iconUri": "https://raw.githubusercontent.com/neutron-org/brandbook/main/Logo/Icon/SVG/icon-white.svg",
+    "documentation": "https://docs.neutron.org",
+    "github": "https://github.com/neutron-org",
+    "networks": [
+      {
+        "type": "testnet",
+        "bech32Prefix": "neutron",
+        "celatone": "https://neutron.celat.one/pion-1",
+        "chainId": "pion-1",
+        "chainName": "Neutron Testnet",
+        "publicLCD": "https://rest-kralum.neutron-1.neutron.org",
+        "lcdSwagger": "https://rest-kralum.neutron-1.neutron.org",
+        "publicRPC": "https://rpc-kralum.neutron-1.neutron.org",
+        "rpcSwagger": "https://rest-kralum.neutron-1.neutron.org",
+        "publicGRPC": "https://grpc-kralum.neutron-1.neutron.org:80",
+        "lcds": [
+          {
+            "url": "https://rest-palvus.pion-1.ntrn.tech",
+            "provider": "Neutron",
+            "archive": false,
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/neutron.svg"
+          },
+          {
+            "url": "https://api.pion.remedy.tm.p2p.org",
+            "provider": "P2P.ORG",
+            "archive": false,
+            "logo": "https://i.ibb.co/BsCsR1s/p2p-logo-white-2x.png"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://rpc-palvus.pion-1.ntrn.tech",
+            "provider": "Neutron",
+            "archive": false,
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/neutron.svg"
+          },
+          {
+            "url": "https://rpc.pion.remedy.tm.p2p.org",
+            "provider": "P2P.ORG",
+            "archive": false,
+            "logo": "https://i.ibb.co/BsCsR1s/p2p-logo-white-2x.png"
+          }
+        ],
+        "faucets": []
+      },
+      {
+        "type": "mainnet",
+        "bech32Prefix": "neutron",
+        "celatone": "https://neutron.celat.one/neutron-1",
+        "chainId": "neutron-1",
+        "chainName": "Neutron Mainnet",
+        "publicLCD": "https://rest-kralum.neutron-1.neutron.org",
+        "lcdSwagger": "https://rest-kralum.neutron-1.neutron.org",
+        "publicRPC": "https://rpc-kralum.neutron-1.neutron.org",
+        "rpcSwagger": "https://rest-kralum.neutron-1.neutron.org",
+        "publicGRPC": "https://grpc-kralum.neutron-1.neutron.org:80",
+        "lcds": [
+          {
+            "url": "https://rest-kralum.neutron-1.neutron.org",
+            "provider": "Neutron",
+            "archive": false,
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/neutron.svg"
+          },
+          {
+            "url": "https://api.novel.remedy.tm.p2p.org",
+            "provider": "P2P",
+            "archive": false,
+            "logo": "https://i.ibb.co/BsCsR1s/p2p-logo-white-2x.png"
+          },
+          {
+            "url": "https://neutron-api.lavenderfive.com",
+            "provider": "Lavender.Five",
+            "archive": false,
+            "logo": "https://i.ibb.co/k3yDs1Q/twitter-NYJe-Peb-Q-400x400.jpg"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://rpc-kralum.neutron-1.neutron.org",
+            "provider": "Neutron",
+            "archive": false,
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/neutron.svg"
+          },
+          {
+            "url": "https://rpc.novel.remedy.tm.p2p.org",
+            "provider": "P2P",
+            "archive": false,
+            "logo": "https://i.ibb.co/BsCsR1s/p2p-logo-white-2x.png"
+          },
+          {
+            "url": "https://neutron-rpc.lavenderfive.com",
+            "provider": "Lavender.Five",
+            "archive": false,
+            "logo": "https://i.ibb.co/k3yDs1Q/twitter-NYJe-Peb-Q-400x400.jpg"
+          }
+        ],
+        "faucets": []
+      }
+    ]
+  },
+  "sei": {
+    "name": "Sei",
+    "bech32Prefix": "sei",
+    "slip44": "118",
+    "website": "https://sei.io",
+    "iconUri": "https://github.com/cosmos/chain-registry/blob/master/testnets/seitestnet2/images/sei.png?raw=true",
+    "documentation": "https://docs.sei.io",
+    "github": "https://github.com/sei-protocol",
+    "networks": [
+      {
+        "type": "testnet",
+        "bech32Prefix": "sei",
+        "celatone": "https://seiscan.app/atlantic-2",
+        "chainId": "atlantic-2",
+        "chainName": "Sei Testnet",
+        "publicLCD": "https://rest.atlantic-2.seinetwork.io",
+        "lcdSwagger": "",
+        "publicRPC": "https://rpc.atlantic-2.seinetwork.io/",
+        "rpcSwagger": "",
+        "publicGRPC": "",
+        "lcds": [
+          {
+            "url": "https://sei-testnet-api.polkachu.com",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://sei-testnet-rpc.polkachu.com/",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "faucets": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "astroport",
+    "name": "Astroport Factory",
+    "address": "sei1cp0hjmhwn9mz8rd4t29zjx2sks5mlxsjzhch2ef3yr4q2ssqwuvst5lyc9",
+    "description": "",
+    "code": 224,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Router",
+    "address": "sei1n389228apfytkxgvjkwl3acakgl8evpx7z5nghwvluhwsjwq37gqjatsxy",
+    "description": "",
+    "code": 232,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Maker",
+    "address": "sei1mmg3lfnwgxe7340ty0tvqznnn9cv0lyakvjzjclpfvwfc00sc2kqf45ezn",
+    "description": "",
+    "code": 231,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Vesting",
+    "address": "sei1ghmydqrcxuhugwttfnqtq8tzskj9ya8nclxs9xmlw0yu6cg7mdgsg3wmgd",
+    "description": "",
+    "code": 226,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Generator",
+    "address": "sei1z272lfg4vwqtg4tr7qywy6hpx4y3vwke0pnsjxvjtqjuju5v3u3qfnhu6k",
+    "description": "",
+    "code": 230,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Coin Registry",
+    "address": "sei1jg6rauqczaswmfnlm0c7tuesgk82350hm2k7v6577yx25p9kg65s968tqq",
+    "description": "",
+    "code": 222,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Satellite",
+    "address": "sei1uj3cnkg4h7s88vvj7xqpxgk9hqd3qul3vnuws4jqmfks3vmu877s27mq27",
+    "description": "",
+    "code": 228,
+    "github": ""
+  }
+]

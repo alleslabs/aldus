@@ -1,0 +1,354 @@
+[
+  {
+    "slug": "neutron",
+    "name": "Neutron Core",
+    "address": "neutron1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstdxvff",
+    "description": "",
+    "code": 1,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Single Pre-Proposal Module",
+    "address": "neutron1hulx7cgvpfcvg83wk5h96sedqgn72n026w6nl47uht554xhvj9nsgs8v0z",
+    "description": "",
+    "code": 2,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Security subDAO Pre-Propose Module",
+    "address": "neutron1zjd5lwhch4ndnmayqxurja4x5y5mavy9ktrk6fzsyzan4wcgawnqjk5g26",
+    "description": "",
+    "code": 2,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Multiple Pre-Proposal Module",
+    "address": "neutron1up07dctjqud4fns75cnpejr4frmjtddzsmwgcktlyxd4zekhwecqt2h8u6",
+    "description": "",
+    "code": 3,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Overrule Pre-Proposal Module",
+    "address": "neutron1w798gp0zqv3s9hjl3jlnwxtwhykga6rn93p46q2crsdqhaj3y4gsum0096",
+    "description": "",
+    "code": 4,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Single Proposal Module",
+    "address": "neutron1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshlt6zh",
+    "description": "",
+    "code": 5,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Overrule Proposal Module",
+    "address": "neutron12pwnhtv7yat2s30xuf4gdk9qm85v4j3e6p44let47pdffpklcxlq56v0te",
+    "description": "",
+    "code": 5,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Multiple Prposal Module",
+    "address": "neutron1pvrwmjuusn9wh34j7y520g8gumuy9xtl3gvprlljfdpwju3x7ucsj3fj40",
+    "description": "",
+    "code": 6,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Voting Registry",
+    "address": "neutron1f6jlx7d9y408tlzue7r2qcf79plp549n30yzqjajjud8vm7m4vdspg933s",
+    "description": "",
+    "code": 7,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron NTRN Vault",
+    "address": "neutron1qeyjez6a9dwlghf9d6cy44fxmsajztw257586akk6xn6k88x0gus5djz4e",
+    "description": "",
+    "code": 8,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Distribution",
+    "address": "neutron1dk9c86h7gmvuaq89cv72cjhq4c97r2wgl5gyfruv6shquwspalgq5u7sy5",
+    "description": "",
+    "code": 9,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Reserve",
+    "address": "neutron13we0myxwzlpx8l5ark8elw5gj5d59dl6cjkzmt80c5q5cv5rt54qvzkv2a",
+    "description": "",
+    "code": 10,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Security subDAO Core",
+    "address": "neutron1fuyxwxlsgjkfjmxfthq8427dm2am3ya3cwcdr8gls29l7jadtazsuyzwcc",
+    "description": "",
+    "code": 11,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Security subDAO Single Proposal Module",
+    "address": "neutron15m728qxvtat337jdu2f0uk6pu905kktrxclgy36c0wd822tpxcmqvnrurt",
+    "description": "",
+    "code": 14,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Security subDAO Voting Module",
+    "address": "neutron1wastjc07zuuy46mzzl3egz4uzy6fs59752grxqvz8zlsqccpv2wqhjw0cl",
+    "description": "",
+    "code": 15,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Rescueeer",
+    "address": "neutron14n26cr7dj79smrgg44hfylhph9y45h4yy5emshwymd395g38kdpq9nj46s",
+    "description": "",
+    "code": 17,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Rescueeer Multisig",
+    "address": "neutron1zfw930csx0k5qzf35vndaulwada4wa3pwtg5hy8rmnnx35wdyhssd2rtlz",
+    "description": "",
+    "code": 18,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Lockdrop",
+    "address": "neutron1ryhxe5fzczelcfmrhmcw9x2jsqy677fw59fsctr09srk24lt93eszwlvyj",
+    "description": "",
+    "code": 19,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Auction",
+    "address": "neutron1qj296vdrjfhuvrm96el3yhx8rcpz4k0huqcp9vwtqzhxwrduhs8s49y3p4",
+    "description": "",
+    "code": 20,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Credits",
+    "address": "neutron1h6828as2z5av0xqtlh4w9m75wxewapk8z9l2flvzc29zeyzhx6fqgp648z",
+    "description": "",
+    "code": 21,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Airdrop",
+    "address": "neutron198sxsrjvt2v2lln2ajn82ks76k97mj72mtgl7309jehd0vy8rezs7e6c56",
+    "description": "",
+    "code": 22,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Band IBC Oracle Price Feed",
+    "address": "neutron1lxansfc8vkujy997e3xksd3ugsppv6a9jt32pjtgaxr0zkcnkznq67z3ax",
+    "description": "",
+    "code": 23,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport ATOM TWAP Oracle",
+    "address": "neutron1gajw625kz8el4ayk8fwpy7r6ew0m7zrg9jdd6grg85fle39shuxqezuz2c",
+    "description": "",
+    "code": 24,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport USDC TWAP Oracle",
+    "address": "neutron1v8leqn5fv0hk056hkky8ym8gytuehe962cy4nt2mrg4lyt05p9nsz9p69a",
+    "description": "",
+    "code": 24,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Neutron TGE Astroprot USDC LP Vesting",
+    "address": "neutron1wgzzn83hhcc5asrtslqvaw2wuqqkfulgac7ze94dmqkrxu8nsensmy9dkv",
+    "description": "",
+    "code": 25,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Neutron TGE Astroport ATOM LP Vesting",
+    "address": "neutron1kkwp7pd4ts6gukm3e820kyftz4vv5jqtmal8pwqezrnq2ddycqasr87x9p",
+    "description": "",
+    "code": 25,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Neutron Voting Vault Credits",
+    "address": "neutron1rxwzsw37ulveefk20575mlxl3hzhzv9k46c8gklfkt4g2vk4w3tse8usrs",
+    "description": "",
+    "code": 26,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Lockdrop Vault",
+    "address": "neutron1f8gs4rp232ngyta3g2efwfkznymvv85du7qm9y0mhvjxpp3cq68qgquudm",
+    "description": "",
+    "code": 27,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Investor Vesting",
+    "address": "neutron14q5elxj4ghktt7d7d0uw0cs0gqyeay25h5fkree897gjm38gevxqmvqsq5",
+    "description": "",
+    "code": 28,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Investor Vesting",
+    "address": "neutron17fcdl6crgsp49ja270fp0pdwm354ar5qqv3mda07py58lgqmm2sqasvgz9",
+    "description": "",
+    "code": 28,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron LTI Vesting",
+    "address": "neutron1a5xz4zm0gkpcf92ddm7fw8pghg2mf4wm6cyu6cgcruq35upf7auslnnfye",
+    "description": "",
+    "code": 29,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Investor Voting Vault",
+    "address": "neutron1dmd56h7hlevuwssp203fgc2uh0qdtwep2m735fzksuavgq3naslqp0ehvx",
+    "description": "",
+    "code": 30,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Satellite",
+    "address": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07",
+    "description": "",
+    "code": 31,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Factory",
+    "address": "neutron1hptk0k5kng7hjy35vmh009qd5m6l33609nypgf2yc6nqnewduqasxplt4e",
+    "description": "",
+    "code": 33,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Native Coin Registry",
+    "address": "neutron1jzzv6r5uckwd64n6qan3suzker0kct5w565f6529zjyumfcx96kqtcswn3",
+    "description": "",
+    "code": 34,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron LP Vesting Vault",
+    "address": "neutron1adavpfxyp5kgs3zp0n0vkc37qakeh5eqwxqxzysgg0ahlx82rmsqp4rnz8",
+    "description": "",
+    "code": 41,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Proxy Rewards Holder",
+    "address": "neutron1mm640rda0zmkfwyprmchk2gg54wj7mn8maqzycgzpul0pml448ysd0htq3",
+    "description": "",
+    "code": 42,
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Security subDAO CW4 Group",
+    "address": "neutron1hyja4uyjktpeh0fxzuw2fmjudr85rk2qu98fa6nuh6d4qru9l0ssh3kgnu",
+    "description": "",
+    "code": 16,
+    "github": ""
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "address": "neutron178ruq7gf6gk3uus5n8xztj5tsrt5xwxfelw88mc9egfw5d99ktksnk5rsh",
+    "description": "",
+    "code": 66,
+    "github": "https://github.com/wormhole-foundation/wormhole/tree/ae7de3d575a0cee7ceaf69080952fa148dc0a346/cosmwasm/contracts/wormhole"
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth",
+    "address": "neutron1m2emc93m9gpwgsrsf2vylv9xvgqh654630v7dfrhrkmr5slly53spg85wv",
+    "description": "",
+    "code": 67,
+    "github": "neutron1m2emc93m9gpwgsrsf2vylv9xvgqh654630v7dfrhrkmr5slly53spg85wv"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Generator",
+    "address": "neutron1jz58yjay8uq8zkfw95ngyv3m2wfs2zjef9vdz75d9pa46fdtxc5sxtafny",
+    "description": "",
+    "code": 123,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Vesting",
+    "address": "neutron178d2p84ldlzcl53clc25uy6mx3trazxdy08akhjp3qf5chlmccgq6hv2pl",
+    "description": "",
+    "code": 37,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Maker",
+    "address": "neutron1jz58yjay8uq8zkfw95ngyv3m2wfs2zjef9vdz75d9pa46fdtxc5sxtafny",
+    "description": "",
+    "code": 38,
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Router",
+    "address": "neutron1rwj6mfxzzrwskur73v326xwuff52vygqk73lr7azkehnfzz5f5wskwekf4",
+    "description": "",
+    "code": 145,
+    "github": ""
+  }
+]

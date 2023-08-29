@@ -1,0 +1,618 @@
+[
+  {
+    "slug": "astroport",
+    "name": "Airdrop Registry",
+    "address": "terra15hlvnufpk8a3gcex09djzkhkz3jg9dpqvv6fvgd0ynudtu2z0qlq2fyfaq",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "98"
+  },
+  {
+    "slug": "astroport",
+    "name": "Factory",
+    "address": "terra14x9fr055x5hvr48hzy2t4q7kvjvfttsvxusa4xsdcy702mnzsvuqprer8r",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "278"
+  },
+  {
+    "slug": "astroport",
+    "name": "Router",
+    "address": "terra1j8hayvehh3yy02c2vtw5fdhz9f4drhtee8p5n5rguvg3nyd6m83qd2y90a",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "523"
+  },
+  {
+    "slug": "astroport",
+    "name": "xASTRO Staking",
+    "address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "85"
+  },
+  {
+    "slug": "astroport",
+    "name": "Maker",
+    "address": "terra1ygcvxp9s054q8u2q4hvl52ke393zvgj0sllahlycm4mj8dm96zjsa45rzk",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "77"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator",
+    "address": "terra1ksvlfex49desf4c452j6dewdjs6c48nafemetuwjyj6yexd7x3wqvwa7j9",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1715"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator Vesting",
+    "address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1365"
+  },
+  {
+    "slug": "astroport",
+    "name": "Whitelist",
+    "address": "terra17aq66zyakz8su32u8tkgwmqemf0sylvv9a23nz7c7ydvkerll28ssss0ug",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "70"
+  },
+  {
+    "slug": "astroport",
+    "name": "Generator Proxy (VKR)",
+    "address": "terra14ewvq39vg23j0hcesecv6hkzkwkvrnuxzd5sddmry9lx6qrhaxcqjdx6er",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "187"
+  },
+  {
+    "slug": "astroport",
+    "name": "Assembly",
+    "address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1127"
+  },
+  {
+    "slug": "astroport",
+    "name": "Builder Unlocking Contract",
+    "address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "817"
+  },
+  {
+    "slug": "astroport",
+    "name": "Treasury",
+    "address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "70"
+  },
+  {
+    "slug": "astroport",
+    "name": "ASTRO token",
+    "address": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "xASTRO Token",
+    "address": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "73"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-axlUSDC)",
+    "address": "terra1fd68ah02gr2y8ze7tm9te7m70zlmc7vjyyhs6xlhsdmqqcjud4dql4wpxr",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-axlUSDC)",
+    "address": "terra1ckmsqdhlky9jxcmtyj64crgzjxad9pvsd58k8zsxsnv4vzvwdt7qke04hl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-TPT)",
+    "address": "terra15l5pqlp8q5d4z8tvermadvp429d8pfctg4j802t8edzkf8aavp7q59t7er",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "322"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-TPT)",
+    "address": "terra1ces6k6jp7qzkjpwsl6xg4f7zfwre0u23cglg69hhj3g20fhygtpsu24dsy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (axlUSDT-axlUSDC)",
+    "address": "terra1ygn5h8v8rm0v8y57j3mtu3mjr2ywu9utj6jch6e0ys2fc2pkyddqekwrew",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "428"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (axlUSDT-axlUSDC)",
+    "address": "terra1khsxwfnzuxqcyza2sraxf2ngkr3dwy9f7rm0uts0xpkeshs96ccsqtu6nv",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-LunaX)",
+    "address": "terra1mpj7j25fw5a0q5vfasvsvdp6xytaqxh006lh6f5zpwxvadem9hwsy6m508",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "428"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-LunaX)",
+    "address": "terra1kggfd6z0ad2k9q8v24f7ftxyqush8fp9xku9nyrjcs2wv0e4kypszfrfd0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-axlUSDC)",
+    "address": "terra1w579ysjvpx7xxhckxewk8sykxz70gm48wpcuruenl29rhe6p6raslhj0m6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-axlUSDC)",
+    "address": "terra16esjk7qqlgh8w7p2a58yxhgkfk4ykv72p7ha056zul58adzjm6msvc674t",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-LUNA)",
+    "address": "terra13rj43lsucnel7z8hakvskr7dkfj27hd9aa06pcw4nh7t66fgt7qshrpmaw",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-LUNA)",
+    "address": "terra1fs0p7gammucw7get7mq7rzdk6rexxgszp003zr3859qyfc02ur2sdha672",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ampLUNA-LUNA)",
+    "address": "terra1cr8dg06sh343hh4xzn3gxd3ayetsjtet7q5gp4kfrewul2kql8sqvhaey4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "428"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ampLUNA-LUNA)",
+    "address": "terra1cq22eugxwgp0x34cqfrxmd9jkyy43gas93yqjhmwrm7j0h5ecrqq5j7dgp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (FATMAN-LUNA)",
+    "address": "terra1uz03r5rk7p60aktxl8gm8np2kf9ur3dk3zp80uyztfse07xhnrusqdq8du",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (FATMAN-LUNA)",
+    "address": "terra1ahr8gc72dht7s3fxhqp95xrnvn25uf3tw5elg3vfgtqm2qqk36yszxlcuq",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-STEAK)",
+    "address": "terra1jynmf6gteg4rd03ztldan5j2dp78su4tc3hfvkve8dl068c2yppsk5uszc",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-STEAK)",
+    "address": "terra182wam9eklls989k5qqrcv5s64a9cat6ctw4zr3paa6k79dxt4k0q4kd97a",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (VKR-axlUSDC)",
+    "address": "terra1alzkrc6hkvs8g5a064cukfxnv0jj4l3l8vhgfypfxvysk78v6dgqsymgmv",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (VKR-axlUSDC)",
+    "address": "terra18mcmlf4v23ehukkh7qxgpf5tznzg6893fxmf9ffmdt9phgf365zqvmlug6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ASTRO-xASTRO)",
+    "address": "terra1muhks8yr47lwe370wf65xg5dmyykrawqpkljfm39xhkwhf4r7jps0gwl4l",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "71"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ASTRO-xASTRO)",
+    "address": "terra1wkcyh5l9204m6ef5aujdlnh3frswyhpl8xp7evr7rk0qmyqyhrkqg287g8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (LUNA-cLUNA)",
+    "address": "terra1pxm9qtnrchzy90d99clpa0rkx8fyztlc67wt5t999pc8yvsrx90snpfe4v",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "428"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (LUNA-cLUNA)",
+    "address": "terra1yhpasjvjfc84ywwxl07tfy50zqqhh7l8k0280tfqyr8t5uu6gf4s6u0hxh",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "astroport",
+    "name": "Pair (ORNE-LUNA)",
+    "address": "terra1h4cakgms4ju3eryhrmw00xegtjxkgyv88yqllg9ryz9qxek4qz9sz3swn2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "322"
+  },
+  {
+    "slug": "astroport",
+    "name": "LP Token (ORNE-LUNA)",
+    "address": "terra10ht5t5vzpt6lfh8r6lau6mtsha3rqeznhkw5whc65scgrtkqradq0zy9pa",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "knowhere",
+    "name": "Marketplace",
+    "address": "terra16t9fg9x7pssm39fc90yx508cpw4tv33wfr7sprf6mn3qk84wrk2s2v3qy3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "136"
+  },
+  {
+    "slug": "orne",
+    "name": "Airdrop Registry",
+    "address": "terra1kgktsdm3j3hw6ces3fxjs58rft5c7cq9dpsrdg2lrqfdgsrs5cjshku3vz",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "377"
+  },
+  {
+    "slug": "orne",
+    "name": "ORNE Token",
+    "address": "terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "376"
+  },
+  {
+    "slug": "prism",
+    "name": "Hub",
+    "address": "terra188mmw2vsp0yahen3vh2clup543qrttvdzkxl0h9myfuwjj56nausztpegt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1253"
+  },
+  {
+    "slug": "prism",
+    "name": "cLUNA Token",
+    "address": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "488"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-LunaX)",
+    "address": "terra1qczgczguzmxpsqfwlcaqm5hpy3jrkgrkkkcdxhd4uf28t8l8j6qsgtd863",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "942"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-axlUSDC)",
+    "address": "terra1erm54gtdtfqv2s4c7ple3kmret7eecuj02nk5w8h08jjnenjffzsynsp0u",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "942"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (ASTRO-axlUSDC)",
+    "address": "terra144mkz6p3mmnuqaenu73pg4jwayr3m28xzhaxedlfwfnyke45w6yqvf9ed6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "942"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Farm (LUNA-TPT)",
+    "address": "terra1udwqynsmrme00ksrakkyerrfjdkw9p05557yrrw6ca6x94uuj2zs0vpqt2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "942"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Compound Proxy (ASTRO-axlUSDC)",
+    "address": "terra1jjajqlvjycmze540pzqq2wekqtt6tkn3d9t3muwfelqz43ewwdkskqn0tx",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "778"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Astroport Generator Proxy",
+    "address": "terra1vf9ceekuxx8kycm7yv6hs96hgwsmrzt4la6s84skrgvfu7t09huqqdg09d",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1089"
+  },
+  {
+    "slug": "spectrum",
+    "name": "Fees Collector",
+    "address": "terra10y08s37a8uralncpqredva58e4aqfxc5kpz9yaf5rv48rzqtvsmqpy0f5h",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "779"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Token",
+    "address": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "25"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Staking",
+    "address": "terra179e90rqspswfzmhdl25tg22he0fcefwndgzc957ncx9dleduu7ms3evpuk",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "26"
+  },
+  {
+    "slug": "stader",
+    "name": "Airdrop Registry",
+    "address": "terra1fvw0rt94gl5eyeq36qdhj5x7lunv3xpuqcjxa0llhdssvqtcmrnqlzxdyr",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "22"
+  },
+  {
+    "slug": "stader",
+    "name": "LunaX Reward",
+    "address": "terra1sstqldl7tyvvdseppsa022acrxp7cuuplkc7639w7x7cmm4hjvvqjpwh0x",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "21"
+  },
+  {
+    "slug": "stader",
+    "name": "Staking Pool (Zero Commission)",
+    "address": "terra1sc2dnxyla40y437kl3hkascvsf2xq6maf2cjtsn2a87y298tf4wqdw8qfk",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "254"
+  },
+  {
+    "slug": "stader",
+    "name": "Staking Pool (Community)",
+    "address": "terra1hwpp0g5ed0865gwmvx90ujavrd8pymzjwz9fzl9ue62uzccrj9tsnr23t7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "254"
+  },
+  {
+    "slug": "steak",
+    "name": "STEAK Token",
+    "address": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "88"
+  },
+  {
+    "slug": "steak",
+    "name": "Liquid Staking Hub",
+    "address": "terra12e4v50xl33fnwkzltz9vu565snlmx65vdrk8e2644km09myewr8q538psc",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1366"
+  },
+  {
+    "slug": "terra-poker",
+    "name": "TPT Token",
+    "address": "terra13j2k5rfkg0qhk58vz63cze0uze4hwswlrfnm0fa4rnyggjyfrcnqcrs5z2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "319"
+  },
+  {
+    "slug": "terra-poker",
+    "name": "xTPT Token",
+    "address": "terra1e9s5m6vrl9ms75q0862llq2vcsz8r43czm36s6xnn3vh8dfmwe0s3c86e8",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "464"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Factory",
+    "address": "terra1466nf3zuxpya8q9emxukd7vftaf6h4psr0a07srl5zw74zh84yjqxl5qul",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1721"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Router",
+    "address": "terra13ehuhysn5mqjeaheeuew2gjs785f6k7jm8vfsqg3jhtpkwppcmzqcu7chk",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1722"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (axlUSDT-axlUSDC)",
+    "address": "terra1req03gy0eyeeg9e7nwjyn0pct6hdqtphy837j784492l4hcsh0vqx2n8az",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1723"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (axlUSDT-axlUSDC)",
+    "address": "terra1mpyp9t48q2dy6s4lkxwjpy8sgg4r823hwam2tap2ra86hmgrrqyqcf6ehy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "4"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-STEAK)",
+    "address": "terra1zdpq84j8ex29wz9tmygqtftplrw87x8wmuyfh0rsy60uq7nadtsq5pjr7y",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1723"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-STEAK)",
+    "address": "terra1gte4eejaw3hrs2d8pt0zhp0yfd34xp24qdgqumjul29jt5hwl5tsx3qmw7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "4"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-axlUSDC)",
+    "address": "terra1zrs8p04zctj0a0f9azakwwennrqfrkh3l6zkttz9x89e7vehjzmqzg8v7n",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1723"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-axlUSDC)",
+    "address": "terra1a0fyanyqm496fpgneqawhlsug6uqfvqg2epnw39q0jdenw3zs8zqlykdyd",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "4"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-axlUSDT)",
+    "address": "terra1u3wd9gu7weezw6vwfaaa4q589zjlazg6wt6gyer3lc42tgqrpggqv90c2c",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1723"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-axlUSDT)",
+    "address": "terra1w2l4w5p66l5t2nmrmsvz7k4cu50s7e8dc6h59gcxsnmp2tgy7q7smfaxql",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "4"
+  },
+  {
+    "slug": "terraswap",
+    "name": "Pair (LUNA-LunaX)",
+    "address": "terra1h3wqh8fdsd8rr6rlz3yfp9sm8849wrec8vqsmkwksx0ndkqaxkjqellq28",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "1723"
+  },
+  {
+    "slug": "terraswap",
+    "name": "LP Token (LUNA-LunaX)",
+    "address": "terra1gkg8cxha802dy8km0jldyegmtj384f69wp0c3cvtfq43gu8caa7swpe4kc",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "4"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "VKR Token",
+    "address": "terra1gy73st560m2j0esw5c5rjmr899hvtv4rhh4seeajt3clfhr4aupszjss4j",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "69"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "LP Staking",
+    "address": "terra1ntuxp79l68pjnj5q6ys8a0chwlu9sqd5zm47umvkcqv6ym06wghsp3qu7n",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "180"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Valkyrian Pass",
+    "address": "terra1xepgy0lp0lkt9dq89pfe3sqwnfyln29r2zj5qqkp75l2egthmmkqkn36vv",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "182"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Governance",
+    "address": "terra1hkdpd7d5l5pn06rvkk8v8zh8segfeuutjx29xau2xvrvepcj7vvs7frq0h",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "179"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Proxy",
+    "address": "terra1k2na93mpdknylcwae28xzdy3pwtar8w9feasq95nd8f7hzlm778qgaxs8f",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "181"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Airdrop",
+    "address": "terra10dxw3jhvu48dj2nnh6urq706gqwqapsa5rzmyynrep82xhnefvdq4hwn3j",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "174"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "VP Airdrop",
+    "address": "terra1vg8gvsenq3kmj898zelg90w7364uqndd0l9l3kx7xpq3rghhf44q4g55wh",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "196"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "TPT IPC Qualifier",
+    "address": "terra1a0ky2ud7q3yf9pc4jckpw284m32k0vldkrdht5ns90zcy3yllf7q0g8a2j",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "320"
+  },
+  {
+    "slug": "valkyrie",
+    "name": "Campaign Manager",
+    "address": "terra1uxzxe4vukgucrlp70k988al7m2e3lsln7zd2cp00tukqtv9vldyq4m8ujn",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "175"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Core Bridge",
+    "address": "terra12mrnzvhx3rpej6843uge2yyfppfyd3u9c3uq223q8sl48huz9juqffcnhp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "146"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Token Bridge",
+    "address": "terra153366q50k7t8nn7gec00hg66crnhkdggpgdtaxltaq6xrutkkz3s992fw9",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
+    "code": "151"
+  },
+  {
+    "slug": "edge",
+    "name": "Pool",
+    "address": "terra1578x6m86q623uajchjdxsxc7v6f68k22ggzcnctraqc7p85s99kqja53sx",
+    "description": "Edge pool contract that handles deposits/withdrawals and hold the market's assets.",
+    "code": "896"
+  },
+  {
+    "slug": "edge",
+    "name": "Liquidator",
+    "address": "terra1fhw3z8ypqde9stafphg3w2hld98sp3hcas9hgsz6wqjxlvedrc5sprswnq",
+    "description": "Edge liquidator contract.",
+    "code": "898"
+  },
+  {
+    "slug": "edge",
+    "name": "Oracle",
+    "address": "terra1lpxzrpzkfrzfuz8z6svqly0szpz98aj9c6z77wz5lmchnk7zmp2q2enyxv",
+    "description": "Edge oracle contract responsible for updating and returning the supported asset prices to the pool.",
+    "code": "897"
+  }
+]

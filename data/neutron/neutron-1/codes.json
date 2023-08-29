@@ -1,0 +1,268 @@
+[
+  {
+    "slug": "neutron",
+    "name": "Neutron Core",
+    "id": 1,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/subdaos/cwd-subdao-core"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Single Pre-Propose",
+    "id": 2,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/subdaos/pre-propose/cwd-subdao-pre-propose-single"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Multiple Pre-Propose",
+    "id": 3,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/pre-propose/cwd-pre-propose-single"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Pre-Propose Single Overrule",
+    "id": 4,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/pre-propose/cwd-pre-propose-single-overrule"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron SubDAO Proposal Single",
+    "id": 5,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/subdaos/proposal/cwd-subdao-proposal-single"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Proposal Multiple",
+    "id": 6,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/pre-propose/cwd-pre-propose-multiple"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Voting Registry",
+    "id": 7,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/neutron-voting-registry"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Voting Vault",
+    "id": 8,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/neutron-vault"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Distribution",
+    "id": 9,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Reserves",
+    "id": 10,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron SubDAO Core",
+    "id": 11,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/subdaos/cwd-subdao-core"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron SubDAO Proposal Single",
+    "id": 14,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/subdaos/proposal/cwd-subdao-proposal-single"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron CW4 Voting",
+    "id": 15,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "CW4 Group",
+    "id": 16,
+    "description": "",
+    "github": "https://github.com/CosmWasm/cw-plus/tree/main/contracts/cw4-group"
+  },
+  {
+    "slug": "neutron",
+    "name": "Rescueeer",
+    "id": 17,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "CW3 Fixed Multisig",
+    "id": 18,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Lockdrop",
+    "id": 19,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/lockdrop"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Auction",
+    "id": 20,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/auction"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Credits",
+    "id": 21,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/credits"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Merkle Airdrop",
+    "id": 22,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron TGE Band IBC Price Feed",
+    "id": 23,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/price-feed"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport TWAP Oracle",
+    "id": 24,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/astroport/oracle"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Vesting LP",
+    "id": 25,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/vesting-lp"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Credits Vault",
+    "id": 26,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/credits-vault"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Lockdrop Vault",
+    "id": 27,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/lockdrop-vault"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Investor Vesting",
+    "id": 28,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/vesting-investors"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Vesting LTI",
+    "id": 29,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-tge-contracts/tree/main/contracts/vesting-lti"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Investor Vesting Vault",
+    "id": 30,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/investors-vesting-vault"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Satellite",
+    "id": 31,
+    "description": "",
+    "github": "https://github.com/astroport-fi/astroport_ibc/tree/main/contracts/satellite"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Factory",
+    "id": 33,
+    "description": "",
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/factory"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Native Coin Registry",
+    "id": 34,
+    "description": "",
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/periphery/native_coin_registry"
+  },
+  {
+    "slug": "neutron",
+    "name": "Neutron Vesting LP Vault",
+    "id": 41,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/vesting-lp-vault"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport CW1 Whitelist",
+    "id": 42,
+    "description": "",
+    "github": "https://github.com/neutron-org/neutron-dao/tree/main/contracts/dao/voting/vesting-lp-vault"
+  },
+  {
+    "slug": "apollodao",
+    "name": "Apollo CW3 Fixed Multisig",
+    "id": 45,
+    "description": "Contract code for the Apollo variant of the CW3 fixed multisig contract.",
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "id": 66,
+    "description": "",
+    "github": "https://github.com/wormhole-foundation/wormhole/tree/ae7de3d575a0cee7ceaf69080952fa148dc0a346/cosmwasm/contracts/wormhole"
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth",
+    "id": 67,
+    "description": "",
+    "github": "https://github.com/pyth-network/pyth-crosschain/tree/0ac771266c90864237a9e8f2c596c5be3318958c/target_chains/cosmwasm/contracts"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Pair",
+    "id": 35,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Stable Pair",
+    "id": 40,
+    "description": "",
+    "github": ""
+  }
+]
