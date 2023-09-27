@@ -327,5 +327,47 @@
     "description": "",
     "id": 84,
     "github": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "Transmuter v1",
+    "description": "",
+    "id": 148,
+    "github": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "Affiliate Swap",
+    "description": "",
+    "id": 149,
+    "github": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "WBTC",
+    "description": "",
+    "id": 150,
+    "github": ""
+  },
+  {
+    "slug": "stride",
+    "name": "Stride Redemption Rate Oracle",
+    "description": "",
+    "id": 151,
+    "github": ""
+  },
+  {
+    "slug": "stride",
+    "name": "Stride stToken Scaling Factor Auto-update",
+    "description": "",
+    "id": 152,
+    "github": ""
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth v1.3.0",
+    "description": "",
+    "id": 142,
+    "github": ""
   }
 ]

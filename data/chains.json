@@ -388,6 +388,35 @@
           }
         ],
         "faucets": []
+      },
+      {
+        "type": "mainnet",
+        "bech32Prefix": "sei",
+        "celatone": "https://seiscan.app/pacific-1",
+        "chainId": "pacific-1",
+        "chainName": "Sei Mainnet",
+        "publicLCD": "https://sei-api.polkachu.com/",
+        "lcdSwagger": "",
+        "publicRPC": "https://sei-rpc.polkachu.com/",
+        "rpcSwagger": "",
+        "publicGRPC": "",
+        "lcds": [
+          {
+            "url": "https://sei-api.polkachu.com",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://sei-rpc.polkachu.com/",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "faucets": []
       }
     ]
   }

@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "slug": "mars",
+    "name": "Mars Address Provider",
+    "address": "osmo1wlm6dc0vnncu2v5z26rv97plmlkmalm84uwqatrlftc4gmp8ahgqs6r4py",
+    "description": "",
+    "github": "",
+    "code": 73
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Incentives",
+    "address": "osmo1wlm6dc0vnncu2v5z26rv97plmlkmalm84uwqatrlftc4gmp8ahgqs6r4py",
+    "description": "",
+    "github": "",
+    "code": 74
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Oracle",
+    "address": "osmo1wlm6dc0vnncu2v5z26rv97plmlkmalm84uwqatrlftc4gmp8ahgqs6r4py",
+    "description": "",
+    "github": "",
+    "code": 876
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank",
+    "address": "osmo1wlm6dc0vnncu2v5z26rv97plmlkmalm84uwqatrlftc4gmp8ahgqs6r4py",
+    "description": "",
+    "github": "",
+    "code": 72
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "address": "osmo1wlm6dc0vnncu2v5z26rv97plmlkmalm84uwqatrlftc4gmp8ahgqs6r4py",
+    "description": "",
+    "github": "",
+    "code": 76
+  }
+]

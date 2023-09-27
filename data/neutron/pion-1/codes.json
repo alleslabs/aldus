@@ -1,16 +1,51 @@
 [
-    {
-        "slug": "astroport",
-        "name": "Astroport Pair",
-        "id": 114,
-        "description": "",
-        "github": ""
-    },
-    {
-        "slug": "astroport",
-        "name": "Astroport Stable Pair",
-        "id": 110,
-        "description": "",
-        "github": ""
-    }
+  {
+    "slug": "astroport",
+    "name": "Astroport Pair",
+    "id": 114,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Address Provider",
+    "id": 1310,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Incentives",
+    "id": 1355,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Oracle",
+    "id": 1313,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank",
+    "id": 1311,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "id": 1314,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Swapper",
+    "id": 1315,
+    "description": "",
+    "github": ""
+  }
 ]

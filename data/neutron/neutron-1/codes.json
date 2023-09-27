@@ -264,5 +264,47 @@
     "id": 40,
     "description": "",
     "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Address Provider",
+    "id": 162,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Incentives",
+    "id": 163,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Oracle",
+    "id": 164,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank",
+    "id": 161,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "id": 165,
+    "description": "",
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Swapper",
+    "id": 166,
+    "description": "",
+    "github": ""
   }
 ]

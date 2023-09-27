@@ -1094,23 +1094,6 @@
     "type": "native"
   },
   {
-    "coingecko": "wrapped-steth",
-    "coinmarketcap": "",
-    "description": "Wrapped Staked ETH",
-    "id": {
-      "initia": {
-        "stone-7": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220",
-        "stone-10": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220"
-      }
-    },
-    "logo": "https://list.initia.tech/images/0xfa5f07319724580ef16dcef6ce4d3b0bd0348e48::coins::MaticX.webp",
-    "name": "Wrapped stETH",
-    "precision": 6,
-    "slugs": ["stader", "polygon"],
-    "symbol": "wstETH",
-    "type": "native"
-  },
-  {
     "coingecko": "",
     "coinmarketcap": "",
     "description": "The native token cw20 for Marble DAO on Juno Chain",
@@ -4182,6 +4165,22 @@
     "type": "native"
   },
   {
+    "coingecko": "usd-coin",
+    "coinmarketcap": "",
+    "description": "Circle's stablecoin on Noble",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
+    "name": "Noble USDC",
+    "precision": 6,
+    "slugs": ["circle"],
+    "symbol": "USDC",
+    "type": "native"
+  },
+  {
     "coingecko": "",
     "description": "",
     "id": {
@@ -4610,6 +4609,10 @@
     "coinmarketcap": "",
     "description": "",
     "id": {
+      "initia": {
+        "stone-7": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220",
+        "stone-10": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220"
+      },
       "neutron": {
         "neutron-1": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
         "pion-1": "factory/neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h/wstETH"
