@@ -423,7 +423,7 @@
         "osmosis-1": "factory/osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm/uibcx"
       }
     },
-    "logo": "https://celatone-api.alleslabs.dev/images/entities/ibcx",
+    "logo": "https://pbs.twimg.com/profile_images/1588076056745213952/BTyzhIhc_400x400.jpg",
     "name": "IBCX Token",
     "precision": 6,
     "slugs": ["ibcx"],
@@ -3085,7 +3085,7 @@
         "osmosis-1": "factory/osmo1xqw2sl9zk8a6pch0csaw78n4swg5ws8t62wc5qta4gnjxfqg6v2qcs243k/stuibcx"
       }
     },
-    "logo": "https://celatone-api.alleslabs.dev/images/assets/stIBCX",
+    "logo": "https://imagedelivery.net/4-5JC1r3VHAXpnrwWHBHRQ/62f2c4c0-3b20-471c-28b8-8cd840b1c800/coin128",
     "name": "Stride Staked IBCX",
     "precision": 6,
     "slugs": ["ibcx"],
