@@ -500,5 +500,13 @@
     "description": "",
     "code": 84,
     "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Params",
+    "address": "osmo1nlmdxt9ctql2jr47qd4fpgzg84cjswxyw6q99u4y4u4q6c2f5ksq7ysent",
+    "description": "",
+    "code": 213,
+    "github": ""
   }
 ]
