@@ -327,7 +327,7 @@
         "url": "https://discord.gg/Wgq8K662f8"
       }
     ],
-    "description": ""
+    "description": "A multi-chain DEFI/Collateral/NFT Hub of the Cosmos"
   },
   {
     "slug": "band",
@@ -461,28 +461,7 @@
     ],
     "description": ""
   },
-  {
-    "slug": "terra",
-    "name": "Builder Council",
-    "website": "",
-    "github": "",
-    "logo": "terra.png",
-    "socials": [
-      {
-        "name": "twitter",
-        "url": ""
-      },
-      {
-        "name": "telegram",
-        "url": ""
-      },
-      {
-        "name": "discord",
-        "url": ""
-      }
-    ],
-    "description": ""
-  },
+
   {
     "slug": "canto",
     "name": "Canto",
@@ -677,50 +656,6 @@
       {
         "name": "discord",
         "url": "https://discord.com/invite/7vjPvWKKMT"
-      }
-    ],
-    "description": ""
-  },
-  {
-    "slug": "terra",
-    "name": "Core Distribution Module",
-    "website": "",
-    "github": "",
-    "logo": "",
-    "socials": [
-      {
-        "name": "twitter",
-        "url": ""
-      },
-      {
-        "name": "telegram",
-        "url": ""
-      },
-      {
-        "name": "discord",
-        "url": ""
-      }
-    ],
-    "description": ""
-  },
-  {
-    "slug": "terra",
-    "name": "Core Staking Module",
-    "website": "",
-    "github": "",
-    "logo": "",
-    "socials": [
-      {
-        "name": "twitter",
-        "url": ""
-      },
-      {
-        "name": "telegram",
-        "url": ""
-      },
-      {
-        "name": "discord",
-        "url": ""
       }
     ],
     "description": ""
@@ -1143,28 +1078,7 @@
     ],
     "description": ""
   },
-  {
-    "slug": "terra",
-    "name": "IBC Transfer Module",
-    "website": "",
-    "github": "",
-    "logo": "",
-    "socials": [
-      {
-        "name": "twitter",
-        "url": ""
-      },
-      {
-        "name": "telegram",
-        "url": ""
-      },
-      {
-        "name": "discord",
-        "url": ""
-      }
-    ],
-    "description": ""
-  },
+
   {
     "slug": "icns",
     "name": "Interchain Name Service (ICNS)",
