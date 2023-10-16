@@ -682,7 +682,7 @@
     "description": ""
   },
   {
-    "slug": "core-distribution-module",
+    "slug": "terra",
     "name": "Core Distribution Module",
     "website": "",
     "github": "",
@@ -704,7 +704,7 @@
     "description": ""
   },
   {
-    "slug": "core-staking-module",
+    "slug": "terra",
     "name": "Core Staking Module",
     "website": "",
     "github": "",
@@ -1144,7 +1144,7 @@
     "description": ""
   },
   {
-    "slug": "ibc-transfer-module",
+    "slug": "terra",
     "name": "IBC Transfer Module",
     "website": "",
     "github": "",
@@ -2772,7 +2772,7 @@
     "description": ""
   },
   {
-    "slug": "terra",
+    "slug": "tfl",
     "name": "TFL",
     "website": "https://terra.money",
     "github": "https://github.com/terra-money",
@@ -2904,7 +2904,7 @@
     "description": "Terra2 validator and R&D lab providing advanced dev tooling and training resources for builders"
   },
   {
-    "slug": "terrascope",
+    "slug": "chainscope",
     "name": "Chainscope",
     "website": "https://chainsco.pe",
     "github": "",

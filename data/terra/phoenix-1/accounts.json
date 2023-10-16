@@ -1,601 +1,601 @@
 [
   {
     "slug": "astroport",
-    "name": "Account 1",
+    "name": "Astroport Account 1",
     "address": "terra1xqys9ke2y98puxvgmuc5px2yr6c563rhawy7h9",
     "description": "",
     "type": "account"
   },
   {
     "slug": "astroport",
-    "name": "Account 2",
+    "name": "Astroport Account 2",
     "address": "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx",
     "description": "",
     "type": "account"
   },
   {
     "slug": "astroport",
-    "name": "Emergency Allocation Receiver",
+    "name": "Astroport Emergency Allocation Receiver",
     "address": "terra1ufthac7gfg7sa0q3dujmzczea4w5yukwps9825ghxsufrqk53dcqttsng2",
     "description": "",
     "type": "contract"
   },
   {
     "slug": "astroport",
-    "name": "Temporary Multisig",
+    "name": "Astroport Temporary Multisig",
     "address": "terra174gu7kg8ekk5gsxdma5jlfcedm653tyg6ayppw",
     "description": "",
     "type": "account"
   },
   {
     "slug": "knowhere",
-    "name": "Emergency Allocation Receiver",
+    "name": "Knowhere Emergency Allocation Receiver",
     "address": "terra1fhgcg9jh4kgdl5v63wwfgh7kv5megs22pvadwv",
     "description": "",
     "type": "account"
   },
   {
     "slug": "orne",
-    "name": "Emergency Allocation Receiver",
+    "name": "Orne Emergency Allocation Receiver",
     "address": "terra102d7hvknwqegydy03kfpapj3zn3m7hschy90qy",
     "description": "",
     "type": "account"
   },
   {
     "slug": "prism",
-    "name": "Account 1",
+    "name": "Prism Account 1",
     "address": "terra1dsdl47764znk0q0sp438rqnelfyrrss5d0vn03",
     "description": "",
     "type": "account"
   },
   {
     "slug": "prism",
-    "name": "Emergency Allocation Receiver",
+    "name": "Prism Emergency Allocation Receiver",
     "address": "terra1p54ah0d9rmgxk5mcl4lhms7pt5v6flyd4sxcf2",
     "description": "",
     "type": "account"
   },
   {
     "slug": "spectrum",
-    "name": "Emergency Allocation Receiver",
+    "name": "Spectrum Emergency Allocation Receiver",
     "address": "terra12f4h5sk0mfmrvectgw3nns56rlp9za9z0hvvvv",
     "description": "",
     "type": "account"
   },
   {
     "slug": "stader",
-    "name": "Emergency Allocation Receiver",
+    "name": "Stader Emergency Allocation Receiver",
     "address": "terra1w8vaq4xd0vmv8l33d2v8cancwm95ft47t5wc0y",
     "description": "",
     "type": "account"
   },
   {
     "slug": "terraswap",
-    "name": "Emergency Allocation Receiver",
+    "name": "Terraswap Emergency Allocation Receiver",
     "address": "terra1hsykldx0edupvzpq020cwl6fkxr6m676fllrs8",
     "description": "",
     "type": "account"
   },
   {
     "slug": "valkyrie",
-    "name": "Account 1",
+    "name": "Valkyrie Account 1",
     "address": "terra1vle5gvd8q5l7p6dg6h8y3rygylpnzmwzp0pdu9",
     "description": "",
     "type": "account"
   },
   {
     "slug": "valkyrie",
-    "name": "Emergency Allocation Receiver",
+    "name": "Valkyrie Emergency Allocation Receiver",
     "address": "terra1uuauvfqn0mv78er6w6uj44uwgkfqv00n3m3rq3",
     "description": "",
     "type": "account"
   },
   {
     "slug": "aperture",
-    "name": "Emergency Allocation Receiver",
+    "name": "Aperture Emergency Allocation Receiver",
     "address": "terra1pcqnws4d6c96882ejv6euwezmh24fm7xsxtz82",
     "description": "",
     "type": "account"
   },
   {
     "slug": "pavo",
-    "name": "Emergency Allocation Receiver",
+    "name": "Pavo Emergency Allocation Receiver",
     "address": "terra1epsv0xfy9cqzj80d8rd62w8ku70j9n6lfx0wry",
     "description": "",
     "type": "account"
   },
   {
     "slug": "setten",
-    "name": "Emergency Allocation Receiver",
+    "name": "Setten Emergency Allocation Receiver",
     "address": "terra190ggr8ahpa2kf7xd7mmngg4qlrs5m75570tcp4",
     "description": "",
     "type": "account"
   },
   {
     "slug": "galactic-punks",
-    "name": "Emergency Allocation Receiver",
+    "name": "Galactic Punks Emergency Allocation Receiver",
     "address": "terra1jkuzfgsygcjjqyfkec4xx32ft3w9t3789je377",
     "description": "",
     "type": "account"
   },
   {
     "slug": "astral-money",
-    "name": "Emergency Allocation Receiver",
+    "name": "Astral Money Emergency Allocation Receiver",
     "address": "terra1t29pcnex9w356vx9j3czczmvnglweun79qc7vd",
     "description": "",
     "type": "account"
   },
   {
     "slug": "apollodao",
-    "name": "Emergency Allocation Receiver",
+    "name": "Apollodao Emergency Allocation Receiver",
     "address": "terra1lp5qpaew3j7st98yslnrj4r63yke8vwc34y6uf5jcdu35va059dsxye54j",
     "description": "",
     "type": "contract"
   },
   {
     "slug": "binance",
-    "name": "Account 1",
+    "name": "Binance Account 1",
     "address": "terra19scdgmvhj5rl7f66n06z5pescf0gmeysw6pjrz",
     "description": "",
     "type": "account"
   },
   {
     "slug": "binance",
-    "name": "Deposit",
+    "name": "Binance Deposit",
     "address": "terra1ncjg4a59x2pgvqy9qjyqprlj8lrwshm0wleht5",
     "description": "",
     "type": "account"
   },
   {
     "slug": "binance",
-    "name": "Withdraw",
+    "name": "Binance Withdraw",
     "address": "terra18vnrzlzm2c4xfsx382pj2xndqtt00rvhu24sqe",
     "description": "",
     "type": "account"
   },
   {
     "slug": "capapult",
-    "name": "Emergency Allocation Receiver",
+    "name": "Capapult Emergency Allocation Receiver",
     "address": "terra1cqc26lnatzxvu0z5nd4yx8m4ecllkm7jlj6nna",
     "description": "",
     "type": "account"
   },
   {
     "slug": "hermes",
-    "name": "Emergency Allocation Receiver",
+    "name": "Hermes Emergency Allocation Receiver",
     "address": "terra15w7ntdhcyfce3twyj5s73gm536q7vn8yf5vp6n",
     "description": "",
     "type": "account"
   },
   {
     "slug": "tfm",
-    "name": "Emergency Allocation Receiver",
+    "name": "Tfm Emergency Allocation Receiver",
     "address": "terra12yaws2qefaf9n7e9gu0qd6mdlqvg5520l65gjm",
     "description": "",
     "type": "account"
   },
   {
     "slug": "y-foundry-dao",
-    "name": "Emergency Allocation Receiver",
+    "name": "Y Foundry Dao Emergency Allocation Receiver",
     "address": "terra1c56njwtrg6hlgelly226snegtmtwvlsls85d592rggah3mecjxxqgwfd5d",
     "description": "",
     "type": "contract"
   },
   {
     "slug": "terrafirma",
-    "name": "Emergency Allocation Receiver",
+    "name": "Terrafirma Emergency Allocation Receiver",
     "address": "terra1gefdegujr5urhxtn4e9m9sh3sw8dy9pc24atfu",
     "description": "",
     "type": "account"
   },
   {
     "slug": "gravidao",
-    "name": "Emergency Allocation Receiver",
+    "name": "Gravidao Emergency Allocation Receiver",
     "address": "terra16kg3e40kxn5juvcyvp0t8rkg8j2af8cha8jprv",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "terra",
-    "name": "Account 1",
+    "slug": "tfl",
+    "name": "Tfl Account 1",
     "address": "terra1dp0taj85ruc299rkdvzp4z5pfg6z6swaed74e6",
     "description": "",
     "type": "account"
   },
   {
     "slug": "hero-nft",
-    "name": "Emergency Allocation Receiver",
+    "name": "Hero Nft Emergency Allocation Receiver",
     "address": "terra1a4mz3g5e0u26pknu3nyyh0wdqzfry4ucq64dqj",
     "description": "",
     "type": "account"
   },
   {
     "slug": "coinex",
-    "name": "Account 1",
+    "name": "Coinex Account 1",
     "address": "terra1u2ynhr2y9ame80vf5nll0hmqkldkmrrq624r6m",
     "description": "",
     "type": "account"
   },
   {
     "slug": "coinhall",
-    "name": "Emergency Allocation Receiver",
+    "name": "Coinhall Emergency Allocation Receiver",
     "address": "terra18stcc5du0rvzps4069vkhrf92tf9jtq29w38pg",
     "description": "",
     "type": "account"
   },
   {
     "slug": "andromeda",
-    "name": "Emergency Allocation Receiver",
+    "name": "Andromeda Emergency Allocation Receiver",
     "address": "terra1zc22aslphuhg3qhs6sk86h27gtxkkf8tf44l9n",
     "description": "",
     "type": "account"
   },
   {
     "slug": "paywithterra",
-    "name": "Emergency Allocation Receiver",
+    "name": "Paywithterra Emergency Allocation Receiver",
     "address": "terra13qw6pcnztd0g0nakqp6fpr2mz0aqn3hdl7qkxw",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "core-distribution-module",
-    "name": "Gas Fee Pool",
+    "slug": "terra",
+    "name": "Terra Gas Fee Pool",
     "address": "terra17xpfvakm2amg962yls6f84z3kell8c5lkaeqfa",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "core-distribution-module",
-    "name": "Main Distributor",
+    "slug": "terra",
+    "name": "Terra Main Distributor",
     "address": "terra1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8pm7utl",
     "description": "",
     "type": "account"
   },
   {
     "slug": "wicca",
-    "name": "Emergency Allocation Receiver",
+    "name": "Wicca Emergency Allocation Receiver",
     "address": "terra1nc4mwpxturk73m26rra6j737uss90cz2n4sr8v",
     "description": "",
     "type": "account"
   },
   {
     "slug": "kraken",
-    "name": "Account 1",
+    "name": "Kraken Account 1",
     "address": "terra1nm0rrq86ucezaf8uj35pq9fpwr5r82clp5z7r5",
     "description": "",
     "type": "account"
   },
   {
     "slug": "moonpay",
-    "name": "Account 1",
+    "name": "Moonpay Account 1",
     "address": "terra1u4kjc9nej0ft9wgpl65fpjs2367ku3gh2g9pka",
     "description": "",
     "type": "account"
   },
   {
     "slug": "edge",
-    "name": "Emergency Allocation Receiver",
+    "name": "Edge Emergency Allocation Receiver",
     "address": "terra1532yxrh3n9gux2420nr85lav66k9tgxreq2936",
     "description": "",
     "type": "account"
   },
   {
     "slug": "edge",
-    "name": "Admin",
+    "name": "Edge Admin",
     "address": "terra15p7gex75vygne54xzlwdvxl20uzh5jzuje8hgh",
     "description": "Address used as admin in protocol contracts",
     "type": "account"
   },
   {
     "slug": "cyberdeck",
-    "name": "Emergency Allocation Receiver",
-    "address": "terra1t7awtndqgc2t2289rfevry3p5pw0lg3lzz6qcn",
+    "name": "Cyberdeck Emergency Allocation Receiver",
+    "address": "terra1t7awtndqgc2t2289rfevry3p5pw0lg3zz6qcn",
     "description": "",
     "type": "account"
   },
   {
     "slug": "lfg",
-    "name": "Account 1",
+    "name": "Lfg Account 1",
     "address": "terra1gr0xesnseevzt3h4nxr64sh5gk4dwrwgszx3nw",
     "description": "",
     "type": "account"
   },
   {
     "slug": "arbie",
-    "name": "Emergency Allocation Receiver",
+    "name": "Arbie Emergency Allocation Receiver",
     "address": "terra142a8p77re5c7qjh6qvsst0l40nl3lfp6mvlu99",
     "description": "",
     "type": "account"
   },
   {
     "slug": "okcoin",
-    "name": "Account 1",
+    "name": "Okcoin Account 1",
     "address": "terra16jpsrgl423fqg6n0e9edllew9z0gm7rhl5300u",
     "description": "",
     "type": "account"
   },
   {
     "slug": "redacted-money",
-    "name": "Emergency Allocation Receiver",
+    "name": "Redacted Money Emergency Allocation Receiver",
     "address": "terra12kc0xfvw4u2z6p89vfpzdgwpfmhwe5sd48jjgm",
     "description": "",
     "type": "account"
   },
   {
     "slug": "talis",
-    "name": "Emergency Allocation Receiver",
+    "name": "Talis Emergency Allocation Receiver",
     "address": "terra1mqkx90dhyfhrqe0qkqw5eycst5akegs47hvt64",
     "description": "",
     "type": "account"
   },
   {
     "slug": "upbit",
-    "name": "Account 1",
+    "name": "Upbit Account 1",
     "address": "terra1t28h4fg8gjpggvq985d2zz569qj8hpxnsxcx93",
     "description": "",
     "type": "account"
   },
   {
     "slug": "validator-dao",
-    "name": "Emergency Allocation Receiver",
+    "name": "Validator Dao Emergency Allocation Receiver",
     "address": "terra1equ5u2v89jmantmj0zajsdxhvjc8jdv96mz7ny",
     "description": "",
     "type": "account"
   },
   {
     "slug": "huobi",
-    "name": "Account 1",
+    "name": "Huobi Account 1",
     "address": "terra1teescurtylg20tw3fu8cn2p7qe3klpk6f4s9uq",
     "description": "",
     "type": "account"
   },
   {
     "slug": "packs",
-    "name": "Emergency Allocation Receiver",
+    "name": "Packs Emergency Allocation Receiver",
     "address": "terra1fj39kyjexh4g7mj559n0utctl6504976lv862d",
     "description": "",
     "type": "account"
   },
   {
     "slug": "tix",
-    "name": "Emergency Allocation Receiver",
+    "name": "Tix Emergency Allocation Receiver",
     "address": "terra1j267ydrhaju93rj88s9th8tw9y9jd0qrfuyys5",
     "description": "",
     "type": "account"
   },
   {
     "slug": "builder-council",
-    "name": "Emergency Allocation Distributor",
+    "name": "Builder Council Emergency Allocation Distributor",
     "address": "terra1exqfh9ahyzm9g8z3ce57eyuxx72vem63utepjsf6stqtrztyz58spaf8ew",
     "description": "",
     "type": "account"
   },
   {
     "slug": "white-whale",
-    "name": "Emergency Allocation Receiver",
+    "name": "White Whale Emergency Allocation Receiver",
     "address": "terra15zg85d7wsmmg9hp2v5fjz8djyw3mk63ku702h0",
     "description": "",
     "type": "account"
   },
   {
     "slug": "kado",
-    "name": "Emergency Allocation Receiver",
+    "name": "Kado Emergency Allocation Receiver",
     "address": "terra17qpf86uk800le0wmwmvf3khyy40ywrrdd5wa3c",
     "description": "",
     "type": "account"
   },
   {
     "slug": "ftx",
-    "name": "Account 1",
+    "name": "Ftx Account 1",
     "address": "terra1luagdjcr9c9yvp3ak4d7chjm5gldcmgln5rku5",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "terrascope",
-    "name": "Emergency Allocation Receiver",
+    "slug": "chainscope",
+    "name": "Chainscope Emergency Allocation Receiver",
     "address": "terra1gry4gtfn2pm4mv9kptzsandy7a6x7w27cvrrun",
     "description": "",
     "type": "account"
   },
   {
     "slug": "newton",
-    "name": "Account 1",
+    "name": "Newton Account 1",
     "address": "terra12gmawj54szkfwx0hhx4dhftpz4mc4z0yg9f3sz",
     "description": "",
     "type": "account"
   },
   {
     "slug": "terran-one",
-    "name": "Emergency Allocation Receiver",
+    "name": "Terran One Emergency Allocation Receiver",
     "address": "terra1tayu9qtxgs2eeejr5lehvswfk2ahp7cmg63uyv",
     "description": "",
     "type": "account"
   },
   {
     "slug": "nftswitch",
-    "name": "Emergency Allocation Receiver",
+    "name": "Nftswitch Emergency Allocation Receiver",
     "address": "terra1s9w9rpxfgyds5yv8rqnlrfv4wgkhy6syvdrm42",
     "description": "",
     "type": "account"
   },
   {
     "slug": "bithumb",
-    "name": "Account 1",
+    "name": "Bithumb Account 1",
     "address": "terra1ksua3uylq7t46kdumhmepywe8u3nglpku8xsk9",
     "description": "",
     "type": "account"
   },
   {
     "slug": "pulsar",
-    "name": "Emergency Allocation Receiver",
+    "name": "Pulsar Emergency Allocation Receiver",
     "address": "terra1c95zr0hky75q0ll9s39qng8m337u8s9caj3q8g",
     "description": "",
     "type": "account"
   },
   {
     "slug": "eris",
-    "name": "Account 1",
+    "name": "Eris Account 1",
     "address": "terra1kefa2zgjn45ctj32d3tje5jdwus7px6n2klgzl",
     "description": "",
     "type": "account"
   },
   {
     "slug": "eris",
-    "name": "Emergency Allocation Receiver",
+    "name": "Eris Emergency Allocation Receiver",
     "address": "terra1alxk3fmhcl0ga80gl9yj9zp3ezjm4sdh8a9l9c",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "ibc-transfer-module",
-    "name": "Account 1",
+    "slug": "terra",
+    "name": "Terra Account 1",
     "address": "terra1yl6hdjhmkf37639730gffanpzndzdpmhgmvf4r",
     "description": "",
     "type": "account"
   },
   {
     "slug": "illiquid-labs",
-    "name": "Emergency Allocation Receiver",
+    "name": "Illiquid Labs Emergency Allocation Receiver",
     "address": "terra1r737l3gqezy4lfxjg5yua3kqs0qe4kjf6y9tq9",
     "description": ""
   },
   {
     "slug": "risk-harbor",
-    "name": "Emergency Allocation Receiver",
+    "name": "Risk Harbor Emergency Allocation Receiver",
     "address": "terra1kgvq20ecx89fpungzqh72605mhjemws29s0jn7",
     "description": "",
     "type": "account"
   },
   {
     "slug": "sayve",
-    "name": "Emergency Allocation Receiver",
+    "name": "Sayve Emergency Allocation Receiver",
     "address": "terra17nwgfpcaml7hslyug72rdpfgnrcsgcf9g9kc0k",
     "description": "",
     "type": "account"
   },
   {
     "slug": "trackterra",
-    "name": "Emergency Allocation Receiver",
+    "name": "Trackterra Emergency Allocation Receiver",
     "address": "terra1cmtruuaxvafqnsxjxfgwgepnnkh3pmz8t9jc058rlsr6qsz3ulrqvj27uc",
     "description": "",
     "type": "account"
   },
   {
     "slug": "randomearth",
-    "name": "Emergency Allocation Receiver",
+    "name": "Randomearth Emergency Allocation Receiver",
     "address": "terra12w0u3jx702yc50zw0kuafg3fgxkv2h8cggryx0",
     "description": "",
     "type": "account"
   },
   {
     "slug": "okx",
-    "name": "Deposit",
+    "name": "Okx Deposit",
     "address": "terra1axvrq8ysvyay8zs8ye7zgutucqk9k0mfydu3gl",
     "description": "",
     "type": "account"
   },
   {
     "slug": "okx",
-    "name": "Withdraw",
+    "name": "Okx Withdraw",
     "address": "terra13s4gwzxv6dycfctvddfuy6r3zm7d6zklynzzj5",
     "description": "",
     "type": "account"
   },
   {
     "slug": "neptune",
-    "name": "Emergency Allocation Receiver",
+    "name": "Neptune Emergency Allocation Receiver",
     "address": "terra1dzyexvmnwce855tcrerszch89cnk408mrp3l34",
     "description": "",
     "type": "account"
   },
   {
     "slug": "leap",
-    "name": "Emergency Allocation Receiver",
+    "name": "Leap Emergency Allocation Receiver",
     "address": "terra1308d2k69eg57c7d5cv3f92lhefvzrpw9zgzauf",
     "description": "",
     "type": "account"
   },
   {
     "slug": "kucoin",
-    "name": "Deposit",
+    "name": "Kucoin Deposit",
     "address": "terra14l46jrdgdhaw4cejukx50ndp0hss95ekt2kfmw",
     "description": "",
     "type": "account"
   },
   {
     "slug": "kucoin",
-    "name": "Withdraw",
+    "name": "Kucoin Withdraw",
     "address": "terra1rvxcszyfecrt2v3a7md8p30hvu39kj6xf48w9e",
     "description": "",
     "type": "account"
   },
   {
     "slug": "tiiik",
-    "name": "Emergency Allocation Receiver",
+    "name": "Tiiik Emergency Allocation Receiver",
     "address": "terra10qmv8p8gt9sn7ae4jdw4qyyrdadenvny4s64qg",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "core-staking-module",
-    "name": "Delegation Pool",
+    "slug": "terra",
+    "name": "Terra Delegation Pool",
     "address": "terra1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3nln0mh",
     "description": "",
     "type": "account"
   },
   {
-    "slug": "core-staking-module",
-    "name": "Redelegation & Undelegation Pool",
+    "slug": "terra",
+    "name": "Terra Redelegation & Undelegation Pool",
     "address": "terra1tygms3xhhs3yv487phx3dw4a95jn7t7l8l07dr",
     "description": "",
     "type": "account"
   },
   {
     "slug": "zodiac",
-    "name": "Emergency Allocation Receiver",
+    "name": "Zodiac Emergency Allocation Receiver",
     "address": "terra1q28hkv34cgjsu0kyjp86fmxptz3wtgx4e42hw2",
     "description": "",
     "type": "account"
   },
   {
     "slug": "skip",
-    "name": "Emergency Allocation Receiver",
+    "name": "Skip Emergency Allocation Receiver",
     "address": "terra1rlsgc3cyaelrzukg7qlkxx2dd3wde6c47cact6",
     "description": "",
     "type": "account"
   },
   {
     "slug": "outlet",
-    "name": "Emergency Allocation Receiver",
+    "name": "Outlet Emergency Allocation Receiver",
     "address": "terra1h73a54a35tq2lmmrmmlfn337cp560jhwfs5pu8",
     "description": "",
     "type": "account"
   },
   {
     "slug": "coinone",
-    "name": "Deposit",
+    "name": "Coinone Deposit",
     "address": "terra1v9ku44wycfnsucez6fp085f5fsksp47u9x8jr4",
     "description": "",
     "type": "account"
   },
   {
     "slug": "coinone",
-    "name": "Withdraw",
+    "name": "Coinone Withdraw",
     "address": "terra1al546tmrj0wmwfctcqkch47h57h23mch7d8xqa",
     "description": "",
     "type": "account"
   },
   {
     "slug": "scv",
-    "name": "Emergency Allocation Receiver",
+    "name": "Scv Emergency Allocation Receiver",
     "address": "terra1lglw56z7xzg7hk7pcdsuwkw8xp9pckdwtr2gu4",
     "description": "",
     "type": "account"
   },
   {
     "slug": "obi",
-    "name": "Emergency Allocation Receiver",
+    "name": "Obi Emergency Allocation Receiver",
     "address": "terra17mp0nkl20epwy4kt5638avpvejwaw7v8ukwy6t",
     "description": "",
     "type": "account"
