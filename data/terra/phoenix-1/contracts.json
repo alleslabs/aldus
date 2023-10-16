@@ -614,5 +614,75 @@
     "address": "terra1lpxzrpzkfrzfuz8z6svqly0szpz98aj9c6z77wz5lmchnk7zmp2q2enyxv",
     "description": "Edge oracle contract responsible for updating and returning the supported asset prices to the pool.",
     "code": "897"
+  },
+  {
+    "slug": "backbone-labs",
+    "name": "Fee Splitter",
+    "address": "terra19kjsu0cnkptte87j3v0c922r8epn06q7g9m26g4pu64klpf9wgmqtglu3m",
+    "description": "",
+    "code": "1511"
+  },
+  {
+    "slug": "warp",
+    "name": "Warp Controller",
+    "address": "terra1mg93d4g69tsf3x6sa9nkmkzc9wl38gdrygu0sewwcwj6l2a4089sdd7fgj",
+    "description": "",
+    "code": "1790"
+  },
+  {
+    "slug": "warp",
+    "name": "Warp Resolver",
+    "address": "terra13taf05fedehdfsguu0v24ssmrs9xfzn6wewwkxxlsdy2qmudhwfsvvgdm5",
+    "description": "",
+    "code": "1786"
+  },
+  {
+    "slug": "enterprise",
+    "name": "Enterprise Factory",
+    "address": "terra1sxer9xsgp6mcz55w3k6lxqxhjjw6je05f3yzsvcgux6e78uhs26qcgde8j",
+    "description": "",
+    "code": "789"
+  },
+  {
+    "slug": "enterprise",
+    "name": "Enterprise Factory 2",
+    "address": "terra1y2dwydnnnctdwwmvs23ct60fj626t66qk53cae2gc55k3ce92jmqldj0sf",
+    "description": "",
+    "code": "1622"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Router",
+    "address": "terra19hz374h6ruwtzrnm8ytkae782uv79h9yt9tuytgvt94t26c4793qnfg7vn",
+    "description": "",
+    "code": "1503"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Proposal Multisig",
+    "address": "terra1rc8sz3wxhjgl5kgzpp5l9qmcpm5ey3fj880ry6kfgr9mqdhlakwsl9tgyw",
+    "description": "",
+    "code": "9"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM IBC Router",
+    "address": "terra104dvjjfmygh7k06fvhcd89yfqnn2kqu5jtc9n7fyqfz9wky80gasqwxusq",
+    "description": "",
+    "code": "1689"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM P2P",
+    "address": "terra1s8jsq233ym5kjwhkhaxl7f4fn99p4k2dgnlj5rrr2dm6p9ugrc4scucwwf",
+    "description": "",
+    "code": "1128"
+  },
+  {
+    "slug": "coinhall",
+    "name": "Hallswap V3",
+    "address": "terra1e3nqr8vwu32pzgasraud9avpwdd8phmqgre5kpwlytgedj2emkkq3l67hy",
+    "description": "",
+    "code": "1799"
   }
 ]

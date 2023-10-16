@@ -3518,5 +3518,71 @@
       }
     ],
     "description": "Home of the only IBC enabled vaults, leveraging ICQ & ICA. Interchain Asset Management - evolved."
+  },
+  {
+    "slug": "alliance",
+    "name": "Alliance",
+    "website": "https://alliance.terra.money",
+    "github": "https://github.com/terra-money",
+    "logo": "alliance.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/terra_money"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/TerraNetworkLobby"
+      },
+      {
+        "name": "discord",
+        "url": "https://terra.sc/discord"
+      }
+    ],
+    "description": "Alliance allows blockchains to trade yield with each other."
+  },
+  {
+    "slug": "enterprise",
+    "name": "Enterprise",
+    "website": "https://enterprise.money",
+    "github": "https://github.com/terra-money",
+    "logo": "enterprise.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/enterprise_dao"
+      },
+      {
+        "name": "telegram",
+        "url": "https://terra.sc/enterprisetg"
+      },
+      {
+        "name": "discord",
+        "url": "https://terra.sc/enterprisediscord"
+      }
+    ],
+    "description": "Making it dead simple to create, manage, and grow DAOs within Cosmos."
+  },
+  {
+    "slug": "warp",
+    "name": "Warp",
+    "website": "https://warp.money",
+    "github": "https://github.com/terra-money",
+    "logo": "warp.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/warp_protocol"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/warp_protocol"
+      },
+      {
+        "name": "discord",
+        "url": "https://terra.sc/warpdiscord"
+      }
+    ],
+    "description": "Limitless on-chain automation"
   }
 ]
