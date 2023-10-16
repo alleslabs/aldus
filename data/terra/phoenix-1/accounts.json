@@ -11,7 +11,7 @@
     "name": "Account 2",
     "address": "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx",
     "description": "",
-    "type": "contract"
+    "type": "account"
   },
   {
     "slug": "astroport",
