@@ -419,5 +419,74 @@
         "faucets": []
       }
     ]
+  },
+  "terra": {
+    "name": "Terra",
+    "bech32Prefix": "terra",
+    "slip44": "118",
+    "website": "https://terra.money",
+    "iconUri": "https://aldus.alleslabs.dev/assets/entities/terra.png",
+    "documentation": "https://docs.terra.money",
+    "github": "https://github.com/terra-money",
+    "networks": [
+      {
+        "type": "testnet",
+        "bech32Prefix": "terra",
+        "celatone": "https://terra.celat.one/pisco-1",
+        "chainId": "pisco-1",
+        "chainName": "Terra Testnet",
+        "publicLCD": "https://pisco-lcd.terra.dev",
+        "lcdSwagger": "",
+        "publicRPC": "https://pisco-rpc.terra.dev:443",
+        "rpcSwagger": "",
+        "publicGRPC": "",
+        "lcds": [
+          {
+            "url": "https://sei-testnet-api.polkachu.com",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://terra-testnet-rpc.polkachu.com/",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "faucets": []
+      },
+      {
+        "type": "mainnet",
+        "bech32Prefix": "terra",
+        "celatone": "https://terra.celat.one/phoenix-1",
+        "chainId": "phoenix-1",
+        "chainName": "Terra Mainnet",
+        "publicLCD": "https://phoenix-lcd.terra.dev/",
+        "lcdSwagger": "",
+        "publicRPC": "https://phoenix-rpc.terra.dev:443",
+        "rpcSwagger": "",
+        "publicGRPC": "",
+        "lcds": [
+          {
+            "url": "https://terra-rpc.polkachu.com",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "rpcs": [
+          {
+            "url": "https://terra-api.polkachu.com/",
+            "provider": "Polkachu",
+            "archive": false,
+            "logo": "https://avatars.githubusercontent.com/u/85417391"
+          }
+        ],
+        "faucets": []
+      }
+    ]
   }
 }
