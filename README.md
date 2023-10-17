@@ -1,14 +1,86 @@
 # Aldus Registry 📒
 
+This repository acts as a catalogue of the different items that exists in a number of [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) based chains.
+
 ## Supported Data
 
 ### Global
 
 #### ⛓️ Chains
 
+This file is currently intended only to be used with Celatone.
+
 #### 🏢 Entities
 
+Entities represent the individuals, teams, projects, and bodies that participate in the supported chains.
+
+```ts
+type Social = {
+  // name of the social media channel
+  // currently "twitter", "telegram", and "discord" are supported
+  name: string,
+  // the specific URL link to the entity's page on the channel
+  url: string
+}
+
+type Entity = { 
+
+  slug: string,
+  // The entity's name
+  name: string,
+  // A short description of the entity
+  description: string
+  // The entity's website URL
+  website: string,
+  // The entity's GitHub organization/account
+  github: string,
+  // The entity's logo filename in /assets/entites
+  logo: string,
+  // The list of the entity's social media channel
+  socials: []Social
+
+}
+```
+
 #### 🪙 Assets
+
+Assets represents the different fungible tokens found on the supported networks.
+
+```ts
+// An enum use to designate the type of asset
+enum AssetType = {
+  // Identifies the asset as a native coin
+  Native = "native",
+  // IDentifies the asset as as CW20 token
+  Cw20 = "cw20"
+}
+
+type Asset = {
+  // The name of the asset
+  name: string,
+  // A short description of the asset
+  description: string,
+  // A link to the asset's logo file
+  logo: string,
+  // The asset's decimal precision
+  precision: number,
+  // The list of the entity slugs that are related
+  // or associated with the asset
+  slugs: []string,
+  // The asset's symbol
+  symbol: string,
+  // The type of asset
+  type: AssetType,
+  // A mapping of the asset's ID for different networks
+  // This is the denom for native coins and
+  // the token address for cw20 tokens
+  id: object,
+  // The asset's CoinGecko API slug. Used to pull price data
+  coingecko: string,
+  // The asset's CoinMarketCap API slug. Used to pull price data
+  coinmarketcap: string,
+}
+```
 
 ### ⚛️ Core
 
@@ -81,33 +153,6 @@ type Contract = {
 }
 ```
 
-#### ✅ Verified
-
-Verified codes are on-chain codes that have been [verified](./CONTRIBUTING.md#code-verification). This list does not necessarily need to correspond with the items in the [codes](#️⃣-codes) registry for a given network.
-
-```ts
-type VerifiedCode = {
-  // The on-chain ID of the verified code
-  id: number,
-  // The code's compiled checksum
-  checksum: string,
-  // The compiler/optimizer version used
-  build_info: string,
-  // The build environment used when compiling
-  build_env: string,
-  // The path to the code's directory
-  module_name: string,
-  // The GitHub repository hosting the code
-  repository: string,
-  // The Git commit hash to reference
-  commit_hash: string,
-  // A link to the source of information for security-related contact
-  security_contact: string,
-  // A boolean flag to determine whether a schema is available for the code
-  schema: boolean
-}
-```
-
 ### 🧪 Osmosis
 
 #### 💧 Pools
@@ -125,3 +170,26 @@ type Pool = {
   // The list of asset denoms in the pool
   assets: string[]
 }
+```
+
+## Contributing
+
+We welcome and accept pull requests to add or modify the registry data.
+
+Before submitting any data and opening pull requests, please make sure that the information is not a duplicate and does not already exists in the registry.
+
+### Contributing Assets
+
+To add new assets to the registry or identify variants of existing ones on new chains, modify `data/assets.json` appropriately.
+
+- For new assets that previously did not exist, create a new object entry in `assets.json` and fill out the necessary field outlined [above](#🪙-assets).
+- For adding new IDs to existing assets, find the corresponding asset entry in `assets.json` and create a new key/value pair in the `ids` field.
+
+Some general guidelines:
+
+- All new entries to all files must contain a valid and existing `entity` slug. If the appropriate entity does not currently exist in the registry, create a new one in `entities.json` and fill in the necessary information.
+- Avoid duplicates. Make sure that any data submitted are new and does not already exist in the repository.
+
+### Contributing Chain Specific Data
+
+To contribute chain-specific data such as accounts, codes, contracts, or pools, create a new JSON entry in the appropriate folder/file.
