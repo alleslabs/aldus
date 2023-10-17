@@ -668,6 +668,9 @@
       },
       "osmosis": {
         "osmosis-1": "ibc/8410580A4F5421DFDBD888212624591E92A9E3B5C87D3C58913CE16ABD98B9B4"
+      },
+      "terra": {
+        "phoenix-1": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png",
@@ -1993,6 +1996,9 @@
       },
       "osmosis": {
         "osmosis-1": "ibc/126DA09104B71B164883842B769C0E9EC1486C0887D27A9999E395C2C8FB5682"
+      },
+      "terra": {
+        "phoenix-1": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/neutron-testnet/asset/ntrn.png",
@@ -2487,6 +2493,9 @@
     "id": {
       "osmosis": {
         "osmosis-1": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273"
+      },
+      "terra": {
+        "phoenix-1": "ibc/22E17DE64D0DDACF542E250F411705ED89D544549DE7B9DCE6B7148E369BD256"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/inj.svg",
@@ -3161,6 +3170,9 @@
     "id": {
       "osmosis": {
         "osmosis-1": "ibc/8FEFAE6AECF6E2A255585617F781F35A8D5709A545A804482A261C0C9548A9D3"
+      },
+      "terra": {
+        "phoenix-1": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg",
@@ -4216,5 +4228,437 @@
     "slugs": [],
     "symbol": "BLZ",
     "type": "native"
+  },
+  {
+    "symbol": "MNTA",
+    "name": "MNTA",
+    "precision": 6,
+    "logo": "https://assets.terra.dev/icon/svg/ibc/MNTA.svg",
+    "description": "",
+    "slugs": [],
+    "type": "native",
+    "id": {
+      "terra": {
+        "phoenix-1": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "ampKUJI",
+    "name": "ampKUJI",
+    "precision": 6,
+    "logo": "https://assets.terra.dev/icon/svg/ibc/ampKUJI.svg",
+    "description": "",
+    "slugs": [],
+    "type": "native",
+    "id": {
+      "terra": {
+        "phoenix-1": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "FIRE",
+    "name": "Phoenix DAO Token",
+    "precision": 6,
+    "logo": "https://assets.terra.dev/icon/svg/FIRE.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "xxx",
+    "name": "xxx",
+    "precision": 10,
+    "logo": "https://assets.terra.dev/icon/svg/xxx3.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "SOLID",
+    "name": "Solid",
+    "precision": 6,
+    "logo": "https://assets.capapult.finance/icon/Solid.svg",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "CAPA",
+    "name": "Capapult",
+    "precision": 6,
+    "logo": "https://assets.capapult.finance/icon/Capa.svg",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "wETH",
+    "name": "Wrapped Ether (Portal)",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "wSOL",
+    "name": "Wrapped SOL",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "wAVAX",
+    "name": "AVAX (Portal)",
+    "precision": 8,
+    "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/AVAX_wh.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "dUST",
+    "name": "Depegged UST",
+    "precision": 6,
+    "logo": "https://gateway.pinata.cloud/ipfs/QmTEo7AmbgygF2mek89MHBJ1wPrB23TA811VeXCdcXW5pf",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "IDC",
+    "name": "INTERCHAIN DAO COIN",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/IDC1201/IDC/f22b0f203867414b6473f8e8a935c3edf5524296/ASSET/IDC.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "TUNA",
+    "name": "Tuna Token",
+    "precision": 6,
+    "logo": "https://s3.ap-southeast-2.wasabisys.com/tuna/tunatoken.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "BGT",
+    "name": "Brand Governance Token",
+    "precision": 6,
+    "logo": "https://s3.ap-southeast-2.wasabisys.com/bgt/bgtoken.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "SANT",
+    "name": "SANTERRA SANT Token",
+    "precision": 6,
+    "logo": "https://santerra.app/sant_logo.svg",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "TALIS",
+    "name": "TALIS Token",
+    "precision": 6,
+    "logo": "https://gateway.pinata.cloud/ipfs/QmXama3Nj45sHFw5o43fDGuSmYLUirPtHTt9Jyi6RNKZmz",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "OPZA",
+    "name": "Luna optimizer token",
+    "precision": 6,
+    "logo": "https://avatars.githubusercontent.com/u/111164738?s=400&u=970d83fe90b55d4ca45e798fe0bc387d4ec5cbd5&v=4",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "SAYVE",
+    "name": "Sayve Token",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/sayve-logo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "xSAYVE",
+    "name": "Staked Sayve Token",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/sayveprotocol/web-assets/main/logos/xsayve-logo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "LBUN",
+    "name": "LUNC Burn Token",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/lbunproject/LBUNswap-web-app_Terra2/main/public/images/others/LBUN.svg",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "ROAR",
+    "name": "Lion DAO",
+    "precision": 6,
+    "logo": "https://app.astroport.fi/tokens/roar.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "TRUMP",
+    "name": "TRUMP",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/trumpdao/public/main/data/trump_logo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "SEAS",
+    "name": "SEAS",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/SailingTheSeasDAO/web-assets/main/SEAS.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "CUB",
+    "name": "Lion CUB",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/lioncubdao/logo/main/Screenshot%202023-04-10%20115645.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "BLUE",
+    "name": "BLUE CUB DAO",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/lioncubdao/logo/main/blue.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "NICO",
+    "name": "NICO Token",
+    "precision": 18,
+    "logo": "https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "PEPE",
+    "name": "Terra Pepe",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/trumpdao/public/main/data/pepe_logo.jpeg",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
+  },
+  {
+    "symbol": "GEM",
+    "name": "GEM DAO",
+    "precision": 6,
+    "logo": "https://raw.githubusercontent.com/terragem/gem/main/gem2.png",
+    "description": "",
+    "slugs": [],
+    "type": "cw20",
+    "id": {
+      "terra": {
+        "phoenix-1": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv"
+      }
+    },
+    "coingecko": "",
+    "coinmarketcap": ""
   }
 ]
