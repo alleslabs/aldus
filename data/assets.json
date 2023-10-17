@@ -153,21 +153,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1hspy32cecnj72wwpma59eldpmsmfndlrwqxnzx6awfdtarns66qqw5kn85"
-      }
-    },
-    "logo": "",
-    "name": "bLuna",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "bLuna",
-    "type": "cw20"
-  },
-  {
     "coingecko": "usk",
     "coinmarketcap": "",
     "description": "The native over-collateralized stablecoin from the Kujira chain.",
@@ -431,36 +416,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra13jlm0anpdd3hc0xctw9vtncmcfnrag8dh686s2juy7m226unwd4q0tmx2v"
-      }
-    },
-    "logo": "",
-    "name": "GEA",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "GEA",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1nchx6x3xtmme9sq6gxtj0tuux9l3mh05ce0hmmm7ge35vl8zsdeshkn7z5"
-      }
-    },
-    "logo": "",
-    "name": "TokenA",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "TKNA",
-    "type": "cw20"
-  },
-  {
     "coingecko": "ethereum",
     "description": "",
     "id": {
@@ -621,36 +576,6 @@
     "slugs": ["regen"],
     "symbol": "REGEN",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1zf90xr38pdgq0yjq2d56scclpfyu3ep4d720s9r2yw9gmwg7khaq0c30rl"
-      }
-    },
-    "logo": "",
-    "name": "FatManTerra",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "FATMAN",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1z7xe8pjrr0tdguvsdxh2hj6u0gk3y93dxs2xncz00jsjzt8g6suq95lj5w"
-      }
-    },
-    "logo": "",
-    "name": "MuskTerra",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "Musk",
-    "type": "cw20"
   },
   {
     "coingecko": "diego",
@@ -837,21 +762,6 @@
     "type": "native"
   },
   {
-    "coingecko": "local-money",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1xzkel96e5e8vfmqw7valzdzzv9hqasfyslclvnmvxdejvpda3xwsskxzus"
-      }
-    },
-    "logo": "",
-    "name": "Local Terra Token (Wormhole)",
-    "precision": 6,
-    "slugs": ["wormhole", "local"],
-    "symbol": "LOCAL",
-    "type": "cw20"
-  },
-  {
     "coingecko": "dai",
     "coinmarketcap": "",
     "description": "Gravity Bridge Dai",
@@ -882,21 +792,6 @@
     "slugs": ["makerdao", "axelar"],
     "symbol": "DAI.axl",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1l02355pejytcakcpq6g3n57ydwpqeysuw5nj679hlnrrsz3sc3wssxr69j"
-      }
-    },
-    "logo": "",
-    "name": "Nauticus Luna Yield 042923",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "yLuna",
-    "type": "cw20"
   },
   {
     "coingecko": "usd-coin",
@@ -995,21 +890,6 @@
   },
   {
     "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra15a409g7juszev4k88pvvvh80654903k7q00qtlddjasqynhjj45qzvk893"
-      }
-    },
-    "logo": "",
-    "name": "Edge LUNA",
-    "precision": 6,
-    "slugs": ["edge", "terra"],
-    "symbol": "eLUNA",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
     "coinmarketcap": "",
     "description": "O9W token for ODIN Protocol",
     "id": {
@@ -1063,21 +943,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1nu0c3s69umqz862ltp6wytuztm0rrn6w5079g999u0hvwy62tf3q02qhmr"
-      }
-    },
-    "logo": "",
-    "name": "StableDao",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "SDO",
-    "type": "cw20"
-  },
-  {
     "coingecko": "ki",
     "coinmarketcap": "",
     "description": "The native token of Ki Chain",
@@ -1108,21 +973,6 @@
     "slugs": [],
     "symbol": "MARBLE",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1mrdgys0e0hhq0n56zgy3e0htahcnwtdt4dy2ec9wcltcr6qjntmq0yen07"
-      }
-    },
-    "logo": "",
-    "name": "GEB",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "GEB",
-    "type": "cw20"
   },
   {
     "coingecko": "onomy-protocol",
@@ -1269,21 +1119,6 @@
     "type": "cw20"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra13e7da9f90m32s04kg4knlpsakmn50kqz2zx2rqypkahhp29gxdwqu4vy8q"
-      }
-    },
-    "logo": "",
-    "name": "BURN",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "BURN",
-    "type": "cw20"
-  },
-  {
     "coingecko": "shiba-inu",
     "coinmarketcap": "",
     "description": "Shiba Inu on Axelar",
@@ -1417,7 +1252,7 @@
         "phoenix-1": "terra1uv8ltv32tuq4qf6xspytpv058p0pef64s5xdncfywjexv22lfjzs7mul8s"
       }
     },
-    "logo": "",
+    "logo": "https://www.lunabird.network/logo.png",
     "name": "Luna Bird",
     "precision": 6,
     "slugs": [""],
@@ -1550,21 +1385,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1p67lldutk5haqpmnk5thuhmhyff8ntf8axa37mzm87qq58082u0qqp9mmu"
-      }
-    },
-    "logo": "",
-    "name": "Apple (Wormhole)",
-    "precision": 6,
-    "slugs": ["wormhole", "mirror"],
-    "symbol": "mAAPL",
-    "type": "cw20"
-  },
-  {
     "coingecko": "inter-stable-token",
     "coinmarketcap": "",
     "description": "IST is a decentralized and fully collateralized stable token built for the Cosmos ecosystem.",
@@ -1664,21 +1484,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1dzahfzk3vavwy4zqt0x49guswvwe6ef8jm60fpl2cqmq0yl7pp4qyrx3cr"
-      }
-    },
-    "logo": "",
-    "name": "Pce",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "Pce",
-    "type": "cw20"
-  },
-  {
     "coingecko": "tether",
     "coinmarketcap": "",
     "description": "Gravity Bridge USDT",
@@ -1709,21 +1514,6 @@
     "slugs": ["bitcoin", "axelar"],
     "symbol": "WBTC.axl",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg"
-      }
-    },
-    "logo": "",
-    "name": "INTERCHAIN DAO COIN",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "IDC",
-    "type": "cw20"
   },
   {
     "coingecko": "",
@@ -1887,36 +1677,6 @@
   },
   {
     "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1a2gdn43yjllg3jvna7xcv2zea0ppjchsww2fedd63l9k2azg6j7qg6v3pj"
-      }
-    },
-    "logo": "",
-    "name": "BTC",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "BTC",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra16er279t0mgumskzqp2eq5wju9ge68v6y7ylq4qju35rj5as6gwaqpf70xu"
-      }
-    },
-    "logo": "",
-    "name": "TokenB",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "TKNB",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
     "coinmarketcap": "",
     "description": "Puro Lobo a BitSong Music FanToken",
     "id": {
@@ -2040,7 +1800,7 @@
         "phoenix-1": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3"
       }
     },
-    "logo": "",
+    "logo": "https://home.prismprotocol.app/cluna.png",
     "name": "prism-cluna",
     "precision": 6,
     "slugs": ["prism"],
@@ -2141,21 +1901,6 @@
     "slugs": [],
     "symbol": "RAC",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu"
-      }
-    },
-    "logo": "",
-    "name": "HERO",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "HERO",
-    "type": "cw20"
   },
   {
     "coingecko": "oraichain-token",
@@ -2375,7 +2120,7 @@
         "phoenix-1": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
       }
     },
-    "logo": "",
+    "logo": "https://app.astroport.fi/tokens/xAstro.png",
     "name": "Staked Astroport",
     "precision": 6,
     "slugs": ["astroport"],
@@ -2443,21 +2188,6 @@
     "precision": 6,
     "slugs": ["backbone-labs"],
     "symbol": "bLUNA",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1ttspm8jgeylc6us3mlpwpmlwzr3rkesm70vn6zkfr07pz7e3rzkq73ah2j"
-      }
-    },
-    "logo": "",
-    "name": "Gidorah Token",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "GIDO",
     "type": "cw20"
   },
   {
@@ -2574,21 +2304,6 @@
     "slugs": [],
     "symbol": "DHK",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1gd3ntqq04lvd623xs8ht6dly0s7n4gxnz7lmlw5ga0qnamg9wyrqcggn2h"
-      }
-    },
-    "logo": "",
-    "name": "Nauticus Luna Principal 042923",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "pLuna",
-    "type": "cw20"
   },
   {
     "coingecko": "",
@@ -2755,21 +2470,6 @@
     "description": "",
     "id": {
       "terra": {
-        "phoenix-1": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj"
-      }
-    },
-    "logo": "",
-    "name": "Luna optimizer token",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "OPZA",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
         "phoenix-1": "terra1xumzh893lfa7ak5qvpwmnle5m5xp47t3suwwa9s0ydqa8d8s5faqn6x7al"
       }
     },
@@ -2778,21 +2478,6 @@
     "precision": 6,
     "slugs": ["steak"],
     "symbol": "STEAK",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1ykxe98arwtahe97h9y5nck8gw88kxn2z73gfwlnx5twcd96ct98sqzcsrk"
-      }
-    },
-    "logo": "",
-    "name": "Pylon MINE Token",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "MINE",
     "type": "cw20"
   },
   {
@@ -2858,21 +2543,6 @@
     "slugs": ["umee"],
     "symbol": "UMEE",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1e0uch3fwned9rfhkaeehqv9mnfuwjh9jfhawd4gxw248czljdttsh22jkg"
-      }
-    },
-    "logo": "",
-    "name": "Nauticus Yield: USDC/USDT LP Astro",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "yN-USDC-USDT",
-    "type": "cw20"
   },
   {
     "coingecko": "cosmos",
@@ -2970,21 +2640,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1s8u586k3s7xtvasxv4p6ldl0jrxht9w886v8ymkst6crg5hxue3sqn49r9"
-      }
-    },
-    "logo": "",
-    "name": "Microsoft Corporation (Wormhole)",
-    "precision": 6,
-    "slugs": ["wormhole", "mirror"],
-    "symbol": "mMSFT",
-    "type": "cw20"
-  },
-  {
     "coingecko": "binance-usd",
     "coinmarketcap": "",
     "description": "Binance USD on Axelar.",
@@ -3020,21 +2675,6 @@
     "slugs": ["mars"],
     "symbol": "MARS",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1jqt5mmlpd6x3jtwfdsxwtrknvaczz2xmplukzc8h86xhupg7fe7q7nkzdp"
-      }
-    },
-    "logo": "",
-    "name": "Auto TOKEN",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "AUTO",
-    "type": "cw20"
   },
   {
     "coingecko": "stride-staked-atom",
@@ -3315,36 +2955,6 @@
     "type": "native"
   },
   {
-    "coingecko": "tether-usd-wormhole-from-ethereum",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra12ezq5402h5n3skhdshjp4f49zzg0saxum8fvvhjhauzas2ezyyrqpznqny"
-      }
-    },
-    "logo": "",
-    "name": "Tether USD (Wormhole)",
-    "precision": 8,
-    "slugs": ["wormhole", "tether"],
-    "symbol": "USDT",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "usd-coin-wormhole-from-ethereum",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1vzd98s9kqdkatahxs7rsd8m474lf2f8ct39zdgd6shj4nh5e6kuskaz2gy"
-      }
-    },
-    "logo": "",
-    "name": "USD Coin (Wormhole)",
-    "precision": 8,
-    "slugs": ["wormhole", "circle"],
-    "symbol": "USDC",
-    "type": "cw20"
-  },
-  {
     "coingecko": "weth",
     "coinmarketcap": "",
     "description": "Gravity Bridge ETH",
@@ -3545,21 +3155,6 @@
     "type": "native"
   },
   {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1q4r4zzde2tg52306qevhnaf3qw76a68hnyzw404uuvvzx09n3ckqe2ylrm"
-      }
-    },
-    "logo": "",
-    "name": "USD ",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "USD",
-    "type": "cw20"
-  },
-  {
     "coingecko": "switcheo",
     "coinmarketcap": "",
     "description": "The native token of Carbon",
@@ -3755,36 +3350,6 @@
     "description": "",
     "id": {
       "terra": {
-        "phoenix-1": "terra129zjaxquhh3h5upn0clqzdawnze43a9z34ktt4l6um2hf5w0xqjsta42u5"
-      }
-    },
-    "logo": "",
-    "name": "BUSD Token (Wormhole)",
-    "precision": 8,
-    "slugs": ["wormhole", "binance"],
-    "symbol": "BUSD",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1ly8vd2q69h3jlyjgnwqq0q4wngulmr2l2gr0lxd93tqle42596rsq5zz5d"
-      }
-    },
-    "logo": "",
-    "name": "ETH  in USDC",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "uETH",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
         "phoenix-1": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8"
       }
     },
@@ -3890,21 +3455,6 @@
     "slugs": ["yuga", "axelar"],
     "symbol": "APE.axl",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1plhefzma59lh6rjk5gfkq45pz2chfq35nm9xgdz4pcuhp3nnwekq8sthua"
-      }
-    },
-    "logo": "",
-    "name": "APY 365%",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "BOND",
-    "type": "cw20"
   },
   {
     "coingecko": "hope-galaxy",
@@ -4076,51 +3626,6 @@
   },
   {
     "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1mma39sqn43aen4jh2sdmka84mv94uk7v7xw3ype2fdvlay6emrlqweyf5u"
-      }
-    },
-    "logo": "",
-    "name": "Test Cw20 TOKEN",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "TCW",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1gk0y0tcxj8pr65tanqvc8zyzv3c8szkwf2kcmzgqj9jm2t9z3f9q4xcnfz"
-      }
-    },
-    "logo": "",
-    "name": "Nauticus Principal: USDC/USDT LP Astro",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "pN-USDC-USDT",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1uc3r74qg44csdrl8hrm5muzlue9gf7umgkyv569pgazh7tudpr4qdtgqh6"
-      }
-    },
-    "logo": "",
-    "name": "USDC",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "USDC",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
     "coinmarketcap": "",
     "description": "Rawanne a BitSong Music FanToken",
     "id": {
@@ -4183,36 +3688,6 @@
     "slugs": ["circle"],
     "symbol": "USDC",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra177huv6k3gyqwxcd7n32ts56tvxt68dgll0fn56k56rcvy9zeke9s5gfn3c"
-      }
-    },
-    "logo": "",
-    "name": "Gidorah",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "gido",
-    "type": "cw20"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1jg848acg7rzt7tnz6zqaxzsc94w2yjhafad80d3uel9937grkmfsv8aycw"
-      }
-    },
-    "logo": "",
-    "name": "MOON",
-    "precision": 6,
-    "slugs": ["wicca"],
-    "symbol": "MOON",
-    "type": "cw20"
   },
   {
     "coingecko": "odin-protocol",
@@ -4370,21 +3845,6 @@
     "slugs": [],
     "symbol": "ARKH",
     "type": "native"
-  },
-  {
-    "coingecko": "",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1fjane47sgaaljgm0qe0ysjwtuqjlp493ar4gwt8rez45qaazf9gsfgc6af"
-      }
-    },
-    "logo": "",
-    "name": "Edge AxlUSDC",
-    "precision": 6,
-    "slugs": ["edge", "axelar", "circle"],
-    "symbol": "eaxlUSDC",
-    "type": "cw20"
   },
   {
     "coingecko": "axie-infinity",
