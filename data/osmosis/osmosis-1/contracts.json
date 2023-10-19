@@ -508,5 +508,21 @@
     "description": "",
     "code": 213,
     "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Airdrop",
+    "address": "osmo1grxj2q3ft6f2xp5m8zuvj2kt2k4cg32es8t37ajy8x79akqr06yq84zfwl",
+    "description": "",
+    "code": 193,
+    "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Factory",
+    "address": "osmo1vjq3e3fp4fcdnd83nmxk5764mlewwxjejsjmg9jyehgh5zklj0pslvs3na",
+    "description": "",
+    "code": 194,
+    "github": ""
   }
 ]

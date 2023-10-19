@@ -327,5 +327,12 @@
     "address": "osmo1dpaaxgw4859qhew094s87l0he8tfea3lv30jfc",
     "description": "Account owned by Eris whitelisted to upload their contracts.",
     "type": "account"
+  },
+  {
+    "slug": "coinhall",
+    "name": "Coinhall Uploader",
+    "address": "osmo1yp8qwkfs964pkg3rge3k6ree2e6lrttgzs4r45",
+    "description": "Account owned by Coinhall whitelisted to upload their Genie contracts.",
+    "type": "account"
   }
 ]

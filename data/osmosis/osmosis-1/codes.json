@@ -376,5 +376,19 @@
     "description": "",
     "id": 213,
     "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Airdrop Factory",
+    "description": "",
+    "id": 194,
+    "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Airdrop",
+    "description": "",
+    "id": 193,
+    "github": ""
   }
 ]
