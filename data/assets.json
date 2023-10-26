@@ -342,10 +342,11 @@
     "description": "NOVA",
     "id": {
       "initia": {
-        "stone-7": "move/e44590a2aa2cd3cf07f4f10f0739a68e579b3218cf2772fc2c52e624c5060837"
+        "stone-7": "move/e44590a2aa2cd3cf07f4f10f0739a68e579b3218cf2772fc2c52e624c5060837",
+        "stone-11": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29"
       }
     },
-    "logo": "https://list.initia.tech/images/0xfa5f07319724580ef16dcef6ce4d3b0bd0348e48::my_module::Nova.webp",
+    "logo": "https://next.list.initia.tech/images/0xf5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29.webp",
     "name": "Novel Optical Vision Algorithms",
     "precision": 6,
     "slugs": ["initia"],
@@ -1096,10 +1097,11 @@
     "id": {
       "initia": {
         "stone-7": "move/4e0b08c632d4d732c3d1fe50bb43bbb8112225b60786f0561547127498679d31",
-        "stone-10": "move/4e0b08c632d4d732c3d1fe50bb43bbb8112225b60786f0561547127498679d31"
+        "stone-10": "move/4e0b08c632d4d732c3d1fe50bb43bbb8112225b60786f0561547127498679d31",
+        "stone-11": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7"
       }
     },
-    "logo": "https://list.initia.tech/images/0xfa5f07319724580ef16dcef6ce4d3b0bd0348e48::coins::MaticX.webp",
+    "logo": "https://next.list.initia.tech/images/0x76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7.webp",
     "name": "Stader MaticX",
     "precision": 6,
     "slugs": ["stader", "polygon"],
@@ -2692,7 +2694,8 @@
     "id": {
       "initia": {
         "stone-7": "move/c2470ee64bffb09a08726bd7139ce930df777668aafb0310c434b878fe7dad09",
-        "stone-10": "move/c2470ee64bffb09a08726bd7139ce930df777668aafb0310c434b878fe7dad09"
+        "stone-10": "move/c2470ee64bffb09a08726bd7139ce930df777668aafb0310c434b878fe7dad09",
+        "stone-11": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51"
       },
       "neutron": {
         "neutron-1": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C"
@@ -3679,7 +3682,7 @@
         "stone-11": "uusdc"
       }
     },
-    "logo": "https://list.initia.tech/images/0x1::native_uusdc::Coin.webp",
+    "logo": "https://next.list.initia.tech/images/0x29824d952e035490fae7567deea5f15b504a68fa73610063c160ab1fa87dd609.webp",
     "name": "USD Coin",
     "precision": 6,
     "slugs": ["circle"],
@@ -3979,7 +3982,7 @@
         "stone-11": "uinit"
       }
     },
-    "logo": "https://list.initia.tech/images/0x1%3A%3Anative_uinit%3A%3ACoin.webp",
+    "logo": "https://next.list.initia.tech/images/0x8e4733bdabcf7d4afc3d14f0dd46c9bf52fb0fce9e4b996c939e195b8bc891d9.webp",
     "name": "Initia",
     "precision": 6,
     "slugs": ["initia"],
@@ -4662,5 +4665,21 @@
     },
     "coingecko": "",
     "coinmarketcap": ""
+  },
+  {
+    "coingecko": "wrapped-steth",
+    "coinmarketcap": "",
+    "description": "",
+    "id": {
+      "initia": {
+        "stone-11": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
+      }
+    },
+    "logo": "https://next.list.initia.tech/images/0xe3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8.webp",
+    "name": "Wrapped Staked Ether",
+    "precision": 6,
+    "slugs": ["lido", "ethereum"],
+    "symbol": "wstETH",
+    "type": "native"
   }
 ]
