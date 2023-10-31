@@ -3498,5 +3498,49 @@
       }
     ],
     "description": "Limitless on-chain automation"
+  },
+  {
+    "slug": "margined",
+    "name": "Margined Protocol",
+    "website": "https://margined.io",
+    "github": "https://github.com/margined-protocol",
+    "logo": "margined.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/margined_io"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Building generalised margin engines for #CosmWasm networks!"
+  },
+  {
+    "slug": "ojo",
+    "name": "Ojo Network",
+    "website": "https://ojo.network",
+    "github": "https://github.com/ojo-network",
+    "logo": "ojo.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ojo_network"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/OjoNetwork"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/7qGQUnRgZf"
+      }
+    ],
+    "description": "Access real time, decentralized oracles, and stop worrying about your data."
   }
 ]

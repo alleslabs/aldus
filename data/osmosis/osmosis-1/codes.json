@@ -390,5 +390,19 @@
     "description": "",
     "id": 193,
     "github": ""
+  },
+  {
+    "slug": "ojo",
+    "name": "Ojo Oracle",
+    "description": "",
+    "id": 259,
+    "github": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "Transmuter V2",
+    "description": "",
+    "id": 254,
+    "github": ""
   }
 ]

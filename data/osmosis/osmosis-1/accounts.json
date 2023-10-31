@@ -316,8 +316,15 @@
   },
   {
     "slug": "quasar",
-    "name": "Quasar Uploader",
+    "name": "Quasar Uploader (DEPRECATED)",
     "address": "osmo1ed6ezqx9t4e9sfm6nfgulq3005umrh6hkclagk",
+    "description": "Account owned by Quasar whitelisted to upload their Quasar Vaults contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "quasar",
+    "name": "Quasar Uploader",
+    "address": "osmo1vxq5h3encfyguulqeh26l8dlw9lavl3e2zw7n8",
     "description": "Account owned by Quasar whitelisted to upload their Quasar Vaults contracts.",
     "type": "account"
   },
@@ -333,6 +340,13 @@
     "name": "Coinhall Uploader",
     "address": "osmo1yp8qwkfs964pkg3rge3k6ree2e6lrttgzs4r45",
     "description": "Account owned by Coinhall whitelisted to upload their Genie contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "margined",
+    "name": "Margined Protocol Uploader",
+    "address": "osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw",
+    "description": "Account owned by Margined Protocol whitelisted to upload their Genie contracts.",
     "type": "account"
   }
 ]
