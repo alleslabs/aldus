@@ -3542,5 +3542,27 @@
       }
     ],
     "description": "Access real time, decentralized oracles, and stop worrying about your data."
+  },
+  {
+    "slug": "celestia",
+    "name": "Celestia",
+    "website": "https://celestia.org",
+    "github": "https://github.com/celestiaorg",
+    "logo": "celestia.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CelestiaOrg"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/CelestiaCommunity"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/YsnTPcSfWQ"
+      }
+    ],
+    "description": "The first modular blockchain network that securely scales with the number of users."
   }
 ]
