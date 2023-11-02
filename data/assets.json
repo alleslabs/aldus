@@ -4689,6 +4689,9 @@
     "id": {
       "neutron": {
         "neutron-1": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/celestia/asset/tia.png",
