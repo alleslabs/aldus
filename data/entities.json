@@ -1132,7 +1132,7 @@
     "socials": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/initiafnd"
+        "url": "https://twitter.com/initiafdn"
       },
       {
         "name": "telegram",
@@ -1140,10 +1140,10 @@
       },
       {
         "name": "discord",
-        "url": ""
+        "url": "https://discord.com/invite/initia"
       }
     ],
-    "description": "init innit"
+    "description": "A network for 0-to-1 omnichain rollups"
   },
   {
     "slug": "injective",
