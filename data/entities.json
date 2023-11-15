@@ -3564,5 +3564,27 @@
       }
     ],
     "description": "The first modular blockchain network that securely scales with the number of users."
+  },
+  {
+    "slug": "dydx",
+    "name": "DYDX",
+    "website": "https://dydx.exchange",
+    "github": "https://github.com/dydxprotocol",
+    "logo": "dydx.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/dydx"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/dydx"
+      }
+    ],
+    "description": "The most powerful open exchange, backed by Paradigm, a16z, and Polychain."
   }
 ]
