@@ -4700,5 +4700,20 @@
     "slugs": ["celestia"],
     "symbol": "TIA",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Poker Kings Token",
+    "id": {
+      "sei": {
+        "pacific-1": "sei1eavtmc4y00a0ed8l9c7l0m7leesv3yetcptklv2kalz4tsgz02mqlvyea6"
+      }
+    },
+    "logo": "https://cloudflare-ipfs.com/ipfs/QmPk6YGTMfmCpHKpb18HeASg3H2iQSd4HiGvdH8zz6ZBkM",
+    "name": "Poker Kings Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "PKS",
+    "type": "cw20"
   }
 ]
