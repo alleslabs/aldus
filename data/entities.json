@@ -3564,5 +3564,49 @@
       }
     ],
     "description": "The first modular blockchain network that securely scales with the number of users."
+  },
+  {
+    "slug": "abstract",
+    "name": "Abstract",
+    "website": "https://abstract.money",
+    "github": "https://github.com/AbstractSDK",
+    "logo": "abstract.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AbstractSDK"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/uch3Tq3aym"
+      }
+    ],
+    "description": "Interchain app platform for modular applications at scale."
+  },
+  {
+    "slug": "hyperlane",
+    "name": "Hyperlane",
+    "website": "https://hyperlane.xyz",
+    "github": "https://github.com/hyperlane-xyz",
+    "logo": "hyperlane.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/hyperlane_xyz"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/hyperlane"
+      }
+    ],
+    "description": "The Permissionless Interoperability layer built for the modular future."
   }
 ]

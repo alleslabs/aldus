@@ -346,7 +346,21 @@
     "slug": "margined",
     "name": "Margined Protocol Uploader",
     "address": "osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw",
-    "description": "Account owned by Margined Protocol whitelisted to upload their Genie contracts.",
+    "description": "Account owned by Margined Protocol whitelisted to upload their protocol contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "abstract",
+    "name": "Abstract Uploader",
+    "address": "osmo1t07t5ejcwtlclnelvtsdf3rx30kxvczlng8p24",
+    "description": "Account owned by Abstract team whitelisted to upload their contracts.",
+    "type": "account"
+  },
+  {
+    "slug": "hyperlane",
+    "name": "Hyperlane Uploader",
+    "address": "osmo1pm5dt804wuphswfgwkscxvchgezuvjxdlv7x23",
+    "description": "Accoutn owned by Hyperlane team whitelisted to upload their cw-hyperlane contracts.",
     "type": "account"
   }
 ]
