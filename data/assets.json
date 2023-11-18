@@ -4060,6 +4060,9 @@
     "id": {
       "osmosis": {
         "osmosis-1": "ibc/23AB778D694C1ECFC59B91D8C399C115CC53B0BD1C61020D8E19519F002BDD85"
+      },
+      "neutron": {
+        "neutron-1": "ibc/00230C58F1540708067850B3362C8A67A273FC52F0C7305B802D7255495C86FD"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg",
