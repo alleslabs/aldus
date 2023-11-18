@@ -3608,5 +3608,27 @@
       }
     ],
     "description": "The Permissionless Interoperability layer built for the modular future."
+  },
+  {
+    "slug": "sid-sei",
+    "name": "SPACE ID .sei Name Service",
+    "website": "https://sei.space.id",
+    "github": "https://github.com/Space-ID",
+    "logo": "sid-sei.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/SID_sei_name"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "discord.gg/spaceid"
+      }
+    ],
+    "description": "Sei My Name!"
   }
 ]
