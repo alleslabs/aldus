@@ -3586,5 +3586,71 @@
       }
     ],
     "description": "The most powerful open exchange, backed by Paradigm, a16z, and Polychain."
+  },
+  {
+    "slug": "hyperlane",
+    "name": "Hyperlane",
+    "website": "https://hyperlane.xyz",
+    "github": "https://github.com/hyperlane-xyz",
+    "logo": "hyperlane.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/hyperlane_xyz"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/hyperlane"
+      }
+    ],
+    "description": "The Permissionless Interoperability layer built for the modular future."
+  },
+  {
+    "slug": "sid-sei",
+    "name": "SPACE ID .sei Name Service",
+    "website": "https://sei.space.id",
+    "github": "https://github.com/Space-ID",
+    "logo": "sid-sei.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/SID_sei_name"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "discord.gg/spaceid"
+      }
+    ],
+    "description": "Sei My Name!"
   }
+  {
+    "slug": "abstract",
+    "name": "Abstract",
+    "website": "https://abstract.money",
+    "github": "https://github.com/AbstractSDK",
+    "logo": "abstract.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AbstractSDK"
+        {
+          "name": "telegram",
+          "url": ""
+        },
+        {
+          "name": "discord",
+          "url": "https://discord.com/invite/uch3Tq3aym"
+        }
+      }
+    ],
+    "description": "Interchain app platform for modular applications at scale."
+  },
 ]
