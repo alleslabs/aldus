@@ -3630,7 +3630,7 @@
       }
     ],
     "description": "Sei My Name!"
-  }
+  },
   {
     "slug": "abstract",
     "name": "Abstract",
@@ -3641,16 +3641,16 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/AbstractSDK"
-        {
-          "name": "telegram",
-          "url": ""
-        },
-        {
-          "name": "discord",
-          "url": "https://discord.com/invite/uch3Tq3aym"
-        }
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.com/invite/uch3Tq3aym"
       }
     ],
     "description": "Interchain app platform for modular applications at scale."
-  },
+  }
 ]
