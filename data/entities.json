@@ -3566,15 +3566,15 @@
     "description": "The first modular blockchain network that securely scales with the number of users."
   },
   {
-    "slug": "abstract",
-    "name": "Abstract",
-    "website": "https://abstract.money",
-    "github": "https://github.com/AbstractSDK",
-    "logo": "abstract.png",
+    "slug": "dydx",
+    "name": "DYDX",
+    "website": "https://dydx.exchange",
+    "github": "https://github.com/dydxprotocol",
+    "logo": "dydx.png",
     "socials": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/AbstractSDK"
+        "url": "https://twitter.com/dydx"
       },
       {
         "name": "telegram",
@@ -3582,10 +3582,10 @@
       },
       {
         "name": "discord",
-        "url": "https://discord.com/invite/uch3Tq3aym"
+        "url": "https://discord.com/invite/dydx"
       }
     ],
-    "description": "Interchain app platform for modular applications at scale."
+    "description": "The most powerful open exchange, backed by Paradigm, a16z, and Polychain."
   },
   {
     "slug": "hyperlane",
@@ -3631,4 +3631,26 @@
     ],
     "description": "Sei My Name!"
   }
+  {
+    "slug": "abstract",
+    "name": "Abstract",
+    "website": "https://abstract.money",
+    "github": "https://github.com/AbstractSDK",
+    "logo": "abstract.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AbstractSDK"
+        {
+          "name": "telegram",
+          "url": ""
+        },
+        {
+          "name": "discord",
+          "url": "https://discord.com/invite/uch3Tq3aym"
+        }
+      }
+    ],
+    "description": "Interchain app platform for modular applications at scale."
+  },
 ]
