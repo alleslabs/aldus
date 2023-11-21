@@ -4718,7 +4718,7 @@
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx-circle.svg",
     "name": "DYDX",
-    "precision": 6,
+    "precision": 18,
     "slugs": ["dydx"],
     "symbol": "DYDX",
     "type": "native"
