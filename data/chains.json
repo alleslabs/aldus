@@ -11,7 +11,7 @@
       {
         "type": "testnet",
         "bech32Prefix": "osmo",
-        "celatone": "https://celatone.osmosis.zone/testnet",
+        "celatone": "https://celatone.osmosis.zone/osmo-test-5",
         "chainId": "osmo-test-5",
         "chainName": "Osmosis Testnet",
         "publicLCD": "https://lcd.osmotest5.osmosis.zone",
@@ -44,7 +44,7 @@
       {
         "type": "mainnet",
         "bech32Prefix": "osmo",
-        "celatone": "https://celatone.osmosis.zone/mainnet",
+        "celatone": "https://celatone.osmosis.zone/osmosis-1",
         "chainId": "osmosis-1",
         "chainName": "Osmosis Mainnet",
         "publicLCD": "https://lcd.osmosis.zone",
