@@ -342,8 +342,6 @@
     "description": "NOVA",
     "id": {
       "initia": {
-        "stone-7": "move/e44590a2aa2cd3cf07f4f10f0739a68e579b3218cf2772fc2c52e624c5060837",
-        "stone-11": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29",
         "stone-12-1": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29"
       }
     },
@@ -1097,9 +1095,6 @@
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
-        "stone-7": "move/4e0b08c632d4d732c3d1fe50bb43bbb8112225b60786f0561547127498679d31",
-        "stone-10": "move/4e0b08c632d4d732c3d1fe50bb43bbb8112225b60786f0561547127498679d31",
-        "stone-11": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7",
         "stone-12-1": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7"
       }
     },
@@ -2221,10 +2216,6 @@
     "coinmarketcap": "",
     "description": "The native token of Osmosis",
     "id": {
-      "initia": {
-        "stone-7": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-        "stone-10": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B"
-      },
       "osmosis": {
         "localosmosis": "uosmo",
         "osmo-test-4": "uosmo",
@@ -2695,10 +2686,8 @@
     "description": "Staking derivative stATOM for staked ATOM by Stride",
     "id": {
       "initia": {
-        "stone-7": "move/c2470ee64bffb09a08726bd7139ce930df777668aafb0310c434b878fe7dad09",
-        "stone-10": "move/c2470ee64bffb09a08726bd7139ce930df777668aafb0310c434b878fe7dad09",
-        "stone-11": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51",
-        "stone-12-1": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51"
+        "stone-12-1": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51",
+        "mahalo-1": "ustatom"
       },
       "neutron": {
         "neutron-1": "ibc/B7864B03E1B9FD4F049243E92ABD691586F682137037A9F3FCA5222815620B3C"
@@ -3299,13 +3288,26 @@
     "type": "cw20"
   },
   {
+    "coingecko": "ethereum",
+    "coinmarketcap": "",
+    "description": "Ethereum",
+    "id": {
+      "initia": {
+        "mahalo-1": "ueth"
+      }
+    },
+    "logo": "https://list.initia.xyz/images/0xbe0ef849e425ca89830c1ff0f984f5b0b512b70cab6a5ae294c6255c3ee4cd0c.webp",
+    "name": "Ethereum",
+    "precision": 6,
+    "slugs": ["ethereum"],
+    "symbol": "ETH",
+    "type": "native"
+  },
+  {
     "coingecko": "weth",
     "coinmarketcap": "",
     "description": "Wrapped Ether on Axelar",
     "id": {
-      "initia": {
-        "stone-7": "ibc/B8FEE8FE30746C96641E48F94053D5D0BE99CCB5B98C58A0239B70F082E713EA"
-      },
       "osmosis": {
         "osmo-test-4": "ibc/0BE7C3DAC50BB1C34565C76F01944DCC79B50CF359B63149B9E04E2A6736A6E6",
         "osmosis-1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
@@ -3539,22 +3541,6 @@
     "type": "native"
   },
   {
-    "coingecko": "tether",
-    "coinmarketcap": "",
-    "description": "Tether USD stablecoin",
-    "id": {
-      "initia": {
-        "stone-7": "move/d78efe514ee1201b0004fae683bb977ae172bf8cf9ff9e56048d708cb88e2eb7"
-      }
-    },
-    "logo": "https://list.initia.tech/images/0xfa5f07319724580ef16dcef6ce4d3b0bd0348e48::my_module::Usdt.webp",
-    "name": "Tether",
-    "precision": 6,
-    "slugs": ["tether"],
-    "symbol": "USDT",
-    "type": "native"
-  },
-  {
     "coingecko": "weth",
     "description": "",
     "id": {
@@ -3606,9 +3592,6 @@
     "coinmarketcap": "",
     "description": "The native staking and governance token of the Axelar chain",
     "id": {
-      "initia": {
-        "stone-7": "ibc/2CC0B1B7A981ACC74854717F221008484603BB8360E81B262411B0D830EDE9B0"
-      },
       "osmosis": {
         "osmosis-1": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E"
       },
@@ -3680,13 +3663,11 @@
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
-        "stone-7": "uusdc",
-        "stone-10": "uusdc",
-        "stone-11": "uusdc",
-        "stone-12-1": "uusdc"
+        "stone-12-1": "uusdc",
+        "mahalo-1": "uusdc"
       }
     },
-    "logo": "https://next.list.initia.tech/images/0x29824d952e035490fae7567deea5f15b504a68fa73610063c160ab1fa87dd609.webp",
+    "logo": "https://list.initia.xyz/images/0x29824d952e035490fae7567deea5f15b504a68fa73610063c160ab1fa87dd609.webp",
     "name": "USD Coin",
     "precision": 6,
     "slugs": ["circle"],
@@ -3981,9 +3962,6 @@
     "description": "The native token of Initia",
     "id": {
       "initia": {
-        "stone-7": "uinit",
-        "stone-10": "uinit",
-        "stone-11": "uinit",
         "stone-12-1": "uinit",
         "mahalo-1": "uinit",
         "game-3": "l2/4b66eb60bf9f503ea97fe4dc96d5c604c1dca14ee988e21510ac4b087bf72671",
@@ -4102,12 +4080,6 @@
     "coinmarketcap": "",
     "description": "",
     "id": {
-      "initia": {
-        "stone-7": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220",
-        "stone-10": "move/529883138fad49ed83096066dd574ec75791cf31f202e06ec80ca12671331220",
-        "stone-11": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8",
-        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
-      },
       "neutron": {
         "neutron-1": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
         "pion-1": "factory/neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h/wstETH"
@@ -4689,7 +4661,7 @@
     "description": "",
     "id": {
       "initia": {
-        "stone-11": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
+        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
       }
     },
     "logo": "https://next.list.initia.tech/images/0xe3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8.webp",
