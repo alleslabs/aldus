@@ -4720,5 +4720,20 @@
     "slugs": [],
     "symbol": "PKS",
     "type": "cw20"
+  },
+  {
+    "coingecko": "",
+    "description": "The native token of Levana",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/levana.png",
+    "name": "Levana Token",
+    "precision": 6,
+    "slugs": ["levana"],
+    "symbol": "LVN",
+    "type": "native"
   }
 ]
