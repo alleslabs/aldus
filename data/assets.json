@@ -4691,12 +4691,15 @@
     "type": "native"
   },
   {
-    "coingecko": "dydx",
+    "coingecko": "dydx-chain",
     "coinmarketcap": "dydx",
     "description": "The native token of DYDX",
     "id": {
       "osmosis": {
         "osmosis-1": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C"
+      },
+      "neutron": {
+        "neutron-1": "ibc/2CB87BCE0937B1D1DFCEE79BE4501AAF3C265E923509AEAC410AD85D27F35130"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx-circle.svg",
