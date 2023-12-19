@@ -3652,5 +3652,27 @@
       }
     ],
     "description": "Interchain app platform for modular applications at scale."
+  },
+  {
+    "slug": "milkyway",
+    "name": "Milky Way",
+    "website": "https://milkyway.zone",
+    "github": "https://github.com/milkyway-labs",
+    "logo": "milkyway.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/milky_way_zone"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/milky_way_zone"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/4ywmNE3tqq"
+      }
+    ],
+    "description": "Liquid Staking protocol tailored for Celestia’s modular blockchain ecosystem ."
   }
 ]
