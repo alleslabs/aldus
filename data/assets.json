@@ -4753,5 +4753,21 @@
     "slugs": ["milkyway"],
     "symbol": "milkTIA",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "initia": {
+        "miniwasm-1": "umin",
+        "minimove-1": "umin"
+      }
+    },
+    "logo": "",
+    "name": "umin",
+    "precision": 6,
+    "slugs": ["initia"],
+    "symbol": "MIN",
+    "type": "native"
   }
 ]
