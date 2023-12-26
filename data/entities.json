@@ -3674,5 +3674,27 @@
       }
     ],
     "description": "Liquid Staking protocol tailored for Celestia’s modular blockchain ecosystem ."
+  },
+  {
+    "slug": "seiyan",
+    "name": "SEIYAN",
+    "website": "",
+    "github": "",
+    "logo": "SEIYAN.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": ""
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Sei's main memecoin."
   }
 ]

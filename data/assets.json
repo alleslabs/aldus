@@ -4769,5 +4769,20 @@
     "slugs": ["initia"],
     "symbol": "MIN",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "sei": {
+        "pacific-1": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed"
+      }
+    },
+    "logo": "",
+    "name": "SEIYAN",
+    "precision": 6,
+    "slugs": ["seiyan"],
+    "symbol": "SEIYAN",
+    "type": "cw20"
   }
 ]
