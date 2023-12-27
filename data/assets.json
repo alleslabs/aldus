@@ -3667,7 +3667,9 @@
     "id": {
       "initia": {
         "stone-12-1": "uusdc",
-        "mahalo-1": "uusdc"
+        "mahalo-1": "uusdc",
+        "minimove-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "miniwasm-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
       }
     },
     "logo": "https://list.initia.xyz/images/0x29824d952e035490fae7567deea5f15b504a68fa73610063c160ab1fa87dd609.webp",
@@ -3970,9 +3972,8 @@
       "initia": {
         "stone-12-1": "uinit",
         "mahalo-1": "uinit",
-        "game-3": "l2/4b66eb60bf9f503ea97fe4dc96d5c604c1dca14ee988e21510ac4b087bf72671",
-        "free-3": "uinit",
-        "wasm-3": "uinit"
+        "minimove-1": "l2/4b66eb60bf9f503ea97fe4dc96d5c604c1dca14ee988e21510ac4b087bf72671",
+        "miniwasm-1": "l2/926dab95dc14918344374867b8576adee2c6cfca69b968fdb08c5280390cd1a7"
       }
     },
     "logo": "https://list.initia.xyz/images/0x8e4733bdabcf7d4afc3d14f0dd46c9bf52fb0fce9e4b996c939e195b8bc891d9.webp",
