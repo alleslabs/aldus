@@ -4791,5 +4791,19 @@
     "slugs": ["seiyan"],
     "symbol": "SEIYAN",
     "type": "cw20"
+  }, {
+    "coingecko": "cook",
+    "description": "",
+    "id": {
+      "sei": {
+        "pacific-1": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56"
+      }
+    },
+    "logo": "https://cookonsei.com/cook150.png",
+    "name": "COOK",
+    "precision": 6,
+    "slugs": ["cook"],
+    "symbol": "COOK",
+    "type": "cw20"
   }
 ]
