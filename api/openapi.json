@@ -1,0 +1,638 @@
+{
+  "info": {
+    "title": "Aldus API",
+    "version": "1.0"
+  },
+  "tags": [
+    {
+      "name": "V1"
+    },
+    {
+      "name": "V1.Accounts"
+    },
+    {
+      "name": "V1.Codes"
+    },
+    {
+      "name": "V1.Contracts"
+    },
+    {
+      "name": "V1.Globals"
+    },
+    {
+      "name": "V1.Modules"
+    },
+    {
+      "name": "V1.Entities"
+    }
+  ],
+  "servers": [
+    {
+      "url": "http://localhost:5000"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "parameters": [],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          }
+        },
+        "summary": "Hello World"
+      }
+    },
+    "/v1/entities": {
+      "get": {
+        "parameters": [],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          }
+        },
+        "tags": [
+          "V1.Entities"
+        ],
+        "summary": "Get entities",
+        "description": "Get all entiy entries"
+      }
+    },
+    "/v1/globals/chains": {
+      "get": {
+        "parameters": [],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          }
+        },
+        "tags": [
+          "V1.Globals"
+        ],
+        "summary": "Get all chains",
+        "description": "Get all chain entries"
+      }
+    },
+    "/v1/globals/assets": {
+      "get": {
+        "parameters": [],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          }
+        },
+        "tags": [
+          "V1.Globals"
+        ],
+        "summary": "Get assets",
+        "description": "Get all asset entries"
+      }
+    },
+    "/v1/entities/{entity_slug}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "entity_slug",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Entities"
+        ],
+        "summary": "Get an entity by slug",
+        "description": "Get an entity entry by slug"
+      }
+    },
+    "/v1/{chain}/{network}/codes": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Codes"
+        ],
+        "summary": "Get all codes",
+        "description": "Get all code entries for a given chain and network."
+      }
+    },
+    "/v1/{chain}/{network}/modules": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Modules"
+        ],
+        "summary": "Get all modules",
+        "description": "Get all module entries for a given chain and network."
+      }
+    },
+    "/v1/{chain}/{network}/accounts": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Accounts"
+        ],
+        "summary": "Get all accounts",
+        "description": "Get all accounts entries for a given chain and network."
+      }
+    },
+    "/v1/{chain}/{network}/contracts": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Contracts"
+        ],
+        "summary": "Get all contracts",
+        "description": "Get all contract entries for a given chain and network."
+      }
+    },
+    "/v1/{chain}/{network}/codes/{code_id}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "code_id",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Codes"
+        ],
+        "summary": "Get a code",
+        "description": "Get a code entry for a given chain, network and code ID"
+      }
+    },
+    "/v1/{chain}/{network}/accounts/{address}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "address",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Accounts"
+        ],
+        "summary": "Get an account by address",
+        "description": "Get an account entry for a given chain and network by address."
+      }
+    },
+    "/v1/{chain}/{network}/entities/{entity_slug}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "entity_slug",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Entities"
+        ],
+        "summary": "Get entity details by slug",
+        "description": "Get entity entry and details by slug"
+      }
+    },
+    "/v1/{chain}/{network}/contracts/{contract_address}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "contract_address",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Contracts"
+        ],
+        "summary": "Get a contract by address",
+        "description": "Get a contract entry for a given chain and network by address."
+      }
+    },
+    "/v1/{chain}/{network}/modules/{module_address}/{module_name}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "module_address",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "module_name",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Modules"
+        ],
+        "summary": "Get a module by address and name",
+        "description": "Get a module entry for a given chain, network, module_address, and module_name."
+      }
+    }
+  },
+  "openapi": "3.0.3",
+  "components": {
+    "schemas": {
+      "HTTPError": {
+        "properties": {
+          "detail": {
+            "type": "object"
+          },
+          "message": {
+            "type": "string"
+          }
+        },
+        "type": "object"
+      }
+    }
+  }
+}

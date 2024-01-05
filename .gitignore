@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask
+instance/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+venv/
+env/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
