@@ -1,4 +1,3 @@
-import json
 import logging
 import os
 
@@ -29,8 +28,9 @@ app.register_blueprint(v1.v1_bp, url_prefix="/v1")
 # Enable CORS for the app
 CORS(app)
 
-
-# Define a route for the root endpoint
-@app.route("/", methods=["GET"])
-def hello_world():
-    return {"gm": "gm"}
+if __name__ == "__main__":
+    app.run(
+        debug=os.environ.get("FLASK_DEBUG", True),
+        host=os.environ.get("FLASK_HOST", "0.0.0.0"),
+        port=int(os.environ.get("FLASK_PORT", 8080)),
+    )
