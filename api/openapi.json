@@ -32,22 +32,6 @@
     }
   ],
   "paths": {
-    "/": {
-      "get": {
-        "parameters": [],
-        "responses": {
-          "200": {
-            "content": {
-              "application/json": {
-                "schema": {}
-              }
-            },
-            "description": "Successful response"
-          }
-        },
-        "summary": "Hello World"
-      }
-    },
     "/v1/entities": {
       "get": {
         "parameters": [],

@@ -20,7 +20,7 @@ def load_contracts(chain, network):
 @contracts_bp.route("/<chain>/<network>/contracts", methods=["GET"])
 @contracts_bp.doc(
     summary="Get all contracts",
-    description="Get all contract entries for a given chain and network.",
+    description="Get all contract entries for a given chain and network",
 )
 def get_contracts(chain, network):
     """Get contracts for a given chain and network.
@@ -38,8 +38,8 @@ def get_contracts(chain, network):
 
 @contracts_bp.route("/<chain>/<network>/contracts/<contract_address>", methods=["GET"])
 @contracts_bp.doc(
-    summary="Get a contract by address",
-    description="Get a contract entry for a given chain and network by address.",
+    summary="Get contract by address",
+    description="Get a contract entry for a given chain and network by address",
 )
 def get_contract(chain, network, contract_address):
     """Get contract for a given chain, network and contract_address.

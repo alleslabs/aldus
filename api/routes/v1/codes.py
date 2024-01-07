@@ -38,7 +38,7 @@ def get_codes(chain, network):
 
 @codes_bp.route("/<chain>/<network>/codes/<code_id>", methods=["GET"])
 @codes_bp.doc(
-    summary="Get a code",
+    summary="Get code by ID",
     description="Get a code entry for a given chain, network and code ID",
 )
 def get_code(chain, network, code_id):

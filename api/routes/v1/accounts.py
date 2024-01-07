@@ -20,7 +20,7 @@ def load_accounts(chain, network):
 @accounts_bp.route("/<chain>/<network>/accounts", methods=["GET"])
 @accounts_bp.doc(
     summary="Get all accounts",
-    description="Get all accounts entries for a given chain and network.",
+    description="Get all accounts entries for a given chain and network",
 )
 def get_accounts(chain, network):
     """Get accounts for a given chain and network.
@@ -38,8 +38,8 @@ def get_accounts(chain, network):
 
 @accounts_bp.route("/<chain>/<network>/accounts/<address>", methods=["GET"])
 @accounts_bp.doc(
-    summary="Get an account by address",
-    description="Get an account entry for a given chain and network by address.",
+    summary="Get account by address",
+    description="Get an account entry for a given chain and network by address",
 )
 def get_account(chain, network, address):
     """Get account for a given chain, network and address.

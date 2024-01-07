@@ -22,7 +22,7 @@ def load_modules(chain, network):
 @modules_bp.route("/<chain>/<network>/modules", methods=["GET"])
 @modules_bp.doc(
     summary="Get all modules",
-    description="Get all module entries for a given chain and network.",
+    description="Get all module entries for a given chain and network",
 )
 def get_modules(chain, network):
     """Get modules for a given chain and network.
@@ -42,8 +42,8 @@ def get_modules(chain, network):
     "/<chain>/<network>/modules/<module_address>/<module_name>", methods=["GET"]
 )
 @modules_bp.doc(
-    summary="Get a module by address and name",
-    description="Get a module entry for a given chain, network, module_address, and module_name.",
+    summary="Get module by address and name",
+    description="Get a module entry for a given chain, network, module_address, and module_name",
 )
 def get_module(chain, network, module_address, module_name):
     """Get module for a given chain, network, module_address, and module_name.
