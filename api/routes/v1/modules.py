@@ -1,22 +1,28 @@
-from apiflask import APIBlueprint
+from apiflask import APIBlueprint, Schema, abort
+from typing import List
 from utils import load_aldus_data
+from apiflask.fields import String
+import logging
+from http import HTTPStatus
+
+
+class Module(Schema):
+    slug = String(required=True)
+    address = String(required=True)
+    name = String(required=True)
+    description = String(required=True)
+    github = String(required=True)
+
 
 modules_bp = APIBlueprint("modules", __name__)
 
 
-def load_modules(chain, network):
-    """Load all modules for a given chain and network.
-
-    Args:
-        chain (str): Chain name.
-        network (str): Network name.
-
-    Returns:
-        list: List of modules.
-    """
-    if chain != "initia":
-        return []
-    return load_aldus_data(f"../data/{chain}/{network}/modules.json")
+def load_modules(chain: str, network: str) -> List[dict]:
+    try:
+        return load_aldus_data("modules", chain, network)
+    except Exception as e:
+        logging.error(f"Error loading data: {e}")
+        abort(HTTPStatus.INTERNAL_SERVER_ERROR, description="Internal server error")
 
 
 @modules_bp.route("/<chain>/<network>/modules", methods=["GET"])
@@ -24,7 +30,8 @@ def load_modules(chain, network):
     summary="Get all modules",
     description="Get all module entries for a given chain and network",
 )
-def get_modules(chain, network):
+@modules_bp.output(Module(many=True), status_code=200)
+def get_modules(chain: str, network: str) -> List[Module]:
     """Get modules for a given chain and network.
 
     Args:
@@ -32,10 +39,10 @@ def get_modules(chain, network):
         network (str): Network name.
 
     Returns:
-        list: List of modules.
+        List[Module]: List of modules.
     """
-    modules = load_modules(chain, network)
-    return modules
+    modules_data = load_modules(chain, network)
+    return modules_data
 
 
 @modules_bp.route(
@@ -45,7 +52,10 @@ def get_modules(chain, network):
     summary="Get module by address and name",
     description="Get a module entry for a given chain, network, module_address, and module_name",
 )
-def get_module(chain, network, module_address, module_name):
+@modules_bp.output(Module, status_code=200)
+def get_module(
+    chain: str, network: str, module_address: str, module_name: str
+) -> Module:
     """Get module for a given chain, network, module_address, and module_name.
 
     Args:
@@ -55,19 +65,17 @@ def get_module(chain, network, module_address, module_name):
         module_name (str): Module Name.
 
     Returns:
-        dict: Module data.
+        Module: Module data.
     """
-    if chain != "initia":
-        return []
-    modules = load_modules(chain, network)
+    modules_data = load_modules(chain, network)
     module = next(
         (
-            module
-            for module in modules
-            if module["address"] == module_address and module["name"] == module_name
+            m
+            for m in modules_data
+            if m["address"] == module_address and m["name"] == module_name
         ),
         None,
     )
-    if not module:
-        return {"error": "Module not found"}, 404
-    return module
+    if module:
+        return module
+    abort(HTTPStatus.NOT_FOUND, description="Module not found")

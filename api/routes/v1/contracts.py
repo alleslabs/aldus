@@ -1,20 +1,28 @@
-from apiflask import APIBlueprint
+from apiflask import APIBlueprint, Schema, abort
 from utils import load_aldus_data
+from typing import List
+from apiflask.fields import String, Integer
+import logging
+from http import HTTPStatus
+
+
+class Contract(Schema):
+    slug = String(required=True)
+    id = Integer(required=True)
+    name = String(required=True)
+    description = String(required=True)
+    github = String(required=True)
+
 
 contracts_bp = APIBlueprint("contracts", __name__)
 
 
-def load_contracts(chain, network):
-    """Load all contracts for a given chain and network.
-
-    Args:
-        chain (str): Chain name.
-        network (str): Network name.
-
-    Returns:
-        list: List of contracts.
-    """
-    return load_aldus_data(f"../data/{chain}/{network}/contracts.json")
+def load_contracts(chain: str, network: str) -> List[dict]:
+    try:
+        return load_aldus_data("contracts", chain, network)
+    except Exception as e:
+        logging.error(f"Error loading data: {e}")
+        abort(HTTPStatus.INTERNAL_SERVER_ERROR, description="Internal server error")
 
 
 @contracts_bp.route("/<chain>/<network>/contracts", methods=["GET"])
@@ -22,7 +30,8 @@ def load_contracts(chain, network):
     summary="Get all contracts",
     description="Get all contract entries for a given chain and network",
 )
-def get_contracts(chain, network):
+@contracts_bp.output(Contract(many=True), status_code=200)
+def get_contracts(chain: str, network: str) -> List[Contract]:
     """Get contracts for a given chain and network.
 
     Args:
@@ -30,10 +39,10 @@ def get_contracts(chain, network):
         network (str): Network name.
 
     Returns:
-        list: List of contracts.
+        List[Contract]: List of contracts.
     """
-    contracts = load_contracts(chain, network)
-    return contracts
+    contracts_data = load_contracts(chain, network)
+    return contracts_data
 
 
 @contracts_bp.route("/<chain>/<network>/contracts/<contract_address>", methods=["GET"])
@@ -41,7 +50,8 @@ def get_contracts(chain, network):
     summary="Get contract by address",
     description="Get a contract entry for a given chain and network by address",
 )
-def get_contract(chain, network, contract_address):
+@contracts_bp.output(Contract, status_code=200)
+def get_contract(chain: str, network: str, contract_address: str) -> Contract:
     """Get contract for a given chain, network and contract_address.
 
     Args:
@@ -50,13 +60,12 @@ def get_contract(chain, network, contract_address):
         contract_address (str): Contract address.
 
     Returns:
-        dict: Contract data.
+        Contract: Contract data.
     """
-    contracts = load_contracts(chain, network)
+    contracts_data = load_contracts(chain, network)
     contract = next(
-        (contract for contract in contracts if contract["address"] == contract_address),
-        None,
+        (c for c in contracts_data if c["address"] == contract_address), None
     )
-    if not contract:
-        return {"error": "Contract not found"}, 404
-    return contract
+    if contract:
+        return contract
+    abort(HTTPStatus.NOT_FOUND, description="Contract not found")

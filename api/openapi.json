@@ -24,6 +24,9 @@
     },
     {
       "name": "V1.Entities"
+    },
+    {
+      "name": "V1.Assets"
     }
   ],
   "servers": [
@@ -39,7 +42,12 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/RawEntity"
+                  }
+                }
               }
             },
             "description": "Successful response"
@@ -49,7 +57,7 @@
           "V1.Entities"
         ],
         "summary": "Get entities",
-        "description": "Get all entiy entries"
+        "description": "Get all entity entries"
       }
     },
     "/v1/globals/chains": {
@@ -92,45 +100,6 @@
         "description": "Get all asset entries"
       }
     },
-    "/v1/entities/{entity_slug}": {
-      "get": {
-        "parameters": [
-          {
-            "in": "path",
-            "name": "entity_slug",
-            "schema": {
-              "type": "string"
-            },
-            "required": true
-          }
-        ],
-        "responses": {
-          "200": {
-            "content": {
-              "application/json": {
-                "schema": {}
-              }
-            },
-            "description": "Successful response"
-          },
-          "404": {
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/HTTPError"
-                }
-              }
-            },
-            "description": "Not found"
-          }
-        },
-        "tags": [
-          "V1.Entities"
-        ],
-        "summary": "Get an entity by slug",
-        "description": "Get an entity entry by slug"
-      }
-    },
     "/v1/{chain}/{network}/codes": {
       "get": {
         "parameters": [
@@ -155,7 +124,12 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Code"
+                  }
+                }
               }
             },
             "description": "Successful response"
@@ -176,6 +150,58 @@
         ],
         "summary": "Get all codes",
         "description": "Get all code entries for a given chain and network."
+      }
+    },
+    "/v1/{chain}/{network}/assets": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Asset"
+                  }
+                }
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Assets"
+        ],
+        "summary": "Get assets",
+        "description": "Get all assets entries for a given chain and network"
       }
     },
     "/v1/{chain}/{network}/modules": {
@@ -202,7 +228,12 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Module"
+                  }
+                }
               }
             },
             "description": "Successful response"
@@ -222,7 +253,7 @@
           "V1.Modules"
         ],
         "summary": "Get all modules",
-        "description": "Get all module entries for a given chain and network."
+        "description": "Get all module entries for a given chain and network"
       }
     },
     "/v1/{chain}/{network}/accounts": {
@@ -249,7 +280,12 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Account"
+                  }
+                }
               }
             },
             "description": "Successful response"
@@ -269,7 +305,59 @@
           "V1.Accounts"
         ],
         "summary": "Get all accounts",
-        "description": "Get all accounts entries for a given chain and network."
+        "description": "Get all account entries for a given chain and network"
+      }
+    },
+    "/v1/{chain}/{network}/entities": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Entity"
+                  }
+                }
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Entities"
+        ],
+        "summary": "Get entities with details",
+        "description": "Get all entities entry and details"
       }
     },
     "/v1/{chain}/{network}/contracts": {
@@ -296,7 +384,12 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Contract"
+                  }
+                }
               }
             },
             "description": "Successful response"
@@ -316,62 +409,7 @@
           "V1.Contracts"
         ],
         "summary": "Get all contracts",
-        "description": "Get all contract entries for a given chain and network."
-      }
-    },
-    "/v1/{chain}/{network}/codes/{code_id}": {
-      "get": {
-        "parameters": [
-          {
-            "in": "path",
-            "name": "chain",
-            "schema": {
-              "type": "string"
-            },
-            "required": true
-          },
-          {
-            "in": "path",
-            "name": "network",
-            "schema": {
-              "type": "string"
-            },
-            "required": true
-          },
-          {
-            "in": "path",
-            "name": "code_id",
-            "schema": {
-              "type": "string"
-            },
-            "required": true
-          }
-        ],
-        "responses": {
-          "200": {
-            "content": {
-              "application/json": {
-                "schema": {}
-              }
-            },
-            "description": "Successful response"
-          },
-          "404": {
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/HTTPError"
-                }
-              }
-            },
-            "description": "Not found"
-          }
-        },
-        "tags": [
-          "V1.Codes"
-        ],
-        "summary": "Get a code",
-        "description": "Get a code entry for a given chain, network and code ID"
+        "description": "Get all contract entries for a given chain and network"
       }
     },
     "/v1/{chain}/{network}/accounts/{address}": {
@@ -406,7 +444,9 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "$ref": "#/components/schemas/Account"
+                }
               }
             },
             "description": "Successful response"
@@ -425,8 +465,65 @@
         "tags": [
           "V1.Accounts"
         ],
-        "summary": "Get an account by address",
-        "description": "Get an account entry for a given chain and network by address."
+        "summary": "Get account by address",
+        "description": "Get an account entry for a given chain and network by address"
+      }
+    },
+    "/v1/{chain}/{network}/codes/{code_id}": {
+      "get": {
+        "parameters": [
+          {
+            "in": "path",
+            "name": "chain",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "network",
+            "schema": {
+              "type": "string"
+            },
+            "required": true
+          },
+          {
+            "in": "path",
+            "name": "code_id",
+            "schema": {
+              "type": "integer"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Code"
+                }
+              }
+            },
+            "description": "Successful response"
+          },
+          "404": {
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPError"
+                }
+              }
+            },
+            "description": "Not found"
+          }
+        },
+        "tags": [
+          "V1.Codes"
+        ],
+        "summary": "Get code by ID",
+        "description": "Get a code entry for a given chain, network, and code ID"
       }
     },
     "/v1/{chain}/{network}/entities/{entity_slug}": {
@@ -461,7 +558,9 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "$ref": "#/components/schemas/Entity"
+                }
               }
             },
             "description": "Successful response"
@@ -516,7 +615,9 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "$ref": "#/components/schemas/Contract"
+                }
               }
             },
             "description": "Successful response"
@@ -535,8 +636,8 @@
         "tags": [
           "V1.Contracts"
         ],
-        "summary": "Get a contract by address",
-        "description": "Get a contract entry for a given chain and network by address."
+        "summary": "Get contract by address",
+        "description": "Get a contract entry for a given chain and network by address"
       }
     },
     "/v1/{chain}/{network}/modules/{module_address}/{module_name}": {
@@ -579,7 +680,9 @@
           "200": {
             "content": {
               "application/json": {
-                "schema": {}
+                "schema": {
+                  "$ref": "#/components/schemas/Module"
+                }
               }
             },
             "description": "Successful response"
@@ -598,8 +701,8 @@
         "tags": [
           "V1.Modules"
         ],
-        "summary": "Get a module by address and name",
-        "description": "Get a module entry for a given chain, network, module_address, and module_name."
+        "summary": "Get module by address and name",
+        "description": "Get a module entry for a given chain, network, module_address, and module_name"
       }
     }
   },
@@ -616,6 +719,310 @@
           }
         },
         "type": "object"
+      },
+      "Social": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "url"
+        ]
+      },
+      "Account": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "address": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "address",
+          "description",
+          "name",
+          "slug",
+          "type"
+        ]
+      },
+      "Code": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "description",
+          "github",
+          "id",
+          "name",
+          "slug"
+        ]
+      },
+      "Contract": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "description",
+          "github",
+          "id",
+          "name",
+          "slug"
+        ]
+      },
+      "Module": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "address": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "address",
+          "description",
+          "github",
+          "name",
+          "slug"
+        ]
+      },
+      "RawEntity": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "website": {
+            "type": "string"
+          },
+          "logo": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          },
+          "socials": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Social"
+            }
+          },
+          "accounts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Account"
+            }
+          },
+          "codes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Code"
+            }
+          },
+          "contracts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Contract"
+            }
+          },
+          "modules": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Module"
+            }
+          }
+        },
+        "required": [
+          "description",
+          "github",
+          "logo",
+          "name",
+          "slug",
+          "socials",
+          "website"
+        ]
+      },
+      "Asset": {
+        "type": "object",
+        "properties": {
+          "coingecko": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "id": {
+            "type": "string"
+          },
+          "logo": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "precision": {
+            "type": "integer"
+          },
+          "slugs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "symbol": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "coingecko",
+          "description",
+          "id",
+          "logo",
+          "name",
+          "precision",
+          "slugs",
+          "symbol",
+          "type"
+        ]
+      },
+      "EntityDetail": {
+        "type": "object",
+        "properties": {
+          "description": {
+            "type": "string"
+          },
+          "github": {
+            "type": "string"
+          },
+          "logo": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "socials": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Social"
+            }
+          },
+          "website": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "description",
+          "github",
+          "logo",
+          "name",
+          "socials",
+          "website"
+        ]
+      },
+      "Entity": {
+        "type": "object",
+        "properties": {
+          "slug": {
+            "type": "string"
+          },
+          "details": {
+            "$ref": "#/components/schemas/EntityDetail"
+          },
+          "accounts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Account"
+            }
+          },
+          "codes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Code"
+            }
+          },
+          "contracts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Contract"
+            }
+          },
+          "modules": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Module"
+            }
+          }
+        },
+        "required": [
+          "details",
+          "slug"
+        ]
       }
     }
   }
