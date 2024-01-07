@@ -256,14 +256,14 @@
     "name": "TFM Multisig",
     "address": "osmo1e0x2hnhhwyek7eq3kcxu2x6pt77wdnwz0lutz9fespdr9utq963qr0y5p5",
     "description": "Apollo Safe CW3 multisig owned by the TFM team whitelisted to upload contracts",
-    "tpye": "contract"
+    "type": "contract"
   },
   {
     "slug": "croncat",
     "name": "CronCat Uploader",
     "address": "osmo15wna5dwylkuzvljsudyn6zfsd4zl0rkg5ge888mzk4vtnjpp0z5q4e9w58",
     "description": "Apollo Safe CW3 multisig owned by the CronCat team whitelisted to upload contracts",
-    "tpye": "contract"
+    "type": "contract"
   },
   {
     "slug": "calc",
