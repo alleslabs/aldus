@@ -1,7 +1,6 @@
 [
   {
     "coingecko": "band-protocol",
-    "coinmarketcap": "",
     "description": "The native token of BandChain",
     "id": {
       "osmosis": {
@@ -17,7 +16,6 @@
   },
   {
     "coingecko": "kava-lend",
-    "coinmarketcap": "",
     "description": "Governance token of Kava Lend Protocol",
     "id": {
       "osmosis": {
@@ -33,7 +31,6 @@
   },
   {
     "coingecko": "geodb",
-    "coinmarketcap": "",
     "description": "Geo token for ODIN Protocol",
     "id": {
       "osmosis": {
@@ -49,7 +46,6 @@
   },
   {
     "coingecko": "junoswap-raw-dao",
-    "coinmarketcap": "",
     "description": "Token governance for Junoswap",
     "id": {
       "osmosis": {
@@ -65,7 +61,6 @@
   },
   {
     "coingecko": "akash-network",
-    "coinmarketcap": "",
     "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
     "id": {
       "osmosis": {
@@ -82,7 +77,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "ELEVENPARIS loyalty token on KiChain",
     "id": {
       "osmosis": {
@@ -98,7 +92,6 @@
   },
   {
     "coingecko": "fetch-ai",
-    "coinmarketcap": "",
     "description": "The native token of Fetch.ai Chain",
     "id": {
       "osmosis": {
@@ -114,7 +107,6 @@
   },
   {
     "coingecko": "posthuman",
-    "coinmarketcap": "",
     "description": "The native token cw20 for PHMN on Juno Chain",
     "id": {
       "osmosis": {
@@ -130,7 +122,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin on Axelar",
     "id": {
       "neutron": {
@@ -154,7 +145,6 @@
   },
   {
     "coingecko": "usk",
-    "coinmarketcap": "",
     "description": "The native over-collateralized stablecoin from the Kujira chain.",
     "id": {
       "osmosis": {
@@ -173,7 +163,6 @@
   },
   {
     "coingecko": "sommelier",
-    "coinmarketcap": "",
     "description": "The native token of Sommelier Chain.",
     "id": {
       "osmosis": {
@@ -189,7 +178,6 @@
   },
   {
     "coingecko": "weth",
-    "coinmarketcap": "",
     "description": "Wrapped Ether from BSC (Wormhole)",
     "id": {
       "sei": {
@@ -235,7 +223,6 @@
   },
   {
     "coingecko": "juno-network",
-    "coinmarketcap": "",
     "description": "The native token of JUNO Chain",
     "id": {
       "osmosis": {
@@ -258,7 +245,6 @@
   },
   {
     "coingecko": "bostrom",
-    "coinmarketcap": "",
     "description": "The staking token of Bostrom",
     "id": {
       "osmosis": {
@@ -274,7 +260,6 @@
   },
   {
     "coingecko": "tether",
-    "coinmarketcap": "",
     "description": "Tether's USD stablecoin on Axelar",
     "id": {
       "osmosis": {
@@ -290,7 +275,6 @@
   },
   {
     "coingecko": "tether",
-    "coinmarketcap": "",
     "description": "Kava USDT stablecoin",
     "id": {
       "osmosis": {
@@ -309,7 +293,6 @@
   },
   {
     "coingecko": "quicksilver",
-    "coinmarketcap": "",
     "description": "QCK - native token of Quicksilver",
     "id": {
       "osmosis": {
@@ -325,7 +308,6 @@
   },
   {
     "coingecko": "stride-staked-osmo",
-    "coinmarketcap": "",
     "description": "Staking derivative stOSMO for staked OSMO by Stride",
     "id": {
       "osmosis": {
@@ -341,7 +323,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "NOVA",
     "id": {
       "initia": {
@@ -372,7 +353,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "404Deep Records a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -388,7 +368,6 @@
   },
   {
     "coingecko": "tether-usd-wormhole-from-ethereum",
-    "coinmarketcap": "",
     "description": "Wrapped Tether USD from Ethereum (Wormhole)",
     "id": {
       "sei": {
@@ -404,7 +383,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The Interchain Index Token",
     "id": {
       "osmosis": {
@@ -454,7 +432,6 @@
   },
   {
     "coingecko": "desmos",
-    "coinmarketcap": "",
     "description": "The native token of Desmos",
     "id": {
       "osmosis": {
@@ -470,7 +447,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Gravity Bridge USDC",
     "id": {
       "osmosis": {
@@ -486,7 +462,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Quicksilver Liquid Staked STARS",
     "id": {
       "osmosis": {
@@ -502,7 +477,6 @@
   },
   {
     "coingecko": "sentinel",
-    "coinmarketcap": "",
     "description": "DVPN is the native token of the Sentinel Hub.",
     "id": {
       "osmosis": {
@@ -518,7 +492,6 @@
   },
   {
     "coingecko": "wrapped-btc-wormhole",
-    "coinmarketcap": "",
     "description": "Wrapped Bitcoin from Ethereum (Wormhole)",
     "id": {
       "sei": {
@@ -534,7 +507,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "BlackJack a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -550,7 +522,6 @@
   },
   {
     "coingecko": "bitsong",
-    "coinmarketcap": "",
     "description": "BitSong Native Token",
     "id": {
       "osmosis": {
@@ -566,7 +537,6 @@
   },
   {
     "coingecko": "regen",
-    "coinmarketcap": "",
     "description": "REGEN coin is the token for the Regen Network Platform",
     "id": {
       "osmosis": {
@@ -582,7 +552,6 @@
   },
   {
     "coingecko": "diego",
-    "coinmarketcap": "",
     "description": "The native token of Dig Chain.",
     "id": {
       "osmosis": {
@@ -598,7 +567,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Gelotto Year 1 Grand Prize Token",
     "id": {
       "osmosis": {
@@ -614,7 +582,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from Ethereum (Wormhole)",
     "id": {
       "sei": {
@@ -630,7 +597,6 @@
   },
   {
     "coingecko": "tgrade",
-    "coinmarketcap": "",
     "description": "The native token of Tgrade",
     "id": {
       "osmosis": {
@@ -646,7 +612,6 @@
   },
   {
     "coingecko": "fanfury",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Fanfury on Juno Chain",
     "id": {
       "osmosis": {
@@ -662,7 +627,6 @@
   },
   {
     "coingecko": "astroport-fi",
-    "coinmarketcap": "",
     "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
     "id": {
       "neutron": {
@@ -685,7 +649,6 @@
   },
   {
     "coingecko": "buttcoin-2",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Button on Secret Network",
     "id": {
       "osmosis": {
@@ -701,7 +664,6 @@
   },
   {
     "coingecko": "polkadot",
-    "coinmarketcap": "",
     "description": "Wrapped Polkadot on Axelar",
     "id": {
       "osmosis": {
@@ -717,7 +679,6 @@
   },
   {
     "coingecko": "muse-2",
-    "coinmarketcap": "",
     "description": "MUSE Governance Token",
     "id": {
       "osmosis": {
@@ -733,7 +694,6 @@
   },
   {
     "coingecko": "sei-network",
-    "coinmarketcap": "",
     "description": "The native token of Sei",
     "id": {
       "osmosis": {
@@ -753,7 +713,6 @@
   },
   {
     "coingecko": "usdx",
-    "coinmarketcap": "",
     "description": "The native stablecoin of Kava",
     "id": {
       "osmosis": {
@@ -769,7 +728,6 @@
   },
   {
     "coingecko": "dai",
-    "coinmarketcap": "",
     "description": "Gravity Bridge Dai",
     "id": {
       "osmosis": {
@@ -785,7 +743,6 @@
   },
   {
     "coingecko": "dai",
-    "coinmarketcap": "",
     "description": "Dai stablecoin on Axelar",
     "id": {
       "osmosis": {
@@ -801,7 +758,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from Solana (Wormhole)",
     "id": {
       "sei": {
@@ -817,7 +773,6 @@
   },
   {
     "coingecko": "planq",
-    "coinmarketcap": "",
     "description": "The native EVM, governance and staking token of the Planq Network",
     "id": {
       "osmosis": {
@@ -833,7 +788,6 @@
   },
   {
     "coingecko": "microtick",
-    "coinmarketcap": "",
     "description": "TICK coin is the token for the Microtick Price Discovery & Oracle App",
     "id": {
       "osmosis": {
@@ -864,7 +818,6 @@
   },
   {
     "coingecko": "lambda",
-    "coinmarketcap": "",
     "description": "The native token of Lambda",
     "id": {
       "osmosis": {
@@ -880,7 +833,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token cw20 for SCRT Staking Derivatives on Secret Network",
     "id": {
       "osmosis": {
@@ -896,7 +848,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "O9W token for ODIN Protocol",
     "id": {
       "osmosis": {
@@ -912,7 +863,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native EVM, governance, bridge, and staking token of Echelon",
     "id": {
       "osmosis": {
@@ -928,7 +878,6 @@
   },
   {
     "coingecko": "graviton",
-    "coinmarketcap": "",
     "description": "The native token of Gravity Bridge",
     "id": {
       "osmosis": {
@@ -950,7 +899,6 @@
   },
   {
     "coingecko": "ki",
-    "coinmarketcap": "",
     "description": "The native token of Ki Chain",
     "id": {
       "osmosis": {
@@ -966,7 +914,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Marble DAO on Juno Chain",
     "id": {
       "osmosis": {
@@ -982,7 +929,6 @@
   },
   {
     "coingecko": "onomy-protocol",
-    "coinmarketcap": "",
     "description": "The native token of Onomy Protocol",
     "id": {
       "osmosis": {
@@ -998,7 +944,6 @@
   },
   {
     "coingecko": "rizon",
-    "coinmarketcap": "",
     "description": "Atolo the native token of Rizon Chain",
     "id": {
       "osmosis": {
@@ -1014,7 +959,6 @@
   },
   {
     "coingecko": "wrapped-moonbeam",
-    "coinmarketcap": "",
     "description": "Wrapped GLMR on Axelar",
     "id": {
       "osmosis": {
@@ -1046,7 +990,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Staking derivative stSTARS for staked STARS by Stride",
     "id": {
       "osmosis": {
@@ -1062,7 +1005,6 @@
   },
   {
     "coingecko": "cudos",
-    "coinmarketcap": "",
     "description": "The native token of the Cudos blockchain",
     "id": {
       "osmosis": {
@@ -1078,7 +1020,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "L1 coin is the GenesisL1 blockchain utility, governance and EVM token",
     "id": {
       "osmosis": {
@@ -1094,7 +1035,6 @@
   },
   {
     "coingecko": "stader-maticx",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
@@ -1125,7 +1065,6 @@
   },
   {
     "coingecko": "shiba-inu",
-    "coinmarketcap": "",
     "description": "Shiba Inu on Axelar",
     "id": {
       "osmosis": {
@@ -1171,7 +1110,6 @@
   },
   {
     "coingecko": "jackal-protocol",
-    "coinmarketcap": "",
     "description": "Jackal Native Token",
     "id": {
       "osmosis": {
@@ -1187,7 +1125,6 @@
   },
   {
     "coingecko": "stride-staked-juno",
-    "coinmarketcap": "",
     "description": "Staking derivative stJUNO for staked JUNO by Stride",
     "id": {
       "osmosis": {
@@ -1203,7 +1140,6 @@
   },
   {
     "coingecko": "cerberus-2",
-    "coinmarketcap": "",
     "description": "The native token of Cerberus",
     "id": {
       "osmosis": {
@@ -1219,7 +1155,6 @@
   },
   {
     "coingecko": "cosmos",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Cosmos Hub.",
     "id": {
       "sei": {
@@ -1235,7 +1170,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "nRide Token",
     "id": {
       "osmosis": {
@@ -1266,7 +1200,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Amber on Secret Network",
     "id": {
       "osmosis": {
@@ -1282,7 +1215,6 @@
   },
   {
     "coingecko": "starname",
-    "coinmarketcap": "",
     "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
     "id": {
       "osmosis": {
@@ -1298,7 +1230,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Nicola Fasano a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1344,7 +1275,6 @@
   },
   {
     "coingecko": "cheqd-network",
-    "coinmarketcap": "",
     "description": "Native token for the cheqd network",
     "id": {
       "osmosis": {
@@ -1375,7 +1305,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin from Polygon on Axelar",
     "id": {
       "osmosis": {
@@ -1391,7 +1320,6 @@
   },
   {
     "coingecko": "inter-stable-token",
-    "coinmarketcap": "",
     "description": "IST is a decentralized and fully collateralized stable token built for the Cosmos ecosystem.",
     "id": {
       "osmosis": {
@@ -1407,7 +1335,6 @@
   },
   {
     "coingecko": "crypto-com-chain",
-    "coinmarketcap": "",
     "description": "CRO coin is the token for the Crypto.com platform.",
     "id": {
       "osmosis": {
@@ -1423,7 +1350,6 @@
   },
   {
     "coingecko": "evmos",
-    "coinmarketcap": "",
     "description": "The native EVM, governance and staking token of the Evmos Hub",
     "id": {
       "osmosis": {
@@ -1439,7 +1365,6 @@
   },
   {
     "coingecko": "lum-network",
-    "coinmarketcap": "",
     "description": "Native token of the Lum Network",
     "id": {
       "osmosis": {
@@ -1455,7 +1380,6 @@
   },
   {
     "coingecko": "secret",
-    "coinmarketcap": "",
     "description": "The native token of Secret Network",
     "id": {
       "osmosis": {
@@ -1474,7 +1398,6 @@
   },
   {
     "coingecko": "shade-protocol",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Shade on Secret Network",
     "id": {
       "osmosis": {
@@ -1490,7 +1413,6 @@
   },
   {
     "coingecko": "tether",
-    "coinmarketcap": "",
     "description": "Gravity Bridge USDT",
     "id": {
       "osmosis": {
@@ -1506,7 +1428,6 @@
   },
   {
     "coingecko": "wrapped-bitcoin",
-    "coinmarketcap": "",
     "description": "Wrapped Bitcoin on Axelar",
     "id": {
       "osmosis": {
@@ -1522,7 +1443,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "N43 a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1538,7 +1458,6 @@
   },
   {
     "coingecko": "rai",
-    "coinmarketcap": "",
     "description": "Rai Reflex Index on Axelar",
     "id": {
       "osmosis": {
@@ -1554,7 +1473,6 @@
   },
   {
     "coingecko": "arable-protocol",
-    "coinmarketcap": "",
     "description": "The native EVM, governance and staking token of the Acrechain",
     "id": {
       "osmosis": {
@@ -1570,7 +1488,6 @@
   },
   {
     "coingecko": "avalanche-2",
-    "coinmarketcap": "",
     "description": "Wrapped AVAX on Axelar.",
     "id": {
       "osmosis": {
@@ -1587,7 +1504,6 @@
   },
   {
     "coingecko": "wrapped-bitcoin",
-    "coinmarketcap": "",
     "description": "Gravity Bridge WBTC",
     "id": {
       "osmosis": {
@@ -1618,7 +1534,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token of BeeZee",
     "id": {
       "osmosis": {
@@ -1634,7 +1549,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Governance Token of Harbor protocol on Comdex network",
     "id": {
       "osmosis": {
@@ -1650,7 +1564,6 @@
   },
   {
     "coingecko": "bitcanna",
-    "coinmarketcap": "",
     "description": "The BCNA coin is the transactional token within the BitCanna network, serving the legal cannabis industry through its payment network, supply chain and trust network.",
     "id": {
       "osmosis": {
@@ -1666,7 +1579,6 @@
   },
   {
     "coingecko": "assetmantle",
-    "coinmarketcap": "",
     "description": "The native token of AssetMantle",
     "id": {
       "osmosis": {
@@ -1682,7 +1594,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Puro Lobo a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1698,7 +1609,6 @@
   },
   {
     "coingecko": "chain-2",
-    "coinmarketcap": "",
     "description": "Chain on Axelar",
     "id": {
       "osmosis": {
@@ -1714,7 +1624,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Quicksilver Liquid Staked OSMO",
     "id": {
       "osmosis": {
@@ -1730,7 +1639,6 @@
   },
   {
     "coingecko": "ion",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -1751,7 +1659,6 @@
   },
   {
     "coingecko": "blockasset",
-    "coinmarketcap": "",
     "description": "The BLOCK token of Marble DEX on Juno Chain",
     "id": {
       "osmosis": {
@@ -1767,7 +1674,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native staking token of 8ball.",
     "id": {
       "osmosis": {
@@ -1783,7 +1689,6 @@
   },
   {
     "coingecko": "unification",
-    "coinmarketcap": "",
     "description": "The native staking and governance coin of the Unification Blockchain.",
     "id": {
       "osmosis": {
@@ -1814,7 +1719,6 @@
   },
   {
     "coingecko": "kava",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of Kava",
     "id": {
       "osmosis": {
@@ -1845,7 +1749,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native Token of Medas Digital.",
     "id": {
       "osmosis": {
@@ -1861,7 +1764,6 @@
   },
   {
     "coingecko": "uniswap",
-    "coinmarketcap": "",
     "description": "Uniswap on Axelar",
     "id": {
       "osmosis": {
@@ -1877,7 +1779,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Vibranium a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1893,7 +1794,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Racoon aims to simplify accessibility to AI, NFTs and Gambling on the Cosmos Ecosystem",
     "id": {
       "osmosis": {
@@ -1909,7 +1809,6 @@
   },
   {
     "coingecko": "oraichain-token",
-    "coinmarketcap": "",
     "description": "The native token of Oraichain",
     "id": {
       "osmosis": {
@@ -1925,7 +1824,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Carolina Marquez a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1941,7 +1839,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Karina a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -1957,7 +1854,6 @@
   },
   {
     "coingecko": "rebus",
-    "coinmarketcap": "",
     "description": "REBUS coin is the token for the Rebuschain Platform",
     "id": {
       "osmosis": {
@@ -1973,7 +1869,6 @@
   },
   {
     "coingecko": "alter",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Alter on Secret Network",
     "id": {
       "osmosis": {
@@ -1989,7 +1884,6 @@
   },
   {
     "coingecko": "neutron-3",
-    "coinmarketcap": "",
     "description": "The native token of Neutron",
     "id": {
       "neutron": {
@@ -2012,7 +1906,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -2043,7 +1936,6 @@
   },
   {
     "coingecko": "e-money-eur",
-    "coinmarketcap": "",
     "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
     "id": {
       "osmosis": {
@@ -2074,7 +1966,6 @@
   },
   {
     "coingecko": "certik",
-    "coinmarketcap": "",
     "description": "The native token of Shentu",
     "id": {
       "osmosis": {
@@ -2090,7 +1981,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Ciento Exchange Token",
     "id": {
       "osmosis": {
@@ -2106,7 +1996,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from BSC (Wormhole)",
     "id": {
       "sei": {
@@ -2137,7 +2026,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native EVM, governance and staking token of the Imversed",
     "id": {
       "osmosis": {
@@ -2153,7 +2041,6 @@
   },
   {
     "coingecko": "e-money",
-    "coinmarketcap": "",
     "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation.",
     "id": {
       "osmosis": {
@@ -2169,7 +2056,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from Arbitrum (Wormhole)",
     "id": {
       "sei": {
@@ -2200,7 +2086,6 @@
   },
   {
     "coingecko": "frax",
-    "coinmarketcap": "",
     "description": "Frax's fractional-algorithmic stablecoin on Axelar",
     "id": {
       "osmosis": {
@@ -2216,7 +2101,6 @@
   },
   {
     "coingecko": "osmosis",
-    "coinmarketcap": "",
     "description": "The native token of Osmosis",
     "id": {
       "osmosis": {
@@ -2244,7 +2128,6 @@
   },
   {
     "coingecko": "kava-swap",
-    "coinmarketcap": "",
     "description": "Governance token of Kava Swap Protocol",
     "id": {
       "osmosis": {
@@ -2260,7 +2143,6 @@
   },
   {
     "coingecko": "kujira",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Kujira chain.",
     "id": {
       "osmosis": {
@@ -2279,7 +2161,6 @@
   },
   {
     "coingecko": "canto",
-    "coinmarketcap": "",
     "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
     "id": {
       "osmosis": {
@@ -2295,7 +2176,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The DAO token to build consensus among Hong Kong People",
     "id": {
       "osmosis": {
@@ -2311,7 +2191,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "FONTI a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -2327,7 +2206,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Quicksilver Liquid Staked ATOM",
     "id": {
       "osmosis": {
@@ -2343,7 +2221,6 @@
   },
   {
     "coingecko": "maker",
-    "coinmarketcap": "",
     "description": "Maker on Axelar",
     "id": {
       "osmosis": {
@@ -2359,7 +2236,6 @@
   },
   {
     "coingecko": "persistence",
-    "coinmarketcap": "",
     "description": "The XPRT token is primarily a governance token for the Persistence chain.",
     "id": {
       "osmosis": {
@@ -2375,7 +2251,6 @@
   },
   {
     "coingecko": "stakeeasy-bjuno",
-    "coinmarketcap": "",
     "description": "Staking derivative bJUNO for staked JUNO",
     "id": {
       "osmosis": {
@@ -2391,7 +2266,6 @@
   },
   {
     "coingecko": "ethereum",
-    "coinmarketcap": "",
     "description": "Wrapped Ether from Arbitrum (Wormhole)",
     "id": {
       "sei": {
@@ -2407,7 +2281,6 @@
   },
   {
     "coingecko": "pstake-staked-atom",
-    "coinmarketcap": "",
     "description": "PSTAKE Liquid-Staked ATOM",
     "id": {
       "osmosis": {
@@ -2423,7 +2296,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Luca Testa a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -2439,7 +2311,6 @@
   },
   {
     "coingecko": "composite",
-    "coinmarketcap": "",
     "description": "The stable token of Harbor protocol on Comdex network",
     "id": {
       "osmosis": {
@@ -2455,7 +2326,6 @@
   },
   {
     "coingecko": "aave",
-    "coinmarketcap": "",
     "description": "Aave on Axelar",
     "id": {
       "osmosis": {
@@ -2486,7 +2356,6 @@
   },
   {
     "coingecko": "injective-protocol",
-    "coinmarketcap": "",
     "description": "The INJ token is the native governance token for the Injective chain.",
     "id": {
       "osmosis": {
@@ -2505,7 +2374,6 @@
   },
   {
     "coingecko": "sienna",
-    "coinmarketcap": "",
     "description": "The native token cw20 for SIENNA on Secret Network",
     "id": {
       "osmosis": {
@@ -2521,7 +2389,6 @@
   },
   {
     "coingecko": "medibloc",
-    "coinmarketcap": "",
     "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
     "id": {
       "osmosis": {
@@ -2537,7 +2404,6 @@
   },
   {
     "coingecko": "umee",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Umee Network.",
     "id": {
       "osmosis": {
@@ -2553,7 +2419,6 @@
   },
   {
     "coingecko": "cosmos",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Cosmos Hub.",
     "id": {
       "neutron": {
@@ -2579,7 +2444,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "GLX is the staking token of the Galaxy Chain",
     "id": {
       "osmosis": {
@@ -2595,7 +2459,6 @@
   },
   {
     "coingecko": "wmatic",
-    "coinmarketcap": "",
     "description": "Wrapped Matic on Axelar",
     "id": {
       "osmosis": {
@@ -2612,7 +2475,6 @@
   },
   {
     "coingecko": "agoric",
-    "coinmarketcap": "",
     "description": "BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.",
     "id": {
       "osmosis": {
@@ -2628,7 +2490,6 @@
   },
   {
     "coingecko": "stargaze",
-    "coinmarketcap": "",
     "description": "The native token of Stargaze",
     "id": {
       "osmosis": {
@@ -2648,7 +2509,6 @@
   },
   {
     "coingecko": "binance-usd",
-    "coinmarketcap": "",
     "description": "Binance USD on Axelar.",
     "id": {
       "osmosis": {
@@ -2664,7 +2524,6 @@
   },
   {
     "coingecko": "mars-protocol",
-    "coinmarketcap": "",
     "description": "The native token of Mars Hub",
     "id": {
       "osmosis": {
@@ -2685,7 +2544,6 @@
   },
   {
     "coingecko": "stride-staked-atom",
-    "coinmarketcap": "",
     "description": "Staking derivative stATOM for staked ATOM by Stride",
     "id": {
       "initia": {
@@ -2726,7 +2584,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The Stride LST for the IBCX token",
     "id": {
       "osmosis": {
@@ -2757,7 +2614,6 @@
   },
   {
     "coingecko": "stride-staked-luna",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -2776,7 +2632,6 @@
   },
   {
     "coingecko": "weth",
-    "coinmarketcap": "",
     "description": "Wrapped Ether (Wormhole)",
     "id": {
       "sei": {
@@ -2792,7 +2647,6 @@
   },
   {
     "coingecko": "white-whale",
-    "coinmarketcap": "",
     "description": "White Whale",
     "id": {
       "osmosis": {
@@ -2814,7 +2668,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Bone White Whale",
     "id": {
       "terra": {
@@ -2830,7 +2683,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Eris Amplified White Whale",
     "id": {
       "terra": {
@@ -2846,7 +2698,6 @@
   },
   {
     "coingecko": "terra-luna-2",
-    "coinmarketcap": "",
     "description": "The native staking token of Terra 2.0",
     "id": {
       "osmosis": {
@@ -2867,7 +2718,6 @@
   },
   {
     "coingecko": "tether",
-    "coinmarketcap": "",
     "description": "Wrapped Tether USD from BSC (Wormhole)",
     "id": {
       "sei": {
@@ -2883,7 +2733,6 @@
   },
   {
     "coingecko": "chihuahua-token",
-    "coinmarketcap": "",
     "description": "The native token of Chihuahua Chain",
     "id": {
       "osmosis": {
@@ -2899,7 +2748,6 @@
   },
   {
     "coingecko": "meme-network",
-    "coinmarketcap": "",
     "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
     "id": {
       "osmosis": {
@@ -2915,7 +2763,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin from Avalanche on Axelar",
     "id": {
       "osmosis": {
@@ -2931,7 +2778,6 @@
   },
   {
     "coingecko": "iris-network",
-    "coinmarketcap": "",
     "description": "The IRIS token is the native governance token for the IrisNet chain.",
     "id": {
       "osmosis": {
@@ -2947,7 +2793,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from Optimism (Wormhole)",
     "id": {
       "sei": {
@@ -2963,7 +2808,6 @@
   },
   {
     "coingecko": "weth",
-    "coinmarketcap": "",
     "description": "Gravity Bridge ETH",
     "id": {
       "osmosis": {
@@ -2979,7 +2823,6 @@
   },
   {
     "coingecko": "decentr",
-    "coinmarketcap": "",
     "description": "DEC is the native token of Decentr.",
     "id": {
       "osmosis": {
@@ -2995,7 +2838,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Enmoda a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -3011,7 +2853,6 @@
   },
   {
     "coingecko": "crescent-network",
-    "coinmarketcap": "",
     "description": "CRE is the native token of the Crescent Network.",
     "id": {
       "osmosis": {
@@ -3030,7 +2871,6 @@
   },
   {
     "coingecko": "joe",
-    "coinmarketcap": "",
     "description": "DAO dedicated to building tools on the Juno Network",
     "id": {
       "osmosis": {
@@ -3046,7 +2886,6 @@
   },
   {
     "coingecko": "fantom",
-    "coinmarketcap": "",
     "description": "Wrapped FTM on Axelar.",
     "id": {
       "osmosis": {
@@ -3063,7 +2902,6 @@
   },
   {
     "coingecko": "arable-usd",
-    "coinmarketcap": "",
     "description": "Overcollateralized stable coin for Arable derivatives v1",
     "id": {
       "osmosis": {
@@ -3079,7 +2917,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Quicksilver Liquid Staked REGEN",
     "id": {
       "osmosis": {
@@ -3095,7 +2932,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Delta 9 a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -3111,7 +2947,6 @@
   },
   {
     "coingecko": "stride",
-    "coinmarketcap": "",
     "description": "The native token of Stride",
     "id": {
       "osmosis": {
@@ -3130,7 +2965,6 @@
   },
   {
     "coingecko": "wbnb",
-    "coinmarketcap": "",
     "description": "Wrapped BNB on Axelar",
     "id": {
       "osmosis": {
@@ -3147,7 +2981,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Wrapped USDC from Polygon (Wormhole)",
     "id": {
       "sei": {
@@ -3163,7 +2996,6 @@
   },
   {
     "coingecko": "switcheo",
-    "coinmarketcap": "",
     "description": "The native token of Carbon",
     "id": {
       "osmosis": {
@@ -3182,7 +3014,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Solarbank DAO Governance Token for speeding up the shift to renewable and green energy",
     "id": {
       "osmosis": {
@@ -3198,7 +3029,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "DeFi gaming platform built on Juno",
     "id": {
       "osmosis": {
@@ -3214,7 +3044,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Rowan Token (ROWAN) is the Sifchain Network's native utility token, used as the primary means to govern, provide liquidity, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
     "id": {
       "osmosis": {
@@ -3230,7 +3059,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Dyson Protocol",
     "id": {
       "osmosis": {
@@ -3261,7 +3089,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Inspired by Bonk. A community project to celebrate the settlers of JunoNetwork.",
     "id": {
       "osmosis": {
@@ -3292,7 +3119,6 @@
   },
   {
     "coingecko": "ethereum",
-    "coinmarketcap": "",
     "description": "Ethereum",
     "id": {
       "initia": {
@@ -3308,7 +3134,6 @@
   },
   {
     "coingecko": "weth",
-    "coinmarketcap": "",
     "description": "Wrapped Ether on Axelar",
     "id": {
       "osmosis": {
@@ -3385,7 +3210,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token of Lumen Network",
     "id": {
       "osmosis": {
@@ -3401,7 +3225,6 @@
   },
   {
     "coingecko": "terrausd",
-    "coinmarketcap": "",
     "description": "The USD stablecoin of Terra Classic.",
     "id": {
       "osmosis": {
@@ -3417,7 +3240,6 @@
   },
   {
     "coingecko": "teritori",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Teritori chain",
     "id": {
       "osmosis": {
@@ -3433,7 +3255,6 @@
   },
   {
     "coingecko": "seasy",
-    "coinmarketcap": "",
     "description": "StakeEasy governance token",
     "id": {
       "osmosis": {
@@ -3449,7 +3270,6 @@
   },
   {
     "coingecko": "ixo",
-    "coinmarketcap": "",
     "description": "The native token of IXO Chain",
     "id": {
       "osmosis": {
@@ -3465,7 +3285,6 @@
   },
   {
     "coingecko": "apecoin",
-    "coinmarketcap": "",
     "description": "ApeCoin on Axelar",
     "id": {
       "osmosis": {
@@ -3481,7 +3300,6 @@
   },
   {
     "coingecko": "hope-galaxy",
-    "coinmarketcap": "",
     "description": "Hope Galaxy is an NFT collection based on its own native Token $HOPE, a cw20 token on Juno chain.",
     "id": {
       "osmosis": {
@@ -3497,7 +3315,6 @@
   },
   {
     "coingecko": "comdex",
-    "coinmarketcap": "",
     "description": "Native Token of Comdex Protocol",
     "id": {
       "osmosis": {
@@ -3513,7 +3330,6 @@
   },
   {
     "coingecko": "vidulum",
-    "coinmarketcap": "",
     "description": "The native token of Vidulum",
     "id": {
       "osmosis": {
@@ -3529,7 +3345,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Profit sharing token for Another.Software validator. Hold and receive dividends from Another.Software validator commissions!",
     "id": {
       "osmosis": {
@@ -3560,7 +3375,6 @@
   },
   {
     "coingecko": "terra-luna",
-    "coinmarketcap": "",
     "description": "The native staking token of Terra Classic.",
     "id": {
       "osmosis": {
@@ -3576,7 +3390,6 @@
   },
   {
     "coingecko": "stakeeasy-juno-derivative",
-    "coinmarketcap": "",
     "description": "Staking derivative seJUNO for staked JUNO",
     "id": {
       "osmosis": {
@@ -3592,7 +3405,6 @@
   },
   {
     "coingecko": "axelar",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Axelar chain",
     "id": {
       "osmosis": {
@@ -3614,7 +3426,6 @@
   },
   {
     "coingecko": "clay-nation",
-    "coinmarketcap": "",
     "description": "Adam Clay a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -3630,7 +3441,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Rawanne a BitSong Music FanToken",
     "id": {
       "osmosis": {
@@ -3646,7 +3456,6 @@
   },
   {
     "coingecko": "darcmatter-coin",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Konstellation Network.",
     "id": {
       "osmosis": {
@@ -3662,7 +3471,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
@@ -3681,7 +3489,6 @@
   },
   {
     "coingecko": "usd-coin",
-    "coinmarketcap": "",
     "description": "Circle's stablecoin on Noble",
     "id": {
       "osmosis": {
@@ -3700,7 +3507,6 @@
   },
   {
     "coingecko": "odin-protocol",
-    "coinmarketcap": "",
     "description": "Staking and goverance token for ODIN Protocol",
     "id": {
       "osmosis": {
@@ -3731,7 +3537,6 @@
   },
   {
     "coingecko": "pstake-finance",
-    "coinmarketcap": "",
     "description": "The PSTAKE token is primarily a governance token for the Liquid Staking Protocol.",
     "id": {
       "osmosis": {
@@ -3762,7 +3567,6 @@
   },
   {
     "coingecko": "likecoin",
-    "coinmarketcap": "",
     "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
     "id": {
       "osmosis": {
@@ -3793,7 +3597,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "Hash is the staking token of the Provenance Blockchain",
     "id": {
       "osmosis": {
@@ -3809,7 +3612,6 @@
   },
   {
     "coingecko": "chainlink",
-    "coinmarketcap": "",
     "description": "Chainlink on Axelar",
     "id": {
       "osmosis": {
@@ -3825,7 +3627,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The KRW stablecoin of Terra Classic.",
     "id": {
       "osmosis": {
@@ -3841,7 +3642,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token of Arkhadian",
     "id": {
       "osmosis": {
@@ -3857,7 +3657,6 @@
   },
   {
     "coingecko": "axie-infinity",
-    "coinmarketcap": "",
     "description": "Axie Infinity Shard on Axelar",
     "id": {
       "osmosis": {
@@ -3873,7 +3672,6 @@
   },
   {
     "coingecko": "neta",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Neta on Juno Chain",
     "id": {
       "osmosis": {
@@ -3889,7 +3687,6 @@
   },
   {
     "coingecko": "hopers-io",
-    "coinmarketcap": "",
     "description": "The native token cw20 for Hopers on Juno Chain",
     "id": {
       "osmosis": {
@@ -3950,7 +3747,6 @@
   },
   {
     "coingecko": "wynd",
-    "coinmarketcap": "",
     "description": "WYND DAO Governance Token",
     "id": {
       "osmosis": {
@@ -3966,7 +3762,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token of Initia",
     "id": {
       "initia": {
@@ -3985,7 +3780,6 @@
   },
   {
     "coingecko": "omniflix-network",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -4001,7 +3795,6 @@
   },
   {
     "coingecko": "picasso",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -4017,7 +3810,6 @@
   },
   {
     "coingecko": "toucan-protocol-nature-carbon-tonne",
-    "coinmarketcap": "",
     "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth.",
     "id": {
       "osmosis": {
@@ -4033,7 +3825,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of Empower.",
     "id": {
       "osmosis": {
@@ -4049,7 +3840,6 @@
   },
   {
     "coingecko": "archway",
-    "coinmarketcap": "",
     "description": "The native token of Archway network",
     "id": {
       "osmosis": {
@@ -4068,7 +3858,6 @@
   },
   {
     "coingecko": "quasar-2",
-    "coinmarketcap": "",
     "description": "The native token of Quasar",
     "id": {
       "osmosis": {
@@ -4084,7 +3873,6 @@
   },
   {
     "coingecko": "wrapped-steth",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "neutron": {
@@ -4104,7 +3892,6 @@
   },
   {
     "coingecko": "sui",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -4120,7 +3907,6 @@
   },
   {
     "coingecko": "kusama",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of Kusama Relay Chain.",
     "id": {
       "osmosis": {
@@ -4136,7 +3922,6 @@
   },
   {
     "coingecko": "aptos",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "osmosis": {
@@ -4152,7 +3937,6 @@
   },
   {
     "coingecko": "nolus",
-    "coinmarketcap": "",
     "description": "The native token of Nolus chain",
     "id": {
       "osmosis": {
@@ -4168,7 +3952,6 @@
   },
   {
     "coingecko": "gitopia",
-    "coinmarketcap": "",
     "description": "The native token of Gitopia",
     "id": {
       "osmosis": {
@@ -4184,7 +3967,6 @@
   },
   {
     "coingecko": "kyve-network",
-    "coinmarketcap": "",
     "description": "The native utility token of the KYVE network.",
     "id": {
       "osmosis": {
@@ -4200,7 +3982,6 @@
   },
   {
     "coingecko": "passage",
-    "coinmarketcap": "",
     "description": "The native staking and governance token of the Passage chain.",
     "id": {
       "osmosis": {
@@ -4216,7 +3997,6 @@
   },
   {
     "coingecko": "",
-    "coinmarketcap": "",
     "description": "The native token of Bluzelle",
     "id": {
       "osmosis": {
@@ -4243,8 +4023,7 @@
         "phoenix-1": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "ampKUJI",
@@ -4259,8 +4038,7 @@
         "phoenix-1": "ibc/2F991B31CE426BCA00C5270F33AF520C2ACC73690541DBC84CBF68431D54DF04"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "FIRE",
@@ -4275,8 +4053,7 @@
         "phoenix-1": "terra1aecddsx0lvmylpzgq9le8uw4apnplhswp44vznecll6ccu044gnqsgcsga"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "xxx",
@@ -4291,8 +4068,7 @@
         "phoenix-1": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "SOLID",
@@ -4307,8 +4083,7 @@
         "phoenix-1": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "CAPA",
@@ -4323,8 +4098,7 @@
         "phoenix-1": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "wETH",
@@ -4339,8 +4113,7 @@
         "phoenix-1": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "wSOL",
@@ -4355,8 +4128,7 @@
         "phoenix-1": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "wAVAX",
@@ -4371,8 +4143,7 @@
         "phoenix-1": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "dUST",
@@ -4387,8 +4158,7 @@
         "phoenix-1": "terra17gck626vgax9jpe6utm7dhx4vdzawfkt0jhru03l7a3dzu98wedsfad4sz"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "IDC",
@@ -4403,8 +4173,7 @@
         "phoenix-1": "terra1d4j9lsl453mkvtlg4ctw8y52rdkhafsaefug0hq0z06phczuvvvs7uq0vg"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "TUNA",
@@ -4419,8 +4188,7 @@
         "phoenix-1": "terra1qx284aak0wl7vrvlsc6cwcsn6xwajragkh6cjqj87m9p34hx5l2s22p3cp"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "BGT",
@@ -4435,8 +4203,7 @@
         "phoenix-1": "terra1kkpf3f049trkyscv0av2pa9ad02dzls7f6m8s24q07ehetggytesru7qqp"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "SANT",
@@ -4451,8 +4218,7 @@
         "phoenix-1": "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "TALIS",
@@ -4467,8 +4233,7 @@
         "phoenix-1": "terra1gwz4m0q6vq6nyunt88vlsf5u3ve0fv3qc40q0mdky58s4fjy4fcsqpkman"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "OPZA",
@@ -4483,8 +4248,7 @@
         "phoenix-1": "terra1ry9f6alqyf9dpj04u9ymq5u4whjndu485agh6gusn89dmqse3ggsnzducj"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "SAYVE",
@@ -4499,8 +4263,7 @@
         "phoenix-1": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "xSAYVE",
@@ -4515,8 +4278,7 @@
         "phoenix-1": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "LBUN",
@@ -4531,8 +4293,7 @@
         "phoenix-1": "terra1ulr678u52qwt27dsgxrftthq20a8v8t9s8f3hz5z8s62wsu6rslqyezul4"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "ROAR",
@@ -4547,8 +4308,7 @@
         "phoenix-1": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "TRUMP",
@@ -4563,8 +4323,7 @@
         "phoenix-1": "terra18ha3r45syfpp46qg85p9wqxy6p0nj82rlxt7c74qkdr0yzcjut9sw7gerz"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "SEAS",
@@ -4579,8 +4338,7 @@
         "phoenix-1": "terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "CUB",
@@ -4595,8 +4353,7 @@
         "phoenix-1": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "BLUE",
@@ -4611,8 +4368,7 @@
         "phoenix-1": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "NICO",
@@ -4627,8 +4383,7 @@
         "phoenix-1": "terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "PEPE",
@@ -4643,8 +4398,7 @@
         "phoenix-1": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "symbol": "GEM",
@@ -4659,12 +4413,10 @@
         "phoenix-1": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv"
       }
     },
-    "coingecko": "",
-    "coinmarketcap": ""
+    "coingecko": ""
   },
   {
     "coingecko": "wrapped-steth",
-    "coinmarketcap": "",
     "description": "",
     "id": {
       "initia": {
@@ -4680,7 +4432,6 @@
   },
   {
     "coingecko": "celestia",
-    "coinmarketcap": "celestia",
     "description": "The native token of Celestia",
     "id": {
       "neutron": {
@@ -4699,7 +4450,6 @@
   },
   {
     "coingecko": "dydx-chain",
-    "coinmarketcap": "dydx",
     "description": "The native token of DYDX",
     "id": {
       "osmosis": {
