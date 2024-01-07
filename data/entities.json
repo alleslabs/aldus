@@ -3696,5 +3696,26 @@
       }
     ],
     "description": "Sei's main memecoin."
+  }, {
+    "slug": "cook",
+    "name": "COOK",
+    "website": "https://cookonsei.com/",
+    "github": "",
+    "logo": "COOK.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://x.com/cookonsei"
+      },
+      {
+        "name": "telegram",
+        "url": "T.me/cookonsei"
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "Sei's first memecoin."
   }
 ]
