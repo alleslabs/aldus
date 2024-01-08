@@ -11,7 +11,7 @@ class Contract(Schema):
     name = String(required=True)
     description = String(required=True)
     address = String(required=True)
-    code: Integer(required=True)
+    code = Integer(required=True)
     github = String(required=True)
 
 
