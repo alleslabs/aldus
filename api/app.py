@@ -18,7 +18,7 @@ app = APIFlask(
 )
 
 # Configure APIFlask to sync the local OpenAPI specification
-app.servers = [{"url": "http://localhost:5000"}]
+app.servers = [{"url": "https://aldus-api.alleslabs.dev"}]
 app.config["SYNC_LOCAL_SPEC"] = True
 app.config["LOCAL_SPEC_PATH"] = os.path.join(app.root_path, "openapi.json")
 

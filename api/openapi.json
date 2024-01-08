@@ -31,7 +31,7 @@
   ],
   "servers": [
     {
-      "url": "http://localhost:5000"
+      "url": "https://aldus-api.alleslabs.dev"
     }
   ],
   "paths": {
@@ -795,8 +795,8 @@
           "slug": {
             "type": "string"
           },
-          "id": {
-            "type": "integer"
+          "address": {
+            "type": "string"
           },
           "name": {
             "type": "string"
@@ -809,9 +809,9 @@
           }
         },
         "required": [
+          "address",
           "description",
           "github",
-          "id",
           "name",
           "slug"
         ]
