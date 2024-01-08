@@ -8,9 +8,10 @@ from http import HTTPStatus
 
 class Contract(Schema):
     slug = String(required=True)
-    address = String(required=True)
     name = String(required=True)
     description = String(required=True)
+    address = String(required=True)
+    code: Integer(required=True)
     github = String(required=True)
 
 
