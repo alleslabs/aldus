@@ -4541,5 +4541,20 @@
     "slugs": ["seiyan"],
     "symbol": "SEIYAN",
     "type": "cw20"
+  },
+  {
+    "coingecko": "wrapped-bitcoin",
+    "description": "Wrapped Bitcoin",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbt"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
+    "name": "Wrapped Bitcoin",
+    "precision": 8,
+    "slugs": ["ethereum"],
+    "symbol": "WBTC",
+    "type": "native"
   }
 ]
