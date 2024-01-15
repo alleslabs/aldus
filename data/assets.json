@@ -326,7 +326,8 @@
     "description": "NOVA",
     "id": {
       "initia": {
-        "stone-12-1": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29"
+        "stone-12-1": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29",
+        "stone-13": "move/f5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29"
       }
     },
     "logo": "https://next.list.initia.tech/images/0xf5129d0d9af3f7c30a9f522495b7164d52ca6ccaa5d317b67c7ad328b1244a29.webp",
@@ -1038,7 +1039,8 @@
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
-        "stone-12-1": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7"
+        "stone-12-1": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7",
+        "stone-13": "move/76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7"
       }
     },
     "logo": "https://next.list.initia.tech/images/0x76f75544f1867066b0c64cfa71d91463767fb117bfc01cadf7e2fb5cfa204ba7.webp",
@@ -2548,6 +2550,7 @@
     "id": {
       "initia": {
         "stone-12-1": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51",
+        "stone-13": "move/92af68b117c6aff7dcac7547c9c72cf7e0c2b9044fa20148b7839a289394be51",
         "mahalo-1": "ustatom"
       },
       "neutron": {
@@ -3475,6 +3478,7 @@
     "id": {
       "initia": {
         "stone-12-1": "uusdc",
+        "stone-13": "uusdc",
         "mahalo-1": "uusdc",
         "minimove-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "miniwasm-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
@@ -3766,6 +3770,7 @@
     "id": {
       "initia": {
         "stone-12-1": "uinit",
+        "stone-13": "uinit",
         "mahalo-1": "uinit",
         "minimove-1": "l2/4b66eb60bf9f503ea97fe4dc96d5c604c1dca14ee988e21510ac4b087bf72671",
         "miniwasm-1": "l2/926dab95dc14918344374867b8576adee2c6cfca69b968fdb08c5280390cd1a7"
@@ -4420,7 +4425,8 @@
     "description": "",
     "id": {
       "initia": {
-        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
+        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8",
+        "stone-13": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
       }
     },
     "logo": "https://next.list.initia.tech/images/0xe3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8.webp",
