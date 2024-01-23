@@ -4562,5 +4562,50 @@
     "slugs": ["ethereum"],
     "symbol": "WBTC",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The deflationary utility token of the Apollo DAO project",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/73BB20AF857D1FE6E061D01CA13870872AD0C979497CAF71BEA25B1CBF6879F1"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/apollo.svg",
+    "name": "Apollo DAO Token",
+    "precision": 6,
+    "slugs": ["apollo"],
+    "symbol": "APOLLO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The first native memecoin on Osmosis. Crafted by the deftest of hands in the lab of lunacy. It's scientifically anarchic, professionally foolish, and your ticket to the madhouse.",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/WOSMO.png",
+    "name": "WOSMO",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "WOSMO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Margined Power Token sqTIA",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1g8qypve6l95xmhgc0fddaecerffymsl7kn9muw/sqtia"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sqtia.svg",
+    "name": "TIA Squared",
+    "precision": 6,
+    "slugs": ["margined"],
+    "symbol": "sqTIA",
+    "type": "native"
   }
 ]
