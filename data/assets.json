@@ -4607,5 +4607,20 @@
     "slugs": ["margined"],
     "symbol": "sqTIA",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Meet MILLI, the fastest dog in Crypto",
+    "id": {
+      "sei": {
+        "pacific-1": "sei1kgc8vhw4rs8uaj78aetw7haeg6tdy2a088fj6tcvkmnfh5swe7usvgc5an"
+      }
+    },
+    "logo": "https://milli.dog/wp-content/uploads/2024/02/Milli_Logo_150x150-1.png",
+    "name": "MILLI",
+    "precision": 6,
+    "slugs": ["milli"],
+    "symbol": "MILLI",
+    "type": "cw20"
   }
 ]
