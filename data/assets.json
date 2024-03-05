@@ -705,7 +705,7 @@
         "pacific-1": "usei"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/sei/asset/sei.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/sei.svg",
     "name": "Sei",
     "precision": 6,
     "slugs": ["sei"],
@@ -1899,7 +1899,7 @@
         "phoenix-1": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/neutron-testnet/asset/ntrn.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/ntrn.svg",
     "name": "Neutron",
     "precision": 6,
     "slugs": ["neutron"],
@@ -4447,7 +4447,7 @@
         "osmosis-1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/celestia/asset/tia.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
     "name": "Celestia",
     "precision": 6,
     "slugs": ["celestia"],
