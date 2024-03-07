@@ -503,7 +503,7 @@
     "name": "Wrapped Bitcoin from Ethereum (Wormhole)",
     "precision": 8,
     "slugs": ["ethereum"],
-    "symbol": "WBTC",
+    "symbol": "WBTC.wh",
     "type": "native"
   },
   {
@@ -1927,6 +1927,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra16h7keds26d52xj8rn9jfx6lj2x0ja79lt56yxnmlm4xsttf5mu5smq5f78"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0"
       }
     },
     "logo": "https://assets.terra.money/icon/svg/LUNC.svg",
@@ -3126,6 +3129,9 @@
     "id": {
       "initia": {
         "mahalo-1": "ueth"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
       }
     },
     "logo": "https://list.initia.xyz/images/0xbe0ef849e425ca89830c1ff0f984f5b0b512b70cab6a5ae294c6255c3ee4cd0c.webp",
@@ -3180,21 +3186,6 @@
     "slugs": ["axelar"],
     "symbol": "ARB",
     "type": "native"
-  },
-  {
-    "coingecko": "wrapped-solana",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg"
-      }
-    },
-    "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
-    "name": "Wrapped SOL (Wormhole)",
-    "precision": 8,
-    "slugs": ["wormhole", "solana"],
-    "symbol": "SOL",
-    "type": "cw20"
   },
   {
     "coingecko": "",
@@ -3482,6 +3473,9 @@
         "mahalo-1": "uusdc",
         "minimove-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "miniwasm-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
       }
     },
     "logo": "https://list.initia.xyz/images/0x29824d952e035490fae7567deea5f15b504a68fa73610063c160ab1fa87dd609.webp",
@@ -3740,6 +3734,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/E5916C205E90C7C3481AFD8663A13C1D6C63145FB6C38DA9FC151FEE706F32EF"
       }
     },
     "logo": "https://app.astroport.fi/tokens/astro.svg",
@@ -3880,12 +3877,16 @@
     "coingecko": "wrapped-steth",
     "description": "",
     "id": {
+      "initia": {
+        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8",
+        "stone-13": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
+      },
       "neutron": {
         "neutron-1": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
         "pion-1": "factory/neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h/wstETH"
       },
       "osmosis": {
-        "osmosis-1": "ibc/B2BD584CD2A0A9CE53D4449667E26160C7D44A9C41AF50F602C201E5B3CCA46C"
+        "osmosis-1": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5"
       }
     },
     "logo": "https://i.ibb.co/grjYvHW/wstETH.png",
@@ -4026,6 +4027,9 @@
     "id": {
       "terra": {
         "phoenix-1": "ibc/96B471382D2B1A9C712C9225754E3D1C58F94463905C2CE6B59297C5597C2E46"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/51D893F870B7675E507E91DA8DB0B22EA66333207E4F5C0708757F08EE059B0B"
       }
     },
     "coingecko": ""
@@ -4311,6 +4315,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/98BCD43F190C6960D0005BC46BB765C827403A361C9C03C2FF694150A30284B0"
       }
     },
     "coingecko": ""
@@ -4356,6 +4363,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/6F18EFEBF1688AA77F7EAC17065609494DC1BA12AFC78E9AEC832AF70A11BEF3"
       }
     },
     "coingecko": ""
@@ -4371,6 +4381,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/DA961FE314B009C38595FFE3AF41225D8894D663B8C3F6650DCB5B6F8435592E"
       }
     },
     "coingecko": ""
@@ -4401,6 +4414,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra16a9ylm639l8ehh89ny2k97w9lgkn7txrt8ukq3y8l4e9d6u7hrwslyw9xz"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/E47F4E97C534C95B942729E1B25DBDE111EA791411CFF100515050BEA0AC0C6B"
       }
     },
     "coingecko": ""
@@ -4419,22 +4435,6 @@
       }
     },
     "coingecko": ""
-  },
-  {
-    "coingecko": "wrapped-steth",
-    "description": "",
-    "id": {
-      "initia": {
-        "stone-12-1": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8",
-        "stone-13": "move/e3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8"
-      }
-    },
-    "logo": "https://next.list.initia.tech/images/0xe3a97600010bb368be99d6f4ed231aca4dbba9b6340edf3c48dfbfd0474e92e8.webp",
-    "name": "Wrapped Staked Ether",
-    "precision": 6,
-    "slugs": ["lido", "ethereum"],
-    "symbol": "wstETH",
-    "type": "native"
   },
   {
     "coingecko": "celestia",
