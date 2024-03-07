@@ -378,6 +378,62 @@
     "github": ""
   },
   {
+    "slug": "mars",
+    "name": "Mars Account NFT (v2.0.0)",
+    "id": 222,
+    "description": "Mars Account NFT code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/account-nft"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Zapper (v2.0.0)",
+    "id": 222,
+    "description": "Mars Zapper code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/v2-zapper/osmosis"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rover Health (v2.0.0)",
+    "id": 225,
+    "description": "Mars Rover Health code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/health"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Osmosis Oracle (v2.0.1)",
+    "id": 225,
+    "description": "Mars Osmosis Oracle code mainly responsible for providing price data for assets used in the protocol.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.1/contracts/oracle"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Params",
+    "id": 431,
+    "description": "Mars Params code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/params"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Swapper",
+    "id": 533,
+    "description": "Mars Swapper code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/swapper"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "id": 536,
+    "description": "Mars Rewards Collector code mainly responsible for receiving protocol revenue in various coins from the Red Bank; swaps them into MARS or other specified assets in the Osmosis DEX; forwards the assets to Mars Hub via IBC to be distributed as staking rewards or be deposited into the safety fund.",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/rewards-collector"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Credit Manager (v2.0.2)",
+    "id": 537,
+    "description": "Mars Credit Manager code",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.2/contracts/credit-manager"
+  },
+  {
     "slug": "coinhall",
     "name": "Genie Airdrop Factory",
     "description": "",

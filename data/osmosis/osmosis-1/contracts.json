@@ -1,530 +1,538 @@
 [
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO AKT/OSMO 14D Vault",
-        "address": "osmo122ryl7pez7yjprtvjckltu2uvjxrq3kqt4nvclax2la7maj6757qg054ga",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO ATOM/OSMO 14D Vault",
-        "address": "osmo1g3kmqpp8608szfp0pdag3r6z85npph7wmccat8lgl3mp407kv73qlj7qwp",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO AXL/OSMO 14D Vault",
-        "address": "osmo1m9e4cks405tvzlppkw64znr35vkvujvptrdqtgu5q6luk4ccw9qqeuenwd",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO CRO/OSMO 14D Vault",
-        "address": "osmo1gmd2vc4crmv7urlfn3j5avhplfncjf5mg649dkgsu5a0zvd6cgrsn9dq4l",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO DAI/OSMO 14D Vault",
-        "address": "osmo1lhs6kyuxytu4suua0qf88z5057wzpxs77tyrlgztw2uctcy75hcqf2ajrt",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO EVMOS/OSMO 14D Vault",
-        "address": "osmo1rkv6vcmty4rpypuxp2a6a0y5ze4ztm3y6d6xwy5a7cye85f7reqsm85c5s",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO ION/OSMO 14D Vault",
-        "address": "osmo1869zena97sctemj78sgjmu737p2g94905hsf3hhkrfgummrfz4tsxj2k6r",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO IST/OSMO 14D Vault",
-        "address": "osmo1qajgwrcce9srkq370pa9ew96dyk4hajyyk6rfpuexrktm8862xnst443kp",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO JUNO/OSMO 14D Vault",
-        "address": "osmo1ceku0zks6y43r9l35n7wnv5pf82s6l4k5jhlrhkurakeemey9n4snz3x6z",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO Osmosis CW Dex Router",
-        "address": "osmo1fnu7c7wsm3hy709qnyneujwd0w4v08jad7pj4ve3vstm3a2u89rqrllkjs",
-        "description": "Apollo contract that allows swapping through any DEX supported by Apollo's cw-dex abstrasction.",
-        "code": 19,
-        "github": "https://github.com/apollodao/cw-dex-router/tree/v0.1.0"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO Osmosis Liquidity Helper",
-        "address": "osmo1lg8plsdphya2mutm8vwf6yn5kg9vt6jrda5tfexuktz6mhfkerfsy83d0x",
-        "description": "Apollo contract that helps with providing liquidity to dexes when you have assets that are not in the correct ratio.",
-        "code": 18,
-        "github": "https://github.com/apollodao/liquidity-helpers/tree/v0.1.0/contracts/osmosis-liquidity-helper"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO SCRT/OSMO 14D Vault",
-        "address": "osmo1m9hn9sjk3tudx6fmjlefk45eml2exsa2gaa5vpyey82ypms78dnqc235an",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO STRD/OSMO 14D Vault",
-        "address": "osmo1e3qjfcg9adrauz6jg030ptfy35r6zzplsgaavnn6xrh6686udhfqq7muwy",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO USDC/OSMO 14D Vault",
-        "address": "osmo1jfmwayj8jqp9tfy4v4eks5c2jpnqdumn8x8xvfllng0wfes770qqp7jl4j",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO WBTC/OSMO 14D Vault",
-        "address": "osmo185gqewrlde8vrqw7j8lpad67v8jfrx9u7770k9q87tqqecctp5tq50wt2c",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO WETH/OSMO 14D Vault",
-        "address": "osmo1r235f4tdkwrsnj3mdm9hf647l754y6g6xsmz0nas5r4vr5tda3qsgtftef",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO stATOM/ATOM 14D Vault",
-        "address": "osmo1a6tcf60pyz8qq2n532dzcs7s7sj8klcmra04tvaqympzcvxqg9esn7xz7l",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO stOSMO/OSMO 14D Vault",
-        "address": "osmo1p4zqs5y2w5srzd2vesznzu5ql8wfq9tpz3e7mf2j3y07nxrtkdes5r5g0t",
-        "description": "",
-        "code": 17,
-        "github": "https://github.com/apollodao/cw-vault-standard"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO Contract Admin",
-        "address": "osmo19377ce3k2893s98xp58vg0jtgtvj5qv405y36l4wf4z2xhnjwh6se8kep3",
-        "description": "Apollo Safe CW3 multisig contract owned by the Apollo team used as the admin for Apollo Vaults and other contracts.",
-        "code": 1,
-        "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
-    },
-    {
-        "slug": "apollodao",
-        "name": "ApolloDAO Dev Multisig",
-        "address": "osmo1wl59k23zngj34l7d42y9yltask7rjlnxgccawc7ltrknp6n52fps94qsjd",
-        "description": "",
-        "code": 1,
-        "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
-    },
-    {
-        "slug": "autonomy",
-        "name": "Autonomy Network Registry",
-        "address": "osmo1wg5qzw6yn88yz9kxtwvs36fmq5jxa03pg6zptvgte62hrlw0c4rqc9mjtf",
-        "code": 32,
-        "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/registry-stake",
-        "description": ""
-    },
-    {
-        "slug": "autonomy",
-        "name": "Autonomy Network Wrapper",
-        "address": "osmo1gvkwn0yclk0cwjzeu65cnl0uq0msx9sq0zk24q9gmfrenwerxyps2w3x87",
-        "code": 33,
-        "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/wrapper-osmosis",
-        "description": ""
-    },
-    {
-        "slug": "osmosis",
-        "name": "Osmosis IBC Rate Limiting",
-        "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg",
-        "description": "Osmosis IBC rate limiting contract responsible for adding a governance-configurable rate limit to IBC transfers. This acts as a safety control intended to protect assets on Osmosis in the event of a bug/hack",
-        "code": 6,
-        "github": "https://github.com/osmosis-labs/osmosis/tree/v13.0.0/x/ibc-rate-limit/contracts/rate-limiter"
-    },
-    {
-        "slug": "icns",
-        "name": "ICNS Name NFT",
-        "address": "osmo1mypljhatv0prfr9cjzzvamxdf2ctg34xkt50sudxads9zhqnyneqjuvy26",
-        "description": "Interchain Nameservice NFT contract responsible for minting the nft of the ICNS name being claimed",
-        "code": 7,
-        "github": "https://github.com/icns-xyz/icns/tree/v0.1.0/contracts/icns-name-nft"
-    },
-    {
-        "slug": "icns",
-        "name": "ICNS Registrar",
-        "address": "osmo1llh07xn7pcst3jqm0xpsucf90lzugfskkkhk8a3u2yznqmse4l5smydwpw",
-        "description": "Interchain Nameservice registar contract that keep track of the address for each ICNS name in a stateful manner, serving to resolve the ICNS Name to the correct address ",
-        "code": 9,
-        "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-registrar"
-    },
-    {
-        "slug": "icns",
-        "name": "ICNS Resolver",
-        "address": "osmo1xk0s8xgktn9x5vwcgtjdxqzadg88fgn33p8u9cnpdxwemvxscvast52cdd",
-        "description": "Interchain Nameservice resolver contract that work to orchestrate the oracle verifiers watching the Twitter API for unique Twitter handles of the user",
-        "code": 8,
-        "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-resolver"
-    },
-    {
-        "slug": "ion-dao",
-        "name": "ION DAO Governance",
-        "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
-        "description": "ION DAO governance contract",
-        "code": 3,
-        "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/dao"
-    },
-    {
-        "slug": "ion-dao",
-        "name": "ION DAO Staking Governance",
-        "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc",
-        "description": "ION DAO governance staking contract",
-        "code": 2,
-        "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/stake"
-    },
-    {
-        "slug": "kado",
-        "name": "Kado Dev Multisig",
-        "address": "osmo19vxp8vq8qm368dr026qxh8v82satwaf79y235lfv6wmgpwxx8dtskedaku",
-        "description": "Apollo Safe CW3 multisig account owned by the Kado team",
-        "code": 1,
-        "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Field of Mars Account NFT",
-        "address": "osmo1450hrg6dv2l58c0rvdwx8ec2a0r6dd50hn4frk370tpvqjhy8khqw7sw09",
-        "description": "Mars NFT contract used to represent user account positions. Modified and extended from the CW721 reference implementation.",
-        "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/account-nft",
-        "code": 23
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Field of Mars Credit Manager",
-        "address": "osmo1f2m24wktq0sw3c0lexlg7fv4kngwyttvzws3a3r3al9ld2s2pvds87jqvf",
-        "description": "",
-        "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/credit-manager",
-        "code": 27
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Field of Mars Swapper",
-        "address": "osmo1wee0z8c7tcawyl647eapqs4a88q8jpa7ddy6nn2nrs7t47p2zhxswetwla",
-        "description": "Mars hlper contract used to swap assets on Osmosis.",
-        "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/swapper",
-        "code": 25
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Field of Mars Zapper",
-        "address": "osmo17qwvc70pzc9mudr8t02t3pl74hhqsgwnskl734p4hug3s8mkerdqzduf7c",
-        "description": "Mars helper contract used to provide and withdraw liquidity from Osmosis pools.",
-        "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/master/contracts/zapper",
-        "code": 26
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Osmosis Oracle (v1.0.0)",
-        "address": "osmo1mhznfr60vjdp2gejhyv2gax9nvyyzhd3z0qcwseyetkfustjauzqycsy2g",
-        "description": "Mars contract that provides prices denominated in uosmo for assets used in the protocol.",
-        "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.1/contracts/oracle",
-        "code": 22
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Osmosis Oracle (v1.0.1)",
-        "address": "osmo1s2qvxs83j8c28733dlsuceas5gjgdd30p30nhsxf0tfrf6q6h96s6rngk0",
-        "description": "Mars contract that provides prices denominated in uosmo for assets used in the protocol.",
-        "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/oracle",
-        "code": 14
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Red Bank",
-        "address": "osmo1c3ljch9dfw5kf52nfwpxd2zmj2ese7agnx0p9tenkrryasrle5sqf3ftpg",
-        "description": "Mars contract that manages asset deposits, borrowing, and liquidations.",
-        "github": "https://github.com/mars-protocol/red-bank/tree/master/contracts",
-        "code": 11
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Red Bank Address Provider",
-        "address": "osmo1g677w7mfvn78eeudzwylxzlyz69fsgumqrscj6tekhdvs8fye3asufmvxr",
-        "description": "Mars contract that stores the addresses of Mars Red Bank contracts.",
-        "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/address-provider",
-        "code": 12
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Red Bank Incentives",
-        "address": "osmo1nkahswfr8shg8rlxqwup0vgahp0dk4x8w6tkv3rra8rratnut36sk22vrm",
-        "description": "Mars contract that manages MARS incentives for depositors.",
-        "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/incentives",
-        "code": 13
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Red Bank Liquidation Filterer",
-        "address": "osmo1v0ezrc0f7l5tlw6ws2r8kalhmvrfhe0fywrmj8kjgrwvud5r83uqywn66c",
-        "description": "Mars contract that queries the health status of each account to be liquidated on the current block height, and if the account is no longer health factor < 1 it will remove that liquidation from the msg in order to let other liquidation messages go through successfully.",
-        "code": 16,
-        "github": ""
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Rewards Collector",
-        "address": "osmo1urvqe5mw00ws25yqdd4c4hlh8kdyf567mpcml7cdve9w08z0ydcqvsrgdy",
-        "description": "Mars contract that receives revenue in various coins from the Red Bank, swaps them into MARS or other specified assets in the Osmosis DEX, and forwards the assets to Mars Hub via IBC to be distributed as staking rewards or be deposited into the safety fund.",
-        "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/rewards-collector",
-        "code": 15
-    },
-    {
-        "slug": "ogp",
-        "name": "OGP Apollo Safe Multisig",
-        "address": "osmo1xwu4c2apw2nxd75leph52aaw85ryhpfqcwfqtyjtz38tvjln7x7qwd6scg",
-        "description": "Apollo Safe CW3 multisig account owned by the Osmosis Grants Program",
-        "code": 1,
-        "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
-    },
-    {
-        "slug": "osmosis",
-        "name": "Osmosis Cross-Chain Swap v1 (DEPRECATED)",
-        "address": "osmo17q3gay74emg3q5zdg6kpdch4n8szg7clf4fuhc8nf7sdmjxxules8x9c4w",
-        "description": "Osmosis Cross-Chain Swap code mainly acting as a swap and forward contract that takes the received tokens, swaps them via a swaprouter contract, and sends them to an IBC receiver.",
-        "code": 31,
-        "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/crosschain-swaps"
-    },
-    {
-        "slug": "osmosis",
-        "name": "Osmosis SwapRouter",
-        "address": "osmo1fy547nr4ewfc38z73ghr6x62p7eguuupm66xwk8v8rjnjyeyxdqs6gdqx7",
-        "description": "The SwapRouter contract serves as a way to define, on-chain, routes that swaps from one asset to another will take.",
-        "code": 10,
-        "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/swaprouter"
-    },
-    {
-        "slug": "streamswap",
-        "name": "StreamSwap",
-        "address": "osmo17kqws7fy2qnejdw68cqjlw456gdxcdukk0wq6026u826zlda3y7qdhzqlv",
-        "description": "",
-        "code": 39,
-        "github": "https://github.com/StreamSwapProtocol/cw-streamswap/commit/4e8e096bb2718c11a4144465925a056c9e87e053"
-    },
-    {
-        "slug": "tfm",
-        "name": "TFM Multisig",
-        "address": "osmo1e0x2hnhhwyek7eq3kcxu2x6pt77wdnwz0lutz9fespdr9utq963qr0y5p5",
-        "description": "Apollo Safe CW3 multisig owned by the TFM team whitelisted to upload contracts",
-        "code": 1,
-        "github": ""
-    },
-    {
-        "slug": "tfm",
-        "name": "TFM Router",
-        "address": "osmo1q065arwc6ka5xrne8j6aafg0j0zv57p7njjcecu5xdqjdpwgruzsttut0c",
-        "description": "",
-        "code": 41,
-        "github": ""
-    },
-    {
-        "slug": "ibcx",
-        "name": "IBCX Core",
-        "address": "osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm",
-        "description": "",
-        "code": 49,
-        "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/core"
-    },
-    {
-        "slug": "ibcx",
-        "name": "IBCX Periphery",
-        "address": "osmo1w2kz2pmmvmvjkrah98xuw5lun5gljfr4nfw87le23ke0e8p4yp8s6la2mr",
-        "description": "",
-        "code": 52,
-        "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/periphery"
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Multisig",
-        "address": "osmo15wna5dwylkuzvljsudyn6zfsd4zl0rkg5ge888mzk4vtnjpp0z5q4e9w58",
-        "description": "Apollo Safe CW3 multisig owned by the CronCat team whitelisted to upload contracts",
-        "code": 1,
-        "github": ""
-    },
-    {
-        "slug": "wormhole",
-        "name": "Wormhole",
-        "address": "osmo1t7qham5kle36rs28se2xd7cckm9mpwzgt65t40lrdf8fcq3837qqjvw80s",
-        "description": "",
-        "code": 46,
-        "github": ""
-    },
-    {
-        "slug": "pyth",
-        "name": "Pyth Network Oracle",
-        "address": "osmo13ge29x4e2s63a8ytz2px8gurtyznmue4a69n5275692v3qn3ks8q7cwck7",
-        "description": "",
-        "code": 45,
-        "github": ""
-    },
-    {
-        "slug": "calc",
-        "name": "Calculated Finance DCA",
-        "address": "osmo1zacxlu90sl6j2zf90uctpddhfmux84ryrw794ywnlcwx2zeh5a4q67qtc9",
-        "description": "",
-        "code": 77,
-        "github": ""
-    },
-    {
-        "slug": "tfm",
-        "name": "TFM Limit Order",
-        "address": "osmo1rqamy6jc3f0rwrg5xz8hy8q7n932t2488f2gqg3d0cadvd3uqaxq4wazn8",
-        "description": "",
-        "code": 55,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Factory",
-        "address": "osmo14yjyt057saxauzc7scc5e0qce7c2dmeuzuhgsul0lnyy25xtz7ksxfzf07",
-        "description": "",
-        "code": 65,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Manager",
-        "address": "osmo15wq5q90exu89nanaynfxvmemznmrskazljug76deqmwxwlpszzmsgpctj4",
-        "description": "",
-        "code": 67,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Tasks",
-        "address": "osmo16f2t3yyax8ahau7g37v4r6vl65py3mh6wg63kzvz39mknc7txgmsyy2aws",
-        "description": "",
-        "code": 68,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Agents",
-        "address": "osmo1q39pzrfsm0cfjk662n2pr0az3zdc2eesxhshvteu8ypkwvrwr4uslm7vzt",
-        "description": "",
-        "code": 69,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Mod Balances",
-        "address": "osmo12ahvavwz53q7ysy34lnhwclgfyd9ngrg5gy46pn4h35t7dw8lj2qgwgf4y",
-        "description": "",
-        "code": 70,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Mod DAO",
-        "address": "osmo1z36n965w96mznd5arvw2eqlyv49nejheaalaseq2wkm27hn9y7sq823gzj",
-        "description": "",
-        "code": 72,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Mod Generic",
-        "address": "osmo17axf0sqsdzcnavwqvpmt3c9g5u9yswprln9qxt0adcjx9smuzdesqjefs5",
-        "description": "",
-        "code": 75,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "CronCat Mod NFT",
-        "address": "osmo1kgx5faf3pmd83etvhgwmgl7kvlntk6a586ya65mxux7s4jj7dkvs3wmher",
-        "description": "",
-        "code": 76,
-        "github": ""
-    },
-    {
-        "slug": "squidrouter",
-        "name": "Squid Router V1",
-        "address": "osmo15jw7xccxaxk30lf4xgag8f7aeg53pgkh74e39rv00xfnymldjaas2fk627",
-        "description": "",
-        "code": 81,
-        "github": ""
-    },
-    {
-        "slug": "croncat",
-        "name": "Mars Pyth Oracle",
-        "address": "osmo10mxh8p4sarqlu6mwqr0vez7h20nk0qng42yu232vvxfy6tkp9t5s0hwn8h",
-        "description": "",
-        "code": 84,
-        "github": ""
-    },
-    {
-        "slug": "mars",
-        "name": "Mars Params",
-        "address": "osmo1nlmdxt9ctql2jr47qd4fpgzg84cjswxyw6q99u4y4u4q6c2f5ksq7ysent",
-        "description": "",
-        "code": 213,
-        "github": ""
-    },
-    {
-        "slug": "coinhall",
-        "name": "Genie Airdrop",
-        "address": "osmo1grxj2q3ft6f2xp5m8zuvj2kt2k4cg32es8t37ajy8x79akqr06yq84zfwl",
-        "description": "",
-        "code": 193,
-        "github": ""
-    },
-    {
-        "slug": "coinhall",
-        "name": "Genie Factory",
-        "address": "osmo1vjq3e3fp4fcdnd83nmxk5764mlewwxjejsjmg9jyehgh5zklj0pslvs3na",
-        "description": "",
-        "code": 194,
-        "github": ""
-    }
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO AKT/OSMO 14D Vault",
+    "address": "osmo122ryl7pez7yjprtvjckltu2uvjxrq3kqt4nvclax2la7maj6757qg054ga",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO ATOM/OSMO 14D Vault",
+    "address": "osmo1g3kmqpp8608szfp0pdag3r6z85npph7wmccat8lgl3mp407kv73qlj7qwp",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO AXL/OSMO 14D Vault",
+    "address": "osmo1m9e4cks405tvzlppkw64znr35vkvujvptrdqtgu5q6luk4ccw9qqeuenwd",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO CRO/OSMO 14D Vault",
+    "address": "osmo1gmd2vc4crmv7urlfn3j5avhplfncjf5mg649dkgsu5a0zvd6cgrsn9dq4l",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO DAI/OSMO 14D Vault",
+    "address": "osmo1lhs6kyuxytu4suua0qf88z5057wzpxs77tyrlgztw2uctcy75hcqf2ajrt",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO EVMOS/OSMO 14D Vault",
+    "address": "osmo1rkv6vcmty4rpypuxp2a6a0y5ze4ztm3y6d6xwy5a7cye85f7reqsm85c5s",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO ION/OSMO 14D Vault",
+    "address": "osmo1869zena97sctemj78sgjmu737p2g94905hsf3hhkrfgummrfz4tsxj2k6r",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO IST/OSMO 14D Vault",
+    "address": "osmo1qajgwrcce9srkq370pa9ew96dyk4hajyyk6rfpuexrktm8862xnst443kp",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO JUNO/OSMO 14D Vault",
+    "address": "osmo1ceku0zks6y43r9l35n7wnv5pf82s6l4k5jhlrhkurakeemey9n4snz3x6z",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Osmosis CW Dex Router",
+    "address": "osmo1fnu7c7wsm3hy709qnyneujwd0w4v08jad7pj4ve3vstm3a2u89rqrllkjs",
+    "description": "Apollo contract that allows swapping through any DEX supported by Apollo's cw-dex abstrasction.",
+    "code": 19,
+    "github": "https://github.com/apollodao/cw-dex-router/tree/v0.1.0"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Osmosis Liquidity Helper",
+    "address": "osmo1lg8plsdphya2mutm8vwf6yn5kg9vt6jrda5tfexuktz6mhfkerfsy83d0x",
+    "description": "Apollo contract that helps with providing liquidity to dexes when you have assets that are not in the correct ratio.",
+    "code": 18,
+    "github": "https://github.com/apollodao/liquidity-helpers/tree/v0.1.0/contracts/osmosis-liquidity-helper"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO SCRT/OSMO 14D Vault",
+    "address": "osmo1m9hn9sjk3tudx6fmjlefk45eml2exsa2gaa5vpyey82ypms78dnqc235an",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO STRD/OSMO 14D Vault",
+    "address": "osmo1e3qjfcg9adrauz6jg030ptfy35r6zzplsgaavnn6xrh6686udhfqq7muwy",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO USDC/OSMO 14D Vault",
+    "address": "osmo1jfmwayj8jqp9tfy4v4eks5c2jpnqdumn8x8xvfllng0wfes770qqp7jl4j",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO WBTC/OSMO 14D Vault",
+    "address": "osmo185gqewrlde8vrqw7j8lpad67v8jfrx9u7770k9q87tqqecctp5tq50wt2c",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO WETH/OSMO 14D Vault",
+    "address": "osmo1r235f4tdkwrsnj3mdm9hf647l754y6g6xsmz0nas5r4vr5tda3qsgtftef",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO stATOM/ATOM 14D Vault",
+    "address": "osmo1a6tcf60pyz8qq2n532dzcs7s7sj8klcmra04tvaqympzcvxqg9esn7xz7l",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO stOSMO/OSMO 14D Vault",
+    "address": "osmo1p4zqs5y2w5srzd2vesznzu5ql8wfq9tpz3e7mf2j3y07nxrtkdes5r5g0t",
+    "description": "",
+    "code": 17,
+    "github": "https://github.com/apollodao/cw-vault-standard"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Contract Admin",
+    "address": "osmo19377ce3k2893s98xp58vg0jtgtvj5qv405y36l4wf4z2xhnjwh6se8kep3",
+    "description": "Apollo Safe CW3 multisig contract owned by the Apollo team used as the admin for Apollo Vaults and other contracts.",
+    "code": 1,
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "apollodao",
+    "name": "ApolloDAO Dev Multisig",
+    "address": "osmo1wl59k23zngj34l7d42y9yltask7rjlnxgccawc7ltrknp6n52fps94qsjd",
+    "description": "",
+    "code": 1,
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Network Registry",
+    "address": "osmo1wg5qzw6yn88yz9kxtwvs36fmq5jxa03pg6zptvgte62hrlw0c4rqc9mjtf",
+    "code": 32,
+    "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/registry-stake",
+    "description": ""
+  },
+  {
+    "slug": "autonomy",
+    "name": "Autonomy Network Wrapper",
+    "address": "osmo1gvkwn0yclk0cwjzeu65cnl0uq0msx9sq0zk24q9gmfrenwerxyps2w3x87",
+    "code": 33,
+    "github": "https://github.com/Autonomy-Network/autonomy-osmosis-contracts/tree/main/contracts/wrapper-osmosis",
+    "description": ""
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis IBC Rate Limiting",
+    "address": "osmo17r7qdw2zk6jyw62cvwm6flmhtj9q7zd26r8zc6sqyf0pnaq46cfss8hgxg",
+    "description": "Osmosis IBC rate limiting contract responsible for adding a governance-configurable rate limit to IBC transfers. This acts as a safety control intended to protect assets on Osmosis in the event of a bug/hack",
+    "code": 6,
+    "github": "https://github.com/osmosis-labs/osmosis/tree/v13.0.0/x/ibc-rate-limit/contracts/rate-limiter"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Name NFT",
+    "address": "osmo1mypljhatv0prfr9cjzzvamxdf2ctg34xkt50sudxads9zhqnyneqjuvy26",
+    "description": "Interchain Nameservice NFT contract responsible for minting the nft of the ICNS name being claimed",
+    "code": 7,
+    "github": "https://github.com/icns-xyz/icns/tree/v0.1.0/contracts/icns-name-nft"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Registrar",
+    "address": "osmo1llh07xn7pcst3jqm0xpsucf90lzugfskkkhk8a3u2yznqmse4l5smydwpw",
+    "description": "Interchain Nameservice registar contract that keep track of the address for each ICNS name in a stateful manner, serving to resolve the ICNS Name to the correct address ",
+    "code": 9,
+    "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-registrar"
+  },
+  {
+    "slug": "icns",
+    "name": "ICNS Resolver",
+    "address": "osmo1xk0s8xgktn9x5vwcgtjdxqzadg88fgn33p8u9cnpdxwemvxscvast52cdd",
+    "description": "Interchain Nameservice resolver contract that work to orchestrate the oracle verifiers watching the Twitter API for unique Twitter handles of the user",
+    "code": 8,
+    "github": "https://github.com/icns-xyz/icns/tree/main/contracts/icns-resolver"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO Governance",
+    "address": "osmo1k8re7jwz6rnnwrktnejdwkwnncte7ek7gt29gvnl3sdrg9mtnqkse6nmqm",
+    "description": "ION DAO governance contract",
+    "code": 3,
+    "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/dao"
+  },
+  {
+    "slug": "ion-dao",
+    "name": "ION DAO Staking Governance",
+    "address": "osmo1yg8930mj8pk288lmkjex0qz85mj8wgtns5uzwyn2hs25pwdnw42sf745wc",
+    "description": "ION DAO governance staking contract",
+    "code": 2,
+    "github": "https://github.com/many-things/ion-dao-contracts/tree/dev/contracts/stake"
+  },
+  {
+    "slug": "kado",
+    "name": "Kado Dev Multisig",
+    "address": "osmo19vxp8vq8qm368dr026qxh8v82satwaf79y235lfv6wmgpwxx8dtskedaku",
+    "description": "Apollo Safe CW3 multisig account owned by the Kado team",
+    "code": 1,
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Field of Mars Account NFT",
+    "address": "osmo1450hrg6dv2l58c0rvdwx8ec2a0r6dd50hn4frk370tpvqjhy8khqw7sw09",
+    "description": "Mars NFT contract used to represent user account positions. Modified and extended from the CW721 reference implementation.",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/account-nft",
+    "code": 23
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Field of Mars Credit Manager",
+    "address": "osmo1f2m24wktq0sw3c0lexlg7fv4kngwyttvzws3a3r3al9ld2s2pvds87jqvf",
+    "description": "",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/credit-manager",
+    "code": 27
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Field of Mars Swapper",
+    "address": "osmo1wee0z8c7tcawyl647eapqs4a88q8jpa7ddy6nn2nrs7t47p2zhxswetwla",
+    "description": "Mars hlper contract used to swap assets on Osmosis.",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/swapper",
+    "code": 25
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Field of Mars Zapper",
+    "address": "osmo17qwvc70pzc9mudr8t02t3pl74hhqsgwnskl734p4hug3s8mkerdqzduf7c",
+    "description": "Mars helper contract used to provide and withdraw liquidity from Osmosis pools.",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/master/contracts/zapper",
+    "code": 26
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Osmosis Oracle",
+    "address": "osmo1mhznfr60vjdp2gejhyv2gax9nvyyzhd3z0qcwseyetkfustjauzqycsy2g",
+    "description": "Mars contract that provides prices denominated in uosmo for assets used in the protocol.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.1/contracts/oracle",
+    "code": 22
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Osmosis Oracle (v1.0.1)",
+    "address": "osmo1s2qvxs83j8c28733dlsuceas5gjgdd30p30nhsxf0tfrf6q6h96s6rngk0",
+    "description": "Mars contract that provides prices denominated in uosmo for assets used in the protocol.",
+    "github": "https://github.com/mars-protocol/v2-fields-of-mars/tree/v1.0.0/contracts/oracle",
+    "code": 14
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank",
+    "address": "osmo1c3ljch9dfw5kf52nfwpxd2zmj2ese7agnx0p9tenkrryasrle5sqf3ftpg",
+    "description": "Mars contract that manages asset deposits, borrowing, and liquidations.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/master/contracts",
+    "code": 11
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank Address Provider",
+    "address": "osmo1g677w7mfvn78eeudzwylxzlyz69fsgumqrscj6tekhdvs8fye3asufmvxr",
+    "description": "Mars contract that stores the addresses of Mars Red Bank contracts.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/address-provider",
+    "code": 12
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank Incentives",
+    "address": "osmo1nkahswfr8shg8rlxqwup0vgahp0dk4x8w6tkv3rra8rratnut36sk22vrm",
+    "description": "Mars contract that manages MARS incentives for depositors.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/incentives",
+    "code": 13
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Red Bank Liquidation Filterer",
+    "address": "osmo1v0ezrc0f7l5tlw6ws2r8kalhmvrfhe0fywrmj8kjgrwvud5r83uqywn66c",
+    "description": "Mars contract that queries the health status of each account to be liquidated on the current block height, and if the account is no longer health factor < 1 it will remove that liquidation from the msg in order to let other liquidation messages go through successfully.",
+    "code": 16,
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rewards Collector",
+    "address": "osmo1urvqe5mw00ws25yqdd4c4hlh8kdyf567mpcml7cdve9w08z0ydcqvsrgdy",
+    "description": "Mars contract that receives revenue in various coins from the Red Bank, swaps them into MARS or other specified assets in the Osmosis DEX, and forwards the assets to Mars Hub via IBC to be distributed as staking rewards or be deposited into the safety fund.",
+    "github": "https://github.com/mars-protocol/red-bank/tree/v1.0.0/contracts/rewards-collector",
+    "code": 15
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Rover Health",
+    "address": "osmo1pdc49qlyhpkzx4j24uuw97kk6hv7e9xvrdjlww8qj6al53gmu49sge4g79",
+    "description": "",
+    "github": "https://github.com/mars-protocol/contracts/tree/v2.0.1/contracts/health",
+    "code": 225
+  },
+  {
+    "slug": "ogp",
+    "name": "OGP Apollo Safe Multisig",
+    "address": "osmo1xwu4c2apw2nxd75leph52aaw85ryhpfqcwfqtyjtz38tvjln7x7qwd6scg",
+    "description": "Apollo Safe CW3 multisig account owned by the Osmosis Grants Program",
+    "code": 1,
+    "github": "https://github.com/apollodao/cw-plus-fork/tree/v0.13.2/contracts/cw3-fixed-multisig"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis Cross-Chain Swap v1 (DEPRECATED)",
+    "address": "osmo17q3gay74emg3q5zdg6kpdch4n8szg7clf4fuhc8nf7sdmjxxules8x9c4w",
+    "description": "Osmosis Cross-Chain Swap code mainly acting as a swap and forward contract that takes the received tokens, swaps them via a swaprouter contract, and sends them to an IBC receiver.",
+    "code": 31,
+    "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/crosschain-swaps"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis SwapRouter",
+    "address": "osmo1fy547nr4ewfc38z73ghr6x62p7eguuupm66xwk8v8rjnjyeyxdqs6gdqx7",
+    "description": "The SwapRouter contract serves as a way to define, on-chain, routes that swaps from one asset to another will take.",
+    "code": 10,
+    "github": "https://github.com/osmosis-labs/osmosis/tree/main/cosmwasm/contracts/swaprouter"
+  },
+  {
+    "slug": "streamswap",
+    "name": "StreamSwap",
+    "address": "osmo17kqws7fy2qnejdw68cqjlw456gdxcdukk0wq6026u826zlda3y7qdhzqlv",
+    "description": "",
+    "code": 39,
+    "github": "https://github.com/StreamSwapProtocol/cw-streamswap/commit/4e8e096bb2718c11a4144465925a056c9e87e053"
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Multisig",
+    "address": "osmo1e0x2hnhhwyek7eq3kcxu2x6pt77wdnwz0lutz9fespdr9utq963qr0y5p5",
+    "description": "Apollo Safe CW3 multisig owned by the TFM team whitelisted to upload contracts",
+    "code": 1,
+    "github": ""
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Router",
+    "address": "osmo1q065arwc6ka5xrne8j6aafg0j0zv57p7njjcecu5xdqjdpwgruzsttut0c",
+    "description": "",
+    "code": 41,
+    "github": ""
+  },
+  {
+    "slug": "ibcx",
+    "name": "IBCX Core",
+    "address": "osmo14klwqgkmackvx2tqa0trtg69dmy0nrg4ntq4gjgw2za4734r5seqjqm4gm",
+    "description": "",
+    "code": 49,
+    "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/core"
+  },
+  {
+    "slug": "ibcx",
+    "name": "IBCX Periphery",
+    "address": "osmo1w2kz2pmmvmvjkrah98xuw5lun5gljfr4nfw87le23ke0e8p4yp8s6la2mr",
+    "description": "",
+    "code": 52,
+    "github": "https://github.com/many-things/ibcx-contracts/tree/main/contracts/periphery"
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Multisig",
+    "address": "osmo15wna5dwylkuzvljsudyn6zfsd4zl0rkg5ge888mzk4vtnjpp0z5q4e9w58",
+    "description": "Apollo Safe CW3 multisig owned by the CronCat team whitelisted to upload contracts",
+    "code": 1,
+    "github": ""
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "address": "osmo1t7qham5kle36rs28se2xd7cckm9mpwzgt65t40lrdf8fcq3837qqjvw80s",
+    "description": "",
+    "code": 46,
+    "github": ""
+  },
+  {
+    "slug": "pyth",
+    "name": "Pyth Network Oracle",
+    "address": "osmo13ge29x4e2s63a8ytz2px8gurtyznmue4a69n5275692v3qn3ks8q7cwck7",
+    "description": "",
+    "code": 45,
+    "github": ""
+  },
+  {
+    "slug": "calc",
+    "name": "Calculated Finance DCA",
+    "address": "osmo1zacxlu90sl6j2zf90uctpddhfmux84ryrw794ywnlcwx2zeh5a4q67qtc9",
+    "description": "",
+    "code": 77,
+    "github": ""
+  },
+  {
+    "slug": "tfm",
+    "name": "TFM Limit Order",
+    "address": "osmo1rqamy6jc3f0rwrg5xz8hy8q7n932t2488f2gqg3d0cadvd3uqaxq4wazn8",
+    "description": "",
+    "code": 55,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Factory",
+    "address": "osmo14yjyt057saxauzc7scc5e0qce7c2dmeuzuhgsul0lnyy25xtz7ksxfzf07",
+    "description": "",
+    "code": 65,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Manager",
+    "address": "osmo15wq5q90exu89nanaynfxvmemznmrskazljug76deqmwxwlpszzmsgpctj4",
+    "description": "",
+    "code": 67,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Tasks",
+    "address": "osmo16f2t3yyax8ahau7g37v4r6vl65py3mh6wg63kzvz39mknc7txgmsyy2aws",
+    "description": "",
+    "code": 68,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Agents",
+    "address": "osmo1q39pzrfsm0cfjk662n2pr0az3zdc2eesxhshvteu8ypkwvrwr4uslm7vzt",
+    "description": "",
+    "code": 69,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Mod Balances",
+    "address": "osmo12ahvavwz53q7ysy34lnhwclgfyd9ngrg5gy46pn4h35t7dw8lj2qgwgf4y",
+    "description": "",
+    "code": 70,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Mod DAO",
+    "address": "osmo1z36n965w96mznd5arvw2eqlyv49nejheaalaseq2wkm27hn9y7sq823gzj",
+    "description": "",
+    "code": 72,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Mod Generic",
+    "address": "osmo17axf0sqsdzcnavwqvpmt3c9g5u9yswprln9qxt0adcjx9smuzdesqjefs5",
+    "description": "",
+    "code": 75,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "CronCat Mod NFT",
+    "address": "osmo1kgx5faf3pmd83etvhgwmgl7kvlntk6a586ya65mxux7s4jj7dkvs3wmher",
+    "description": "",
+    "code": 76,
+    "github": ""
+  },
+  {
+    "slug": "squidrouter",
+    "name": "Squid Router V1",
+    "address": "osmo15jw7xccxaxk30lf4xgag8f7aeg53pgkh74e39rv00xfnymldjaas2fk627",
+    "description": "",
+    "code": 81,
+    "github": ""
+  },
+  {
+    "slug": "croncat",
+    "name": "Mars Pyth Oracle",
+    "address": "osmo10mxh8p4sarqlu6mwqr0vez7h20nk0qng42yu232vvxfy6tkp9t5s0hwn8h",
+    "description": "",
+    "code": 84,
+    "github": ""
+  },
+  {
+    "slug": "mars",
+    "name": "Mars Params",
+    "address": "osmo1nlmdxt9ctql2jr47qd4fpgzg84cjswxyw6q99u4y4u4q6c2f5ksq7ysent",
+    "description": "",
+    "code": 213,
+    "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Airdrop",
+    "address": "osmo1grxj2q3ft6f2xp5m8zuvj2kt2k4cg32es8t37ajy8x79akqr06yq84zfwl",
+    "description": "",
+    "code": 193,
+    "github": ""
+  },
+  {
+    "slug": "coinhall",
+    "name": "Genie Factory",
+    "address": "osmo1vjq3e3fp4fcdnd83nmxk5764mlewwxjejsjmg9jyehgh5zklj0pslvs3na",
+    "description": "",
+    "code": 194,
+    "github": ""
+  }
 ]
