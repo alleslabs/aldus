@@ -5058,6 +5058,20 @@
     "type": "native"
   },
   {
+    "description": "MILLI - the community coin of SEI",
+    "id": {
+      "sei": {
+        "pacific-1": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v"
+      }
+    },
+    "logo": "https://milli.dog/wp-content/uploads/2024/02/Milli_Logo_150x150-1.png",
+    "name": "MILLI",
+    "precision": 6,
+    "slugs": ["milli"],
+    "symbol": "MILLI",
+    "type": "cw20"
+  }
+  {
     "coingecko": "",
     "description": "Evmos Guardians governance token.",
     "id": {
