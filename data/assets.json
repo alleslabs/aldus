@@ -4635,7 +4635,8 @@
     "precision": 6,
     "slugs": ["milli"],
     "symbol": "MILLI",
-    "type": "cw20"
+    "type": "cw20",
+    "coingecko": ""
   },
   {
     "coingecko": "",
