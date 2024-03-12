@@ -710,7 +710,7 @@
         "pion-1": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA"
       },
       "osmosis": {
-        "osmosis-1": "ibc/8410580A4F5421DFDBD888212624591E92A9E3B5C87D3C58913CE16ABD98B9B4"
+        "osmosis-1": "ibc/E5916C205E90C7C3481AFD8663A13C1D6C63145FB6C38DA9FC151FEE706F32EF"
       },
       "terra": {
         "phoenix-1": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
@@ -965,7 +965,7 @@
     "description": "The native EVM, governance, bridge, and staking token of Echelon",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/47EE224A9B33CF0ABEAC82106E52F0F6E8D8CEC5BA80B9D9A6F55172CBB0177D"
+        "osmosis-1": "ibc/49C2B2C444B7C5F0066657A4DBF19D676E0D185FF721CFD3E14FA253BCB9BC04"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/echelon/images/echelon.svg",
@@ -1995,7 +1995,7 @@
     "description": "Racoon aims to simplify accessibility to AI, NFTs and Gambling on the Cosmos Ecosystem",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/6BDB4C8CCD45033F9604E4B93ED395008A753E01EECD6992E7D1EA23D9D3B788"
+        "osmosis-1": "ibc/DDF1CD4CDC14AE2D6A3060193624605FF12DEE71CF1F8C19EEF35E9447653493"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/rac.svg",
@@ -2755,7 +2755,7 @@
     "description": "BLD is the token used to secure the Agoric chain through staking and to backstop Inter Protocol.",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/2DA9C149E9AD2BD27FEFA635458FB37093C256C1A940392634A16BEA45262604"
+        "osmosis-1": "ubld"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/agoric/images/bld.png",
@@ -3507,7 +3507,7 @@
     "description": "",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/1E43D59E565D41FB4E54CA639B838FFD5BCFC20003D330A56CB1396231AA1CBA"
+        "osmosis-1": "ibc/C058818AD1980A9C77F26D1BEF9E3ADF674C9659EB88563FD46950A9BC4164A6"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/sol.svg",
@@ -4293,7 +4293,7 @@
         "pion-1": "factory/neutron1xdtwh5jr4zjx8g3zh29jud75c666wua7tsmum3ajm6ylf782etfs60dj2h/wstETH"
       },
       "osmosis": {
-        "osmosis-1": "ibc/2F21E6D4271DE3F561F20A02CD541DAF7405B1E9CB3B9B07E3C2AC7D8A4338A5"
+        "osmosis-1": "ibc/B2BD584CD2A0A9CE53D4449667E26160C7D44A9C41AF50F602C201E5B3CCA46C"
       }
     },
     "logo": "https://i.ibb.co/grjYvHW/wstETH.png",
@@ -4345,7 +4345,7 @@
     "description": "",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/A4D176906C1646949574B48C1928D475F2DF56DE0AC04E1C99B08F90BC21ABDE"
+        "osmosis-1": "ibc/F5493DA7706B00E955ADBC6DDDA24789D4644A81C5E96277A54A0B9C5FD63543"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/aptos/images/aptos.svg",
@@ -4566,6 +4566,9 @@
     "id": {
       "terra": {
         "phoenix-1": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/6F62F01D913E3FFE472A38C78235B8F021B511BC6596ADFF02615C8F83D3B373"
       }
     },
     "coingecko": ""
@@ -5559,7 +5562,7 @@
     "description": "Tether USD (Wormhole), USDT, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19itXebZsNReLLNi",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C"
+        "osmosis-1": "ibc/4EDA0CAEE870C8FCA5DDCD390F11B89BA850654D81FEAEF9DBBA17D722239D70"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg",
@@ -5574,7 +5577,7 @@
     "description": "",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/D69F6D787EC649F4E998161A9F0646F4C2DCC64748A2AB982F14CAFBA7CC0EC9"
+        "osmosis-1": "ibc/DB421D24F8571EDBA4816557B8D459B444ADD795E499289841228AD3EFB2B791"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png",
@@ -5589,7 +5592,7 @@
     "description": "USD Coin (Wormhole), USDC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/6B99DB46AA9FF47162148C1726866919E44A6A5E0274B90912FD17E19A337695"
+        "osmosis-1": "ibc/9FB3464A62D6E1D712E3036E11757FF88626F41CCA87F061AB0EF469CF4D19FC"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdc.hole.svg",
@@ -6572,6 +6575,651 @@
     "precision": 18,
     "slugs": [],
     "symbol": "AIOZ",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo18uffp8hnw8u63fp9jng2ezu3ey6kffaa5s7nrgt6w2k0a0wk8rusfygm6v/bar"
+      }
+    },
+    "logo": "",
+    "name": "Barter",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "BAR",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo13ahfm35s0qwg45l09hgx3w7q2c9jc45d4mcptprsjuj6k6pnad9s7tavek/vst"
+      }
+    },
+    "logo": "",
+    "name": "ValueSharkToken",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "VST",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo15vnefu3p0dkkgkzud958nu80j86vyatrl7ghxmumy6jhzs80qlkqgx2zmq/mbt"
+      }
+    },
+    "logo": "",
+    "name": "Meta Builders Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "MBT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo160x6nzztld07rzz5wrgq9363kq8rjfhvtvyuc99fwa6cfasl9essuygyh6/smell"
+      }
+    },
+    "logo": "",
+    "name": "Smell",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "SMELL",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo16rt8lv6ex7c9q5xfexds03l5a9lf6hvs37mn3vfzwjn5sj7xqmjscjh5n9/jones"
+      }
+    },
+    "logo": "",
+    "name": "Osmosis Jones",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "JONES",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo17fpr8esecnp2rrdqe2k0rhpxpcftuczjzyjk9xspdxar4dnrzw3sxawcyf/admt"
+      }
+    },
+    "logo": "",
+    "name": "AdamantFi",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "ADMT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo187qadt5kw40d0lqm8rlhfr56047370d368aresxzw56hcwcne78qxg6k76/epic"
+      }
+    },
+    "logo": "",
+    "name": "eBook Publishing Irrepressibly Cryptoversal",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "EPIC",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1vvmvqzt3qr4hn952qvqn00f92walwuak0fx9rcynd0043jjdt6lsrft4fd/act"
+      }
+    },
+    "logo": "",
+    "name": "tezcoin",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "ACT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo19esh5d4xj7cyw9c307wlvdcwhqvl0pyexc8xxmccycv9vhgrzptqczzqlp/otf"
+      }
+    },
+    "logo": "",
+    "name": "Osmosis Token Factory",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "OTF",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1aj076qd054wupmpx9amah3ugh2rv0qs4n9j3l4lac8lhtswk78wq7e2ctf/tkf"
+      }
+    },
+    "logo": "",
+    "name": "Talkitty Foundation",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "TKF",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1dplap7yq5sh0tepjente05rsyhvfnpfxa5r453hht27puuv6zx7qh34w32/bndao"
+      }
+    },
+    "logo": "",
+    "name": "Binary Nexus DAO",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "BNDAO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1f9s2gh6p0m6h5g2zgmvpjcjwwuh7fakvfy8us45prcalrvyx5qkqukx0pg/dbond"
+      }
+    },
+    "logo": "",
+    "name": "1000000",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "dBOND",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1f9xmnj8jgnqgchddl42yp6f3txwfz3hyymzpav9stld7nl5sxn0s3cjmpp/bntt"
+      }
+    },
+    "logo": "",
+    "name": "Buffalo Nation Trust Tokens",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "BNTT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1ff6y4hg23c2t34t7j2r86pe5p3cgre6yd5lkmx48sy74s4ma6c6q76e0sx/undao"
+      }
+    },
+    "logo": "",
+    "name": "Undetermined DAO Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "UNDAO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1hu9u6upjpp59zh4uqdx89h5gea9q5q67tykl9xsxn6hfttgaquuq3x22dm/pkd"
+      }
+    },
+    "logo": "",
+    "name": "Pokedex",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "Pkd",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1j0esk34dzwwy2hc57mqfz4ky7n6c0fj07hf2mzge2tgvvw8c55rslzj4j9/mvst"
+      }
+    },
+    "logo": "",
+    "name": "ManagementVST",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "mVST",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1jjygfcyx83kp0kssma9svcswsew2szypwgj97j6er2szqx4hlm8sh5cpna/tsst"
+      }
+    },
+    "logo": "",
+    "name": "TestDaoToken",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "TSST",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1mnyupgladzt6mwts6njt49xr6w0u5fgnsumep8p548zfa04h667q3d42ex/life"
+      }
+    },
+    "logo": "",
+    "name": "LIFE Coin",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "LIFE",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1yxg9nt6uvysyq3cs9gmp58f48unffpfscqjyr6nv2u7mh6657nwssfyp33/sail"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/White-Whale-Defi-Platform/white-whale-frontend/a74f4fbce2aa6af8ac9c384a104c90d2ecfa6c9e/public/logos/sail.png",
+    "name": "Sail DAO token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "SAIL",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1smz59tke7xtpmjwppkp7ekqxhancf28lqjnrpvy8m9fwdatven9stl4xlz/stare"
+      }
+    },
+    "logo": "",
+    "name": "Stare at the Sun",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "STARE",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1rt94tf24fm42qpnqvjm5tsr2t5k2rgtl0m0ykf4r5wm03czcysysce0k3z/tst"
+      }
+    },
+    "logo": "",
+    "name": "Test Dao Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "TST",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1rvqhc4yp8aqvsuz0wv23lewa4ucgvzvjv6zrdktcp39c6h5nd09q98r9tt/ctc"
+      }
+    },
+    "logo": "",
+    "name": "ctaurus",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "ctc",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1ty695n07an8gcnne2cqs6qmlhkvuzhznvpdw68jst6n26d24zm8s6wa92r/cbg"
+      }
+    },
+    "logo": "",
+    "name": "CosmosBG",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "CBG",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1tyrmsl3n86c853tf3dxkzn00v4vjylcp6mat3s/upaw"
+      }
+    },
+    "logo": "",
+    "name": "PAW",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "PAW",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1upvuv0sw3uwdncl92pqp7lp2hplnda9qeh3xdua73xpg3559ecsshs8cyl/aero"
+      }
+    },
+    "logo": "",
+    "name": "AERO DAO Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "AERO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1vdvnznwg597qngrq9mnfcfk0am9jdc9y446jewhcqdreqz4r75xq5j5zvy/ymos"
+      }
+    },
+    "logo": "",
+    "name": "Yieldmos Governance Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "YMOS",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1w3uuvkrjpx6r2jceyu0mdqvwtj8nf230g4vvtduysrj490hhpz9s3wn66w/one"
+      }
+    },
+    "logo": "",
+    "name": "One Civilization",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "ONE",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1wh8arjgtpdgyf9rlw3k960kkx0943hy92n20sg4pjyk8grc6dhzsunuchs/ctc"
+      }
+    },
+    "logo": "",
+    "name": "cTaurus",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "cTc",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1wmgx8grg5ufquv0pjtjtzu3uae0fttn39khzgtzj2ds07nzgcq2str2fzv/fake"
+      }
+    },
+    "logo": "",
+    "name": "Fake dao",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "Fake",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1xpnhhfkg7u2y5tdmlr5c96pn57nqdse4hvjr8g5qdtu8d50x0qhqtta40c/sfyl"
+      }
+    },
+    "logo": "",
+    "name": "SorryForYourLoss Token",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "SFYL",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1zc9h9nts7vkzec3sdueqmaqghv7gk6trjr708tceawrn920cv8rqvnr80w/sgerey"
+      }
+    },
+    "logo": "",
+    "name": "deryge",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "sgerey",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1zrkrwv9hzmchzzt80k6y82xtrkn73ftzv8dcpll8r9ar7uadar6s5qk9ka/dasa"
+      }
+    },
+    "logo": "",
+    "name": "on the way together",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "dasa",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/18FB5C09D9D2371F659D4846A956FA56225E377EE3C3652A2BF3542BF809159D"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/filecoin/images/wfil.svg",
+    "name": "Wrapped FIL from Filecoin",
+    "precision": "18",
+    "slugs": [],
+    "symbol": "axlFIL",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/noble.usdc.svg",
+    "name": "USD Coin",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "noble.USDC",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/5E2DFDF1734137302129EA1C1BA21A580F96F778D4F021815EA4F6DB378DA1A4"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/fantom/images/ftm.png",
+    "name": "Wrapped FTM",
+    "precision": "18",
+    "slugs": [],
+    "symbol": "wFTM",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/CA3733CB0071F480FAE8EF0D9C3D47A49C6589144620A642BBE0D59A293D110E"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bonk.png",
+    "name": "Bonk (Wormhole)",
+    "precision": "5",
+    "slugs": [],
+    "symbol": "Bonk",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png",
+    "name": "SHARK",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "SHARK",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/BADB06C54ADD5BC4C8B74982F961CB0287BAE326E799FCD8D03387EB8BB7D550"
+      }
+    },
+    "logo": "https://i.imgur.com/AAIHtoH.png",
+    "name": "DOKI",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "DOKI",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/C2DF5C3949CA835B221C575625991F09BAB4E48FB9C11A4EE357194F736111E3"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/bjuno.svg",
+    "name": "StakeEasy bJUNO",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "BJUNO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/C6B6BFCB6EE49A7CAB1A7E7B021DE35B99D525AC660844952F0F6C78DCB2A57B"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/sejuno.svg",
+    "name": "StakeEasy seJUNO",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "SEJUNO",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/D3ADAF73F84CDF205BCB72C142FDAEEA2C612AB853CEE6D6C06F184FA38B1099"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/hopers.png",
+    "name": "HOPERS",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "hopers",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/D53E785DC9C5C2CA50CADB1EFE4DE5D0C30418BE0E9C6F2AF9F092A247E8BC22"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdym.svg",
+    "name": "Stride Staked DYM",
+    "precision": "18",
+    "slugs": [],
+    "symbol": "stDYM",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/FDFCC2BD1D609151C3593EC84FD9EA43057FF45F264BC89B18E7085F3F29A248"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.comp.svg",
+    "name": "USDT",
+    "precision": "6",
+    "slugs": [],
+    "symbol": "USDT.comp",
     "type": "native"
   }
 ]
