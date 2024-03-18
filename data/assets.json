@@ -6578,5 +6578,20 @@
     "slugs": [],
     "symbol": "AIOZ",
     "type": "native"
+  },
+  {
+    "coingecko": "ripple",
+    "description": "XRP bridged from XRPL",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/63A7CA0B6838AD8CAD6B5103998FF9B9B6A6F06FBB9638BFF51E63E0142339F3"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/xrp.core.png",
+    "name": "Ripple (Coreum)",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "XRP.core",
+    "type": "native"
   }
 ]
