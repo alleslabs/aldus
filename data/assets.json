@@ -4975,6 +4975,9 @@
     "id": {
       "sei": {
         "pacific-1": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/86074B8DF625A75C25D52FA6112E3FD5446BA41FE418880C168CA99D10E22F05"
       }
     },
     "logo": "https://media.discordapp.net/attachments/1155506336746962985/1186703319197036604/seiyanlogo.png?ex=65943697&is=6581c197&hm=305f472ac496930ded387b6bba3268d1aa1b5ebc64cccfd47b50ed27d585dfb9&=&format=webp&quality=lossless",
@@ -6597,6 +6600,81 @@
     "precision": 6,
     "slugs": [],
     "symbol": "XRP.core",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Stride's liquid staked DYM",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/D53E785DC9C5C2CA50CADB1EFE4DE5D0C30418BE0E9C6F2AF9F092A247E8BC22"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stdym.svg",
+    "name": "Stride Staked DYM",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "stDYM",
+    "type": "native"
+  },
+  {
+    "coingecko": "doki",
+    "description": "DOKI the last Dragon",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/C12C353A83CD1005FC38943410B894DBEC5F2ABC97FC12908F0FB03B970E8E1B"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/odin/images/doki_Logo.png",
+    "name": "DOKI",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "DOKI",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Sail DAO Token",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1rckme96ptawr4zwexxj5g5gej9s2dmud8r2t9j0k0prn5mch5g4snzzwjv/sail"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/sail.png",
+    "name": "Sail",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "SAIL",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "SHARK is the apex price prediction market within Cosmos.",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/64D56DF9EC69BE554F49EBCE0199611062FF1137EF105E2F645C1997344F3834"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/shark.png",
+    "name": "SHARK",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "SHARK",
+    "type": "native"
+  },
+  {
+    "coingecko": "nibiru",
+    "description": "The native token of Nibiru network",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/4017C65CEA338196ECCEC3FE3FE8258F23D1DE88F1D95750CC912C7A1C1016FF"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nibiru/images/nibiru.svg",
+    "name": "Nibiru",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "NIBI",
     "type": "native"
   }
 ]
