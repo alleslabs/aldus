@@ -6676,5 +6676,20 @@
     "slugs": [],
     "symbol": "NIBI",
     "type": "native"
+  },
+    {
+    "coingecko": "",
+    "description": "YAWP",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/D1DD525F3226643940897A170DFDFC3727F5C4C43131C4D91EEF7D0E93F102B7"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/yawp.png",
+    "name": "YAWP",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "YAWP",
+    "type": "native"
   }
 ]
