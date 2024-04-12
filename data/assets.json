@@ -6799,5 +6799,22 @@
     "slugs": [],
     "symbol": "W",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "$CIF Token of Cifer Blockchain Network Built for Decentralized Machine Learning.",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/EFC1776BEFB7842F2DC7BABD9A3050E188145C99007ECC5F3526FED45A68D5F5"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cifer/images/cif.png",
+    "name": "$CIF Token",
+    "precision": 6,
+    "slugs": [
+      "cifer"
+    ],
+    "symbol": "CIF",
+    "type": "native"
   }
 ]

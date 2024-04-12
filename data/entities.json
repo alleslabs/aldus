@@ -3718,5 +3718,27 @@
       }
     ],
     "description": "MILLI - the community coin of SEI"
+  },
+  {
+    "slug": "cifer",
+    "name": "Cifer",
+    "website": "https://cifer.ai",
+    "github": "https://github.com/CiferAI",
+    "logo": "cif.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/cifer_ai"
+      },
+      {
+        "name": "telegram",
+        "url": ""
+      },
+      {
+        "name": "discord",
+        "url": ""
+      }
+    ],
+    "description": "$CIF Token of Cifer Blockchain Network Built for Decentralized Machine Learning."
   }
 ]
