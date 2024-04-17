@@ -3473,7 +3473,8 @@
     "description": "Ethereum",
     "id": {
       "initia": {
-        "mahalo-1": "ueth"
+        "mahalo-1": "ueth",
+        "mahalo-2": "ueth"
       },
       "osmosis": {
         "osmosis-1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
@@ -3848,6 +3849,7 @@
         "stone-12-1": "uusdc",
         "stone-13": "uusdc",
         "mahalo-1": "uusdc",
+        "mahalo-2": "uusdc",
         "minimove-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "miniwasm-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
       },
