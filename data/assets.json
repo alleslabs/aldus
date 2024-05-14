@@ -3118,7 +3118,13 @@
     "description": "Ethereum",
     "id": {
       "initia": {
-        "mahalo-2": "ueth"
+        "initiation-1": "ueth",
+        "minimove-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD",
+        "miniwasm-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD",
+        "birdee-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD",
+        "tomcat-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD",
+        "init-ai-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD",
+        "burrito-1": "ibc/0E98D4D1D907597448FD3A7C33DDAE10A90FA86FC8A9F5A0B175393783F249CD"
       },
       "osmosis": {
         "osmosis-1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
@@ -3458,10 +3464,13 @@
     "description": "Circle's stablecoin",
     "id": {
       "initia": {
-        "mahalo-2": "uusdc",
-        "minimove-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "miniwasm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "tomcat-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
+        "initiation-1": "uusdc",
+        "minimove-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "miniwasm-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "birdee-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "tomcat-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "init-ai-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "burrito-1": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
       },
       "osmosis": {
         "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
@@ -3755,10 +3764,13 @@
     "description": "The native token of Initia",
     "id": {
       "initia": {
-        "mahalo-3": "uinit",
-        "minimove-3": "l2/771d639f30fbe45e3fbca954ffbe2fcc26f915f5513c67a4a2d0bc1d635bdefd",
-        "miniwasm-3": "l2/2588fd87a8e081f6a557f43ff14f05dddf5e34cb27afcefd6eaf81f1daea30d0",
-        "tomcat-1": "l2/ad2344d0c17127cc6bce67e360f43cd6c5fa09a7b5f6f9b7b80f9dc3e0c4876e"
+        "initiation-1": "uinit",
+        "minimove-1": "l2/771d639f30fbe45e3fbca954ffbe2fcc26f915f5513c67a4a2d0bc1d635bdefd",
+        "miniwasm-1": "l2/2588fd87a8e081f6a557f43ff14f05dddf5e34cb27afcefd6eaf81f1daea30d0",
+        "birdee-1": "l2/333f8e6ae6855338f99d451126bfefc1b920763c16681d55fbc7df68ccb36972",
+        "tomcat-1": "l2/aee375e9d0b181f0d9d3a49f9a3d1d6b05d62b0ac81f8c92b9282afa4213d884",
+        "init-ai-1": "l2/aadf1a9da6a38b7e7e11839364ee42002260eff1657f403b9ce608337bcb986b",
+        "burrito-1": "l2/ffea49d63cbadcfd749b4f635eca198b2f3b44cb1f6b580f5d201d58f3bf7aea"
       }
     },
     "logo": "https://list.initia.xyz/images/0x8e4733bdabcf7d4afc3d14f0dd46c9bf52fb0fce9e4b996c939e195b8bc891d9.webp",
@@ -4432,6 +4444,15 @@
       },
       "osmosis": {
         "osmosis-1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
+      },
+      "initia": {
+        "initiation-1": "utia",
+        "minimove-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "miniwasm-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "birdee-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "tomcat-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "init-ai-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "burrito-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
@@ -6336,6 +6357,27 @@
     "precision": 6,
     "slugs": [],
     "symbol": "W",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The native token of Tucana",
+    "id": {
+      "initia": {
+        "initiation-1": "ibc/276C63284D960E3E4D76AEFC9A8BA338BAD24E30530C7C95E7EFC4D250D4E23D",
+        "minimove-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561",
+        "miniwasm-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561",
+        "birdee-1": "utuc",
+        "tomcat-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561",
+        "init-ai-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561",
+        "burrito-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/tucana/images/TUCANA.png",
+    "name": "Tucana Native Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "TUC",
     "type": "native"
   }
 ]
