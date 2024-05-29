@@ -254,16 +254,30 @@
   {
     "slug": "astroport",
     "name": "Astroport Pair",
-    "id": 35,
+    "id": 485,
     "description": "",
-    "github": ""
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/pair"
   },
   {
     "slug": "astroport",
     "name": "Astroport Stable Pair",
-    "id": 40,
+    "id": 486,
     "description": "",
-    "github": ""
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/pair_stable"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Passive Concentrated Pair",
+    "id": 707,
+    "description": "",
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/pair_concentrated"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Transmuter Pair",
+    "id": 738,
+    "description": "",
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/pair_transmuter"
   },
   {
     "slug": "mars",

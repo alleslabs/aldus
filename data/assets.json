@@ -626,6 +626,30 @@
     "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
     "id": {
       "neutron": {
+        "neutron-1": "factory/neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07/astro"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/B8C608CEE08C4F30A15A7955306F2EDAF4A02BB191CABC4185C1A57FD978DA1B"
+      },
+      "terra": {
+        "phoenix-1": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+      },
+      "sei": {
+        "pacific-1": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/astro.svg",
+    "name": "Astroport",
+    "precision": 6,
+    "slugs": ["astroport"],
+    "symbol": "ASTRO",
+    "type": "native"
+  },
+  {
+    "coingecko": "astroport-fi",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "id": {
+      "neutron": {
         "neutron-1": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
         "pion-1": "ibc/EFB00E728F98F0C4BBE8CA362123ACAB466EDA2826DC6837E49F4C1902F21BBA"
       },
@@ -641,12 +665,14 @@
         "pacific-1": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra/images/astro.png",
-    "name": "Astroport",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/astro-cw20.svg",
+    "name": "Astroport CW20",
     "precision": 6,
-    "slugs": ["astroport"],
-    "symbol": "ASTRO",
-    "type": "native"
+    "slugs": [
+      "astroport"
+    ],
+    "symbol": "ASTRO.cw20",
+    "type": "cw20"
   },
   {
     "coingecko": "buttcoin-2",
@@ -2017,12 +2043,27 @@
         "phoenix-1": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8"
       }
     },
-    "logo": "https://app.astroport.fi/tokens/xAstro.png",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/xastro-cw20.svg",
+    "name": "Staked Astroport CW20",
+    "precision": 6,
+    "slugs": ["astroport"],
+    "symbol": "xASTRO.cw20",
+    "type": "cw20"
+  },
+  {
+    "coingecko": "",
+    "description": "",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn/xASTRO"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/xAstro.svg",
     "name": "Staked Astroport",
     "precision": 6,
     "slugs": ["astroport"],
     "symbol": "xASTRO",
-    "type": "cw20"
+    "type": "native"
   },
   {
     "coingecko": "",
@@ -3725,24 +3766,6 @@
     "slugs": ["axelar", "frax"],
     "symbol": "axlFRAX",
     "type": "native"
-  },
-  {
-    "coingecko": "astroport-fi",
-    "description": "",
-    "id": {
-      "terra": {
-        "phoenix-1": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26"
-      },
-      "osmosis": {
-        "osmosis-1": "ibc/E5916C205E90C7C3481AFD8663A13C1D6C63145FB6C38DA9FC151FEE706F32EF"
-      }
-    },
-    "logo": "https://app.astroport.fi/tokens/astro.svg",
-    "name": "Astroport",
-    "precision": 6,
-    "slugs": ["astroport"],
-    "symbol": "ASTRO",
-    "type": "cw20"
   },
   {
     "coingecko": "wynd",

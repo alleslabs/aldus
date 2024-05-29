@@ -64,10 +64,11 @@
   },
   {
     "slug": "astroport",
-    "name": "Assembly",
+    "name": "Astroport Satellite",
     "address": "terra1k9j8rcyk87v5jvfla2m9wp200azegjz0eshl7n2pwv852a7ssceqsnn7pq",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend.",
-    "code": 1127
+    "description": "",
+    "code": 2797,
+    "github": "https://github.com/astroport-fi/astroport_ibc/tree/main/contracts/satellite"
   },
   {
     "slug": "astroport",
