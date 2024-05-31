@@ -6402,5 +6402,20 @@
     "slugs": [],
     "symbol": "TUC",
     "type": "native"
+  },
+    {
+    "coingecko": "",
+    "description": "Initia testnet gas token",
+    "id": {
+      "initia": {
+        "initiation-1": "move/944f8dd8dc49f96c25fea9849f16436dcfa6d564eec802f3ef7f8b3ea85368ff",
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/GAS.svg",
+    "name": "GAS Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "GAS",
+    "type": "native"
   }
 ]
