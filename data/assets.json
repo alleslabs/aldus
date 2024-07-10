@@ -5597,7 +5597,7 @@
         "osmosis-1": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.wh.svg",
     "name": "Tether USD (Wormhole)",
     "precision": 6,
     "slugs": [],
@@ -6868,21 +6868,6 @@
     "precision": 6,
     "slugs": [],
     "symbol": "solana.USDT.pica",
-    "type": "native"
-  },
-  {
-    "coingecko": "tether",
-    "description": "Tether from Ethereum via Wormhole",
-    "id": {
-      "osmosis": {
-        "osmosis-1": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C"
-      }
-    },
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.wh.svg",
-    "name": "Ethereum USDT on Wormhole",
-    "precision": 6,
-    "slugs": [],
-    "symbol": "USDT.wh",
     "type": "native"
   },
   {
