@@ -6854,5 +6854,50 @@
     "slugs": [],
     "symbol": "GAS",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The native token of MilkyWay",
+    "id": {
+      "initia": {
+        "glados-1": "umilk"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/MILK.svg",
+    "name": "MilkyWay Native Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "MILK",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "INIT Liquid Staking Token",
+    "id": {
+      "initia": {
+        "glados-1": "milkuinit"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/milkINIT.svg",
+    "name": "INIT Liquid Staking Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "milkINIT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The native token of Initia (IBC-Bridged)",
+    "id": {
+      "initia": {
+        "glados-1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "name": "Initia Native Token (IBC)",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "INIT",
+    "type": "native"
   }
 ]
