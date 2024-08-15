@@ -2892,6 +2892,24 @@
   },
   {
     "coingecko": "",
+    "description": "Staking derivative dATOM for staked ATOM by Drop",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/f7d4b9bd376b0a665b61fd1a43986d2e7b5bc068/images/neutron/factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/datom.png",
+    "name": "Drop Staked Atom",
+    "precision": 6,
+    "slugs": [
+      "drop",
+      "cosmos-hub"
+    ],
+    "symbol": "dATOM",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
     "description": "",
     "id": {
       "terra": {
@@ -6958,6 +6976,48 @@
     "precision": 18,
     "slugs": [],
     "symbol": "allETH",
+    "coingecko": "",
+    "description": "The native token of MilkyWay",
+    "id": {
+      "initia": {
+        "glados-1": "umilk"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/MILK.svg",
+    "name": "MilkyWay Native Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "MILK",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "INIT Liquid Staking Token",
+    "id": {
+      "initia": {
+        "glados-1": "milkuinit"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/milkINIT.svg",
+    "name": "INIT Liquid Staking Token",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "milkINIT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The native token of Initia (IBC-Bridged)",
+    "id": {
+      "initia": {
+        "glados-1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "name": "Initia Native Token (IBC)",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "INIT",
     "type": "native"
   }
 ]
