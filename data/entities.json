@@ -3718,5 +3718,25 @@
       }
     ],
     "description": "Cook on SEI"
+    "slug": "milli",
+    "name": "MILLI",
+    "website": "https://milli.dog/",
+    "github": "",
+    "logo": "milli.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/MilliCoinSei"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/MilliCoinSei"
+      },
+      {
+        "name": "discord",
+        "url": "https://discord.gg/milli-token"
+      }
+    ],
+    "description": "MILLI - the community coin of SEI"
   }
 ]

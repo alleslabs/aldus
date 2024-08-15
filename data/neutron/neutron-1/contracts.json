@@ -257,11 +257,11 @@
   },
   {
     "slug": "astroport",
-    "name": "Astroport Satellite",
+    "name": "Astroport Assembly",
     "address": "neutron1ffus553eet978k024lmssw0czsxwr97mggyv85lpcsdkft8v9ufsz3sa07",
     "description": "",
-    "code": 31,
-    "github": ""
+    "code": 949,
+    "github": "https://github.com/astroport-fi/astroport-governance/tree/main/contracts/assembly"
   },
   {
     "slug": "astroport",
@@ -326,6 +326,38 @@
     "description": "",
     "code": 123,
     "github": ""
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Incentives",
+    "address": "neutron173fd8wpfzyqnfnpwq2zhtgdstujrjz2wkprkjfr6gqg4gknctjyq6m3tch",
+    "description": "",
+    "code": 953,
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/tokenomics/incentives"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Treasury",
+    "address": "neutron19sq60cxtsjcx7vw25c63wyt27fxevuh6l7vxcn04u0t0rueyfpvq4mc75l",
+    "description": "",
+    "code": 893,
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/whitelist"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Staking",
+    "address": "neutron1zlf3hutsa4qnmue53lz2tfxrutp8y2e3rj4nkghg3rupgl4mqy8s5jgxsn",
+    "description": "",
+    "code": 1163,
+    "github": "https://github.com/astroport-fi/astroport-core/tree/main/contracts/tokenomics/staking"
+  },
+  {
+    "slug": "astroport",
+    "name": "Astroport Builder Unlock",
+    "address": "neutron1yfzj68we8q50mv2t37p4dqxwwz7d5uz0g54cgnsn8rwa0umnf3sqzz4g8y",
+    "description": "",
+    "code": 947,
+    "github": "https://github.com/astroport-fi/astroport-governance/tree/main/contracts/builder_unlock"
   },
   {
     "slug": "astroport",
