@@ -3698,6 +3698,26 @@
     "description": "Sei's main memecoin."
   },
   {
+    "slug": "cook",
+    "name": "COOK",
+    "website": "https://cookonsei.com",
+    "github": "",
+    "logo": "cook.png",
+    "socials": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/CookonSEI"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/cookonsei"
+      },
+      {
+        "name": "discord",
+        "url": "http://discord.gg/cookonsei"
+      }
+    ],
+    "description": "Cook on SEI"
     "slug": "milli",
     "name": "MILLI",
     "website": "https://milli.dog/",

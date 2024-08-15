@@ -5030,6 +5030,21 @@
     "type": "cw20"
   },
   {
+    "coingecko": "cook-3",
+    "description": "",
+    "id": {
+      "sei": {
+        "pacific-1": "sei1pvz89hltquwe6qdhnqwmxxvasayzn4dctkwehes2zt888c7syffszt3j56"
+      }
+    },
+    "logo": "https://d18g1i2cpgy8hi.cloudfront.net/cook.png",
+    "name": "COOK",
+    "precision": 6,
+    "slugs": ["cook"],
+    "symbol": "COOK",
+    "type": "cw20"
+  },
+  {
     "coingecko": "wrapped-bitcoin",
     "description": "Wrapped Bitcoin",
     "id": {
