@@ -2892,6 +2892,24 @@
   },
   {
     "coingecko": "",
+    "description": "Staking derivative dATOM for staked ATOM by Drop",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/f7d4b9bd376b0a665b61fd1a43986d2e7b5bc068/images/neutron/factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/datom.png",
+    "name": "Drop Staked Atom",
+    "precision": 6,
+    "slugs": [
+      "drop",
+      "cosmos-hub"
+    ],
+    "symbol": "dATOM",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
     "description": "",
     "id": {
       "terra": {
