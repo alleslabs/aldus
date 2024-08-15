@@ -6885,7 +6885,7 @@
     "name": "Solana USDT on Picasso",
     "precision": 6,
     "slugs": [],
-    "symbol": "solana.USDT.pica",
+    "symbol": "USDT.sol.pica",
     "type": "native"
   },
   {
