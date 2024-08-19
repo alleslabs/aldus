@@ -3718,6 +3718,8 @@
       }
     ],
     "description": "Cook on SEI"
+  },
+  {
     "slug": "milli",
     "name": "MILLI",
     "website": "https://milli.dog/",
