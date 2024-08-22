@@ -6878,7 +6878,7 @@
     "description": "Tether from Solana via Picasso",
     "id": {
       "osmosis": {
-        "osmosis-1": "ibc/D105950618E47CA2AEC314282BC401625025F80A4F812808DEEBB1941C685575"
+        "osmosis-1": "ibc/0233A3F2541FD43DBCA569B27AF886E97F5C03FC0305E4A8A3FAC6AC26249C7A"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.solana.pica.svg",
