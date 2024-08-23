@@ -5630,7 +5630,7 @@
         "osmosis-1": "ibc/2108F2D81CBE328F371AD0CEF56691B18A86E08C3651504E42487D9EE92DDE9C"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.hole.svg",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.wh.svg",
     "name": "Tether USD (Wormhole)",
     "precision": 6,
     "slugs": [],
@@ -6889,6 +6889,108 @@
     "type": "native"
   },
   {
+    "coingecko": "tether",
+    "description": "Tether from Solana via Picasso",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/0233A3F2541FD43DBCA569B27AF886E97F5C03FC0305E4A8A3FAC6AC26249C7A"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/usdt.solana.pica.svg",
+    "name": "Solana USDT on Picasso",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "USDT.sol.pica",
+    "type": "native"
+  },
+  {
+    "coingecko": "ethereum",
+    "description": "Ethereum from Arbitrum via Axelar",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/64E62451C9A5682FF3047429C6E4714A02CDC0C35DE35CAB01E18D1188004CEB"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/eth.arb.axl.svg",
+    "name": "Ethereum from Arbitrum via Axelar",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "ETH.arb.axl",
+    "type": "native"
+  },
+  {
+    "coingecko": "ethereum",
+    "description": "Ethereum from Base via Axelar",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/D7D6DEF2A4F7ED0A6F5F0E266C1B2C9726E82F67EBBE49BBB47B3DEC289F8D7B"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/eth.arb.axl.svg",
+    "name": "Ethereum from Base via Axelar",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "ETH.base.axl",
+    "type": "native"
+  },
+  {
+    "coingecko": "ethereum",
+    "description": "Ethereum from Polygon via Axelar",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/F9EB60AC212DBF05F4C5ED0FDE03BB9F08309B0EE9899A406AD4B904CF84968E"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/eth.matic.axl.svg",
+    "name": "Ethereum from Polygon via Axelar",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "ETH.matic.axl",
+    "type": "native"
+  },
+  {
+    "coingecko": "tether",
+    "description": "Alloyed USDT on Osmosis",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allUSDT.svg",
+    "name": "USDT (Osmosis)",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "allUSDT",
+    "type": "native"
+  },
+  {
+    "coingecko": "bitcoin",
+    "description": "Alloyed BTC on Osmosis",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allBTC.svg",
+    "name": "BTC (Osmosis)",
+    "precision": 8,
+    "slugs": [],
+    "symbol": "allBTC",
+    "type": "native"
+  },
+  {
+    "coingecko": "ethereum",
+    "description": "Alloyed ETH on Osmosis",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1k6c8jln7ejuqwtqmay3yvzrg3kueaczl96pk067ldg8u835w0yhsw27twm/alloyed/allETH"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/allETH.svg",
+    "name": "ETH (Osmosis)",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "allETH",
     "coingecko": "",
     "description": "The native token of MilkyWay",
     "id": {
