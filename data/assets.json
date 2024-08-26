@@ -6793,7 +6793,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "backbone-staked-osmo",
     "description": "BackBone Labs Liquid Staked OSMO",
     "id": {
       "osmosis": {
