@@ -513,7 +513,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "qstar-2",
     "description": "Quicksilver Liquid Staked STARS",
     "id": {
       "osmosis": {
@@ -1122,7 +1122,7 @@
     "type": "cw20"
   },
   {
-    "coingecko": "",
+    "coingecko": "stride-staked-stars",
     "description": "Staking derivative stSTARS for staked STARS by Stride",
     "id": {
       "osmosis": {
@@ -1825,7 +1825,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "qosmo",
     "description": "Quicksilver Liquid Staked OSMO",
     "id": {
       "osmosis": {
@@ -2486,7 +2486,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "qatom",
     "description": "Quicksilver Liquid Staked ATOM",
     "id": {
       "osmosis": {
@@ -2845,7 +2845,7 @@
     "type": "native"
   },
   {
-    "coingecko": "mars-protocol",
+    "coingecko": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
     "description": "The native token of Mars Hub",
     "id": {
       "osmosis": {
@@ -2857,7 +2857,7 @@
         "phoenix-1": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498"
       }
     },
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token.svg",
+    "logo": "https://app.osmosis.zone/tokens/generated/mars.svg",
     "name": "Mars",
     "precision": 6,
     "slugs": [
@@ -3299,7 +3299,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "qregen",
     "description": "Quicksilver Liquid Staked REGEN",
     "id": {
       "osmosis": {
@@ -4958,7 +4958,7 @@
     "type": "cw20"
   },
   {
-    "coingecko": "",
+    "coingecko": "levana-protocol",
     "description": "The native token of Levana",
     "id": {
       "osmosis": {
@@ -5062,7 +5062,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "apollo-2",
     "description": "The deflationary utility token of the Apollo DAO project",
     "id": {
       "osmosis": {
@@ -5563,7 +5563,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "eris-amplified-osmo",
     "description": "ERIS liquid staked OSMO",
     "id": {
       "osmosis": {
@@ -6103,7 +6103,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "pstake-staked-osmo",
     "description": "PSTAKE Liquid-Staked OSMO",
     "id": {
       "osmosis": {
@@ -6403,7 +6403,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "stride-staked-dydx",
     "description": "Stride's liquid staked DYDX",
     "id": {
       "osmosis": {
@@ -6418,7 +6418,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "stride-staked-tia",
     "description": "Stride's liquid staked TIA",
     "id": {
       "osmosis": {
@@ -6538,7 +6538,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "scorum",
     "description": "The native token of Scorum",
     "id": {
       "osmosis": {
@@ -6553,7 +6553,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "chain4energy",
     "description": "The native token of Chain4Energy",
     "id": {
       "osmosis": {
@@ -6688,7 +6688,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "sail-dao",
     "description": "Sail DAO Token",
     "id": {
       "osmosis": {
