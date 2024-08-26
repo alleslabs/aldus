@@ -4975,14 +4975,14 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "milkyway-staked-tia",
     "description": "MilkyWay Liquid Staked TIA",
     "id": {
       "osmosis": {
         "osmosis-1": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA"
       }
     },
-    "logo": "https://app.osmosis.zone/_next/image?url=%2Ftokens%2Fgenerated%2Fmilktia.png",
+    "logo": "https://app.osmosis.zone/tokens/generated/milktia.svg",
     "name": "milkTIA Token",
     "precision": 6,
     "slugs": [
