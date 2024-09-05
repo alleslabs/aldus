@@ -6452,7 +6452,7 @@
     "description": "Initia testnet evm gas token",
     "id": {
       "initia": {
-        "stoneevm-16-4": "evm/5E5f1a92eECA58053E8364630b66763aa6265Ab0"
+        "stoneevm-16-4": "evm/5e5f1a92eeca58053e8364630b66763aa6265ab0"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/GAS.svg",
