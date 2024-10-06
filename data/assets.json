@@ -6625,5 +6625,20 @@
     "slugs": [],
     "symbol": "INIT",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The Cosmos Network's premier self-hatred memecoin.",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/shitmos"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/shitmos.png",
+    "name": "Shitmos",
+    "precision": 6,
+    "slugs": [],
+    "symbol": "SHITMOS",
+    "type": "native"
   }
 ]
