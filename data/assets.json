@@ -6639,7 +6639,7 @@
         "preyominet-1": "evm/9D9c32921575Fd98e67E27C0189ED4b750Cb17C5"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "logo": "https://storage.googleapis.com/minitias/kamigotchi/onyx.svg",
     "name": "ONYX",
     "precision": 18,
     "slugs": [],
