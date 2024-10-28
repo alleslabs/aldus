@@ -6581,12 +6581,15 @@
     "name": "ETH (Osmosis)",
     "precision": 18,
     "slugs": [],
-    "symbol": "allETH",
+    "symbol": "allETH"
+  },
+  {
     "coingecko": "",
     "description": "The native token of MilkyWay",
     "id": {
       "initia": {
-        "glados-1": "umilk"
+        "glados-1": "umilk",
+        "glados-2.1": "umilk"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/MILK.svg",
@@ -6601,7 +6604,8 @@
     "description": "INIT Liquid Staking Token",
     "id": {
       "initia": {
-        "glados-1": "milkuinit"
+        "glados-1": "milkuinit",
+        "glados-2.1": "milkuinit"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/milkINIT.svg",
@@ -6616,7 +6620,8 @@
     "description": "The native token of Initia (IBC-Bridged)",
     "id": {
       "initia": {
-        "glados-1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50"
+        "glados-1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50",
+        "glados-2.1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
@@ -6624,6 +6629,21 @@
     "precision": 6,
     "slugs": [],
     "symbol": "INIT",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The Kamigotchi world currency",
+    "id": {
+      "initia": {
+        "preyominet-1": "evm/9D9c32921575Fd98e67E27C0189ED4b750Cb17C5"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "name": "ONYX",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "ONYX",
     "type": "native"
   }
 ]
