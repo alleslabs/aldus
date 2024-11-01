@@ -6581,7 +6581,8 @@
     "name": "ETH (Osmosis)",
     "precision": 18,
     "slugs": [],
-    "symbol": "allETH"
+    "symbol": "allETH",
+    "type": "native"
   },
   {
     "coingecko": "",
