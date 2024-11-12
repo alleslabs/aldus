@@ -4705,13 +4705,13 @@
     "type": "native"
   },
   {
-    "description": "MILLI - the community coin of SEI",
+    "description": "MILLI - the first dog coin on SEI",
     "id": {
       "sei": {
         "pacific-1": "sei170949pwl4h36neazkwmdgtrh6nuenh66462n34839e23e8he3pqsnm5r2v"
       }
     },
-    "logo": "https://milli.dog/wp-content/uploads/2024/02/Milli_Logo_150x150-1.png",
+    "logo": "https://milli.dog/wp-content/uploads/2024/08/cropped-MILLI-Sei-Memecoin-Logo.png",
     "name": "MILLI",
     "precision": 6,
     "slugs": ["milli"],
