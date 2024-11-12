@@ -4640,7 +4640,7 @@
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
     "name": "Wrapped Bitcoin",
     "precision": 8,
-    "slugs": ["ethereum"],
+    "slugs": ["bitcoin","ethereum"],
     "symbol": "WBTC",
     "type": "native"
   },
@@ -5480,7 +5480,7 @@
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/nomic/images/nbtc.svg",
     "name": "Nomic Bitcoin",
     "precision": 14,
-    "slugs": [],
+    "slugs": ["bitcoin"],
     "symbol": "nBTC",
     "type": "native"
   },
@@ -6647,6 +6647,21 @@
     "precision": 18,
     "slugs": [],
     "symbol": "ONYX",
+    "type": "native"
+  },
+  {
+    "coingecko": "chain-key-bitcoin",
+    "description": "Chain-key Bitcoin",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/sICP-icrc-ckBTC"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/internetcomputer/images/ckbtc.svg",
+    "name": "Chain-key Bitcoin",
+    "precision": 8,
+    "slugs": ["bitcoin"],
+    "symbol": "ckBTC",
     "type": "native"
   }
 ]
