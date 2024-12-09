@@ -6663,5 +6663,20 @@
     "slugs": ["bitcoin"],
     "symbol": "ckBTC",
     "type": "native"
+  },
+  {
+    "coingecko": "coinbase-wrapped-btc",
+    "description": "Coinbase Wrapped BTC (Axelar)",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/616C2EA69BC328F245CE449785CB0B526B462C48F19DCF9B3D30699579B4308A"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/cbbtc.axl.svg",
+    "name": "Coinbase Wrapped BTC (Axelar)",
+    "precision": 8,
+    "slugs": ["bitcoin"],
+    "symbol": "cbBTC.axl",
+    "type": "native"
   }
 ]
