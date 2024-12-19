@@ -2619,6 +2619,21 @@
   },
   {
     "coingecko": "",
+    "description": "Staking derivative dTIA for staked TIA by Drop",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/neutron/factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/dtia.png",
+    "name": "Drop Staked Tia",
+    "precision": 6,
+    "slugs": ["drop", "celestia"],
+    "symbol": "dTIA",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
     "description": "",
     "id": {
       "terra": {
