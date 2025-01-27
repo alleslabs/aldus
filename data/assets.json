@@ -4655,7 +4655,7 @@
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.svg",
     "name": "Wrapped Bitcoin",
     "precision": 8,
-    "slugs": ["bitcoin","ethereum"],
+    "slugs": ["bitcoin", "ethereum"],
     "symbol": "WBTC",
     "type": "native"
   },
@@ -6662,6 +6662,21 @@
     "precision": 18,
     "slugs": [],
     "symbol": "ONYX",
+    "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "Battle for Blockchain currency",
+    "id": {
+      "initia": {
+        "culinaris-2": "evm/09d1a05C3770653c1eF6e1230F6022714d4b41e8"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/culinaris/images/BFB.svg",
+    "name": "Battle for Blockchain currency",
+    "precision": 18,
+    "slugs": [],
+    "symbol": "BFB",
     "type": "native"
   },
   {
