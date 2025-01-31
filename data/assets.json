@@ -6684,7 +6684,7 @@
     "description": "Fake ZAAR Token",
     "id": {
       "initia": {
-        "zaar-testnet-1": "evm/48e68Bed35e199927FF94ECDC34A125C7bfc87e8"
+        "zaar-testnet-1": "evm/0x48e68Bed35e199927FF94ECDC34A125C7bfc87e8"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/zaar/images/ZAAR.svg",
