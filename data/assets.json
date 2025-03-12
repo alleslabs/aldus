@@ -6711,5 +6711,20 @@
     "slugs": ["bitcoin"],
     "symbol": "ckBTC",
     "type": "native"
+  },
+  {
+    "coingecko": "",
+    "description": "The native staking and governance token of AtomOne",
+    "id": {
+      "osmosis": {
+        "osmosis-1": "ibc/BC26A7A805ECD6822719472BCB7842A48EF09DF206182F8F259B2593EB5D23FB"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/atomone/images/atomone.svg",
+    "name": "AtomOne",
+    "precision": 6,
+    "slugs": ["atomone"],
+    "symbol": "ATONE",
+    "type": "native"
   }
 ]
