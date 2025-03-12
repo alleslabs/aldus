@@ -3836,7 +3836,8 @@
         "minimove-2": "l2/926dab95dc14918344374867b8576adee2c6cfca69b968fdb08c5280390cd1a7",
         "miniwasm-2": "l2/1a518a264b58213e41fe36d0453b345c23f5f228f8ab9789ffa5763031a183ae",
         "landlord-2": "l2/1666ede2bf1985307a86de36a6b78411cbf1edeffc2ac569e6a7b2f8753db4bb",
-        "rehearsal-1": "uinit"
+        "rehearsal-1": "uinit",
+        "interwoven-1": "uinit"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.png",
