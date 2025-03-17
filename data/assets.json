@@ -3569,6 +3569,9 @@
       },
       "sei": {
         "pacific-1": "ibc/CA6FBFAF399474A06263E10D0CE5AEBBE15189D6D4B2DD9ADE61007E68EB9DB0"
+      },
+      "neutron": {
+        "neutron-1": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/noble/images/USDCoin.svg",
