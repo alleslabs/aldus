@@ -6729,5 +6729,44 @@
     "slugs": ["bitcoin"],
     "symbol": "cbBTC.axl",
     "type": "native"
+  },
+  {
+    "coingecko": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+    "description": "Lend, borrow, trade perps, and earn on the galaxy's most powerful credit protocol or enter the Fields of Mars for advanced DeFi strategies.",
+    "id": {
+      "neutron": {
+        "neutron-1": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/B67DF59507B3755EEDE0866C449445BD54B4DA82CCEBA89D775E53DC35664255"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/mars-token.svg",
+    "name": "Mars Protocol",
+    "precision": 6,
+    "slugs": ["mars-protocol"],
+    "symbol": "MARS",
+    "type": "native"
+  },
+  {
+    "coingecko": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
+    "description": "Lend, borrow, trade perps, and earn on the galaxy's most powerful credit protocol or enter the Fields of Mars for advanced DeFi strategies.",
+    "id": {
+      "neutron": {
+        "neutron-1": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A"
+      },
+      "osmosis": {
+        "osmosis-1": "ibc/9598CDEB7C6DB7FC21E746C8E0250B30CD5154F39CA111A9D4948A4362F638BD"
+      },
+      "mars": {
+        "mars-1": "umars"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/mars/images/mars-token-ibc.svg",
+    "name": "Mars Protocol Pre-Migration",
+    "precision": 6,
+    "slugs": ["mars-protocol"],
+    "symbol": "MARS.old",
+    "type": "native"
   }
 ]
