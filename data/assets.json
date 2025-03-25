@@ -3843,7 +3843,7 @@
         "interwoven-1": "uinit"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.png",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
     "name": "Initia",
     "precision": 6,
     "slugs": ["initia"],
