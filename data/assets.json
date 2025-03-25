@@ -3203,7 +3203,7 @@
         "osmosis-1": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC5"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/ETH.png",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/ETH.png",
     "name": "Ethereum",
     "precision": 6,
     "slugs": ["ethereum"],
@@ -3553,7 +3553,7 @@
         "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/USDC.png",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/USDC.png",
     "name": "USD Coin",
     "precision": 6,
     "slugs": ["circle"],
@@ -6463,7 +6463,7 @@
         "burrito-1": "ibc/3762BA3774945931505989900A95A73915BD8DD7C50AF32893D00EAE27976561"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/tucana/images/TUCANA.png",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/TUCANA.png",
     "name": "Tucana Native Token",
     "precision": 6,
     "slugs": [],
@@ -6478,7 +6478,7 @@
         "initiation-1": "move/944f8dd8dc49f96c25fea9849f16436dcfa6d564eec802f3ef7f8b3ea85368ff"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/GAS.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/GAS.png",
     "name": "GAS Token",
     "precision": 6,
     "slugs": [],
@@ -6494,7 +6494,7 @@
         "minievm-2": "GAS"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/GAS.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/GAS.png",
     "name": "EVM GAS Token",
     "precision": 18,
     "slugs": [],
@@ -6615,7 +6615,7 @@
         "glados-2.1": "umilk"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/MILK.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/MILK.png",
     "name": "MilkyWay Native Token",
     "precision": 6,
     "slugs": [],
@@ -6631,7 +6631,7 @@
         "glados-2.1": "milkuinit"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/milkyway/images/milkINIT.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/milkINIT.png",
     "name": "INIT Liquid Staking Token",
     "precision": 6,
     "slugs": [],
@@ -6647,7 +6647,7 @@
         "glados-2.1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
     "name": "Initia Native Token (IBC)",
     "precision": 6,
     "slugs": [],
@@ -6677,7 +6677,7 @@
         "culinaris-2": "evm/09d1a05C3770653c1eF6e1230F6022714d4b41e8"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/culinaris/images/BFB.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/BFB.png",
     "name": "Battle for Blockchain currency",
     "precision": 18,
     "slugs": [],
@@ -6693,7 +6693,7 @@
         "zaar-testnet-3": "evm/6ed1637781269560b204c27Cd42d95e057C4BE44"
       }
     },
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/zaar/images/ZAAR.svg",
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/ZAAR.png",
     "name": "Fake Zaar",
     "precision": 18,
     "slugs": [],
