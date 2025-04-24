@@ -3822,7 +3822,7 @@
     "type": "native"
   },
   {
-    "coingecko": "",
+    "coingecko": "initia",
     "description": "The native token of Initia",
     "id": {
       "initia": {
