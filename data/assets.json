@@ -3547,7 +3547,7 @@
   },
   {
     "coingecko": "usd-coin",
-    "description": "Circle's stablecoin",
+    "description": "USDC on Initia",
     "id": {
       "initia": {
         "initiation-1": "uusdc",
@@ -3560,8 +3560,24 @@
         "initiation-2": "uusdc",
         "minievm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "minimove-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "miniwasm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5"
+        "miniwasm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
+        "interwoven-1": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4"
       },
+      "osmosis": {
+        "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/USDC.png",
+    "name": "USD Coin",
+    "precision": 6,
+    "slugs": ["circle"],
+    "symbol": "USDC",
+    "type": "native"
+  },
+  {
+    "coingecko": "usd-coin",
+    "description": "Circle's stablecoin",
+    "id": {
       "osmosis": {
         "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
       }
