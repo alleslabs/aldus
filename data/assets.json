@@ -3213,7 +3213,8 @@
     "description": "ETH token via LayerZero",
     "id": {
       "initia": {
-        "yominet-1": "evm/E1Ff7038eAAAF027031688E1535a055B2Bac2546"
+        "yominet-1": "evm/E1Ff7038eAAAF027031688E1535a055B2Bac2546",
+        "rave-1": "evm/E1Ff7038eAAAF027031688E1535a055B2Bac2546"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/ETH.png",
@@ -3576,7 +3577,10 @@
         "minievm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "minimove-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
         "miniwasm-2": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "interwoven-1": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4"
+        "interwoven-1": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+        "echelon-1": "ibc/AA4E7DF065DC4D4B29B8662A919295F525B19251FB2618C41C0DED3BD1128FEE",
+        "inertia-2": "l2/93c226659c42299f98bdca46cf151a604a70be2e6391a61b67ae2311d556a46a",
+        "intergaze-1": "l2/db147f1ded7ffcc336f5f8d1eff83c4feb95fcfff5c84f1b9c135444b816e48e"
       },
       "osmosis": {
         "osmosis-1": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4"
@@ -3585,6 +3589,22 @@
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/USDC.png",
     "name": "USD Coin",
     "precision": 6,
+    "slugs": ["circle"],
+    "symbol": "USDC",
+    "type": "native"
+  },
+  {
+    "coingecko": "usd-coin",
+    "description": "USDC on Initia",
+    "id": {
+      "initia": {
+        "rave-1": "evm/7A52fbedb032a685Ce10a82E076A21C2AD7849c7",
+        "zaar-mainnet-1": "evm/856aB2c9F35B9187aB3eB0Fcd11DCc6160427e96"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/USDC.png",
+    "name": "USD Coin",
+    "precision": 18,
     "slugs": ["circle"],
     "symbol": "USDC",
     "type": "native"
@@ -3884,7 +3904,13 @@
         "miniwasm-2": "l2/1a518a264b58213e41fe36d0453b345c23f5f228f8ab9789ffa5763031a183ae",
         "landlord-2": "l2/1666ede2bf1985307a86de36a6b78411cbf1edeffc2ac569e6a7b2f8753db4bb",
         "rehearsal-1": "uinit",
-        "interwoven-1": "uinit"
+        "interwoven-1": "uinit",
+        "civitia-1": "l2/2b2d36f666e98b9eecf70d6ec24b882b79f2c8e2af73f54f97b8b670dbb87605",
+        "echelon-1": "l2/23c8396041db74441f4268d0c7e0533177dc3e028a47a8e584318f2d0c46fbe9",
+        "inertia-2": "l2/c88b68df2060ba982a80d3001afcb2d354031f6901df2391acb4f0e2f545c770",
+        "intergaze-1": "l2/fb936ffef4eb4019d82941992cc09ae2788ce7197fcb08cb00c4fe6f5e79184e",
+        "moo-1": "ibc/37A3FB4FED4CA04ED6D9E5DA36C6D27248645F0E22F585576A1488B8A89C5A50",
+        "rena-nuwa-1": "l2/9d3d65bf3329e45ad659f9cbee7d6dc7b6246b001e32131a9b465215eab90562"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
@@ -3899,7 +3925,10 @@
     "description": "The native token of Initia",
     "id": {
       "initia": {
-        "yominet-1": "evm/856aB2c9F35B9187aB3eB0Fcd11DCc6160427e96"
+        "yominet-1": "evm/856aB2c9F35B9187aB3eB0Fcd11DCc6160427e96",
+        "ingnetwork-1": "evm/6ed1637781269560b204c27Cd42d95e057C4BE44",
+        "rave-1": "evm/4f7566f67941283a30cf65de7b9c6fdf2c04FCA1",
+        "zaar-mainnet-1": "evm/7Fb2A94A13186E3C338f0DA9728B4835D86b1a7B"
       }
     },
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
@@ -4573,7 +4602,19 @@
       },
       "osmosis": {
         "osmosis-1": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
-      },
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
+    "name": "Celestia",
+    "precision": 6,
+    "slugs": ["celestia"],
+    "symbol": "TIA",
+    "type": "native"
+  },
+  {
+    "coingecko": "celestia",
+    "description": "The native token of Celestia on Initia via IBC",
+    "id": {
       "initia": {
         "initiation-1": "utia",
         "minimove-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
@@ -4583,10 +4624,12 @@
         "init-ai-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
         "burrito-1": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
         "initiation-2": "utia",
-        "interwoven-1": "ibc/DA9AC2708B4DAA46D24E73241373CDCC850BC6446E8E0906A4062152B649DDD3",
         "minievm-2": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
         "minimove-2": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
-        "miniwasm-2": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA"
+        "miniwasm-2": "ibc/C3E53D20BC7A4CC993B17C7971F8ECD06A433C10B6A96F4C4C3714F0624C56DA",
+        "interwoven-1": "ibc/DA9AC2708B4DAA46D24E73241373CDCC850BC6446E8E0906A4062152B649DDD3",
+        "echelon-1": "ibc/05060A29687D6CA94E2CCD17A9C57AA0F2086DEC0964D677509DC2EBFE324D9E",
+        "inertia-2": "l2/1f79a9647aca83c63014709b7d4a69dd0f017b87ce9adf7417a2e2aa1c49044f"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
@@ -4601,7 +4644,8 @@
     "description": "The native token of Celestia",
     "id": {
       "initia": {
-        "yominet-1": "evm/f0c644D9636b83E7491404d8D826321e44E23d15"
+        "yominet-1": "evm/f0c644D9636b83E7491404d8D826321e44E23d15",
+        "rave-1": "evm/6AB7373EdA7F9CDbab4993124d373eD09d48A545"
       }
     },
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
@@ -4609,6 +4653,36 @@
     "precision": 18,
     "slugs": ["celestia"],
     "symbol": "TIA",
+    "type": "native"
+  },
+  {
+    "coingecko": "milkyway-staked-tia",
+    "description": "MilkyWay's Liquid Staked TIA",
+    "id": {
+      "initia": {
+        "echelon-1": "ibc/405E48C8163CB9AB41A00CAEA19BB8D33D5C5818D3F3CCF3B1967C3A06D17206"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/milkTIA.png",
+    "name": "milkTIA",
+    "precision": 6,
+    "slugs": ["milkyway-staked-tia"],
+    "symbol": "milkTIA",
+    "type": "native"
+  },
+  {
+    "coingecko": "milkyway-staked-tia",
+    "description": "MilkyWay's Liquid Staked TIA",
+    "id": {
+      "initia": {
+        "rave-1": "evm/7Add4070C2530481BC74C667067DcD0BCD56eEd2"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/milkTIA.png",
+    "name": "milkTIA",
+    "precision": 18,
+    "slugs": ["milkyway-staked-tia"],
+    "symbol": "milkTIA",
     "type": "native"
   },
   {
