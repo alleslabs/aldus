@@ -3210,6 +3210,21 @@
   },
   {
     "coingecko": "ethereum",
+    "description": "ETH token via LayerZero",
+    "id": {
+      "initia": {
+        "yominet-1": "evm/E1Ff7038eAAAF027031688E1535a055B2Bac2546"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/ETH.png",
+    "name": "Ethereum",
+    "precision": 18,
+    "slugs": ["ethereum"],
+    "symbol": "ETH",
+    "type": "native"
+  },
+  {
+    "coingecko": "ethereum",
     "description": "Ethereum",
     "id": {
       "osmosis": {
@@ -3875,6 +3890,21 @@
     "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
     "name": "Initia",
     "precision": 6,
+    "slugs": ["initia"],
+    "symbol": "INIT",
+    "type": "native"
+  },
+  {
+    "coingecko": "initia",
+    "description": "The native token of Initia",
+    "id": {
+      "initia": {
+        "yominet-1": "evm/856aB2c9F35B9187aB3eB0Fcd11DCc6160427e96"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/images/INIT.png",
+    "name": "Initia",
+    "precision": 18,
     "slugs": ["initia"],
     "symbol": "INIT",
     "type": "native"
@@ -4562,6 +4592,21 @@
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
     "name": "Celestia",
     "precision": 6,
+    "slugs": ["celestia"],
+    "symbol": "TIA",
+    "type": "native"
+  },
+  {
+    "coingecko": "celestia",
+    "description": "The native token of Celestia",
+    "id": {
+      "initia": {
+        "yominet-1": "evm/f0c644D9636b83E7491404d8D826321e44E23d15"
+      }
+    },
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
+    "name": "Celestia",
+    "precision": 18,
     "slugs": ["celestia"],
     "symbol": "TIA",
     "type": "native"
